@@ -42,11 +42,12 @@ export default function App() {
   }
   function field(name, label) {
     const invalid = errors[name] && (touched[name] || values[name] !== '')
+    const unit = { thickness: 'mm', width: material === 'flat' ? 'inches' : 'feet', length: 'feet', lbs: 'lb/ft', quantity: 'pcs' }[name]
     return <div className="field" key={name}>
       <label htmlFor={name}>{label}</label>
       <div className="input-row">
-        <Input id={name} type="text" inputMode={name === 'quantity' ? 'numeric' : 'decimal'} value={values[name]} placeholder={name === 'quantity' ? '1' : '0.00'} onChange={event => update(name, event.target.value)} onBlur={() => setTouched(previous => ({ ...previous, [name]: true }))} aria-invalid={Boolean(invalid)} aria-describedby={invalid ? `${name}-error` : undefined} autoComplete="off" />
-        {name === 'quantity' && <span className="unit-label">pcs</span>}
+        <Input id={name} type="text" inputMode={name === 'quantity' ? 'numeric' : 'decimal'} value={values[name]} placeholder={name === 'quantity' ? '1' : '0.00'} onChange={event => update(name, event.target.value)} onBlur={() => setTouched(previous => ({ ...previous, [name]: true }))} aria-invalid={Boolean(invalid)} aria-describedby={`${name}-unit${invalid ? ` ${name}-error` : ''}`} autoComplete="off" />
+        <span id={`${name}-unit`} className="unit-label">{unit}</span>
       </div>
       {invalid && <p className="field-error" id={`${name}-error`}>{errors[name]}</p>}
     </div>
@@ -71,7 +72,7 @@ export default function App() {
           </div>
           <p role="status">{copyStatus?.name === itemName ? copyStatus.message : ''}</p>
         </div>
-        <div className="input-tip"><Info size={16} /><p>Enter the values directly. Results update automatically using the formula below.</p></div>
+        <div className="input-tip"><Info size={16} /><p>Enter values in the units shown. If your measurements use different units, convert them manually first. Results update automatically.</p></div>
       </Card>
       <Card className="result-card"><div className="result-heading"><span><Weight size={18} /> Weight estimate</span><span className={`status ${result ? 'ready' : ''}`}>{result ? 'Calculated' : 'Awaiting inputs'}</span></div><div className="total-block" aria-live="polite" aria-atomic="true"><p>TOTAL WEIGHT</p><div className="weight-value">{result ? formatWeight(result.total) : '—'} <span>kg</span></div><p className="total-caption">{result ? `For ${result.quantity.toLocaleString()} ${result.quantity === 1 ? 'piece' : 'pieces'} of ${spec.name.toLowerCase()}` : 'Enter valid details to see your estimate.'}</p></div><div className="result-details"><div><span>Weight per piece</span><strong>{result ? `${formatWeight(result.perPiece)} kg` : '—'}</strong></div><div><span>Quantity</span><strong>{result ? `${result.quantity.toLocaleString()} pcs` : '—'}</strong></div></div>{errors.result && <p role="alert" className="field-error">{errors.result}</p>}<div className="result-footer"><span className="small-dot" /> Calculated in your browser <ArrowUpRight size={14} /></div></Card></div>
       <Card className="formula-card"><div><span className="formula-icon"><Calculator size={20} /></span><div><h2>The calculation behind the number</h2><p>{material === 'beams' ? '6 meters uses factor 20; 12 meters uses factor 40.' : 'Entered values are used directly in the formula.'}</p></div></div><code>{spec.formula}</code></Card>
