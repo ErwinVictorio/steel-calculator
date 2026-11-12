@@ -66,3 +66,13 @@ No USN, item-code lookup or catalogue records are included in the calculator. Th
 Reconciliation is against saved workbook results, not a fresh full Excel recalculation. The workbook contains broken inventory references and lookup errors. Historical workbook audit files remain in docs, but no catalogue data is used by the application. The production-system width label discussed in the screenshot has not been changed.
 
 See docs/EXCEL_CALCULATOR_UPDATE_PLAN.md and docs/IMPLEMENTATION_REPORT.md.
+
+## Paste measurement
+
+Open **Paste measurement from a message**, paste one item per line, review the detected dimensions and computed weight, then select **Apply line N**. Nothing changes in the calculator until Apply is selected. Applying switches to the detected material and sets quantity to one; adjust quantity afterwards. Existing computation-list rows remain unchanged.
+
+Example: `MS PLATE 2mm x 4' x 7.2m = 137.81kls` converts length to 23.62204724409449 feet and calculates 137.82 kg. The message weight is only a reference; the comparison is against one piece. Multiple lines are previewed independently. Greeting and other non-measurement lines are skipped, with a count shown.
+
+Supported materials: MS Plate, Checkered/Chequered Plate, Flat Bar, Base Plate, Triangle/Triangular Base Plate and Round/Circular Plate. Each dimension needs an explicit mm/inches/feet/meters unit; apostrophes and quotation marks are accepted for feet/inches. Use decimal numbers. Missing units, fractions, quantities embedded in the size and unsupported material formats require manual entry. For round plates the order is thickness then diameter; other supported formats use thickness, width, length. No item-code lookup or message-weight override is performed.
+
+The paste parser is local and deterministic. No message text is sent to a service or stored across reloads. The feature adds three unit tests and one browser workflow test; total current coverage is 26 unit tests and 24 browser tests.

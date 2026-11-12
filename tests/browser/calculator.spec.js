@@ -141,3 +141,59 @@ test('converter applies full precision and list snapshots can be edited, copied,
   await expect(page.getByText('Catalogue Item', { exact: true })).toHaveCount(0)
   await expect(page.getByText(/USN/)).toHaveCount(0)
 })
+
+test('paste message previews mixed units and applies only the selected line', async ({ page }) => {
+  await page.goto('/')
+  await fill(page, { thickness: '5.5', width: '4', length: '12', quantity: '3' })
+  await page.getByText('Paste measurement from a message', { exact: true }).click()
+  await page.getByLabel('Paste one item per line').fill("morning po\nMS PLATE 2.0mm x 4' x 7.2m=137.81kls\nMS PLATE 1.9mm x 4' x 7.2m=130.92kls\nusn 1A108")
+  await expect(page.getByRole('article', { name: 'Preview line 2' })).toContainText('137.82 kg / piece')
+  await expect(page.getByRole('article', { name: 'Preview line 2' })).toContainText('+0.01 kg')
+  await expect(page.locator('#length')).toHaveValue('12')
+  await expect(page.locator('#quantity')).toHaveValue('3')
+  await page.getByRole('button', { name: 'Apply line 3', exact: true }).click()
+  await expect(page.locator('#thickness')).toHaveValue('1.9')
+  await expect(page.locator('#width')).toHaveValue('4')
+  expect(Number(await page.locator('#length').inputValue())).toBeCloseTo(23.62204724409449, 12)
+  await expect(page.locator('#quantity')).toHaveValue('1')
+  await expect(page.locator('.weight-value')).toHaveText('130.93 kg')
+  await page.getByRole('button', { name: 'Add to list', exact: true }).click()
+  await page.getByLabel('Paste one item per line').fill('FLAT BAR 8mm x 3.34in x 6m')
+  await page.getByRole('button', { name: 'Apply line 1', exact: true }).click()
+  await expect(page.locator('.weight-value')).toHaveText('32.01 kg')
+  await expect(page.locator('#length-unit')).toHaveText('meters')
+  await expect(page.getByLabel('Item Name', { exact: true })).toHaveValue('FLAT BAR 8MM X 3.34IN X 6M')
+  await expect(page.locator('tbody tr')).toHaveCount(1)
+  await page.getByLabel('Paste one item per line').fill('MS PLATE 2 x 4ft x 7.2m')
+  await expect(page.locator('.paste-preview .field-error')).toBeVisible()
+  await expect(page.getByRole('button', { name: /^Apply line/ })).toHaveCount(0)
+  await expect(page.locator('.weight-value')).toHaveText('32.01 kg')
+  await page.setViewportSize({ width: 360, height: 1000 })
+  await page.getByLabel('Paste one item per line').fill("MS PLATE 2mm x 4' x 7.2m=137.81kls")
+  expect(await page.evaluate(() => document.documentElement.scrollWidth <= window.innerWidth)).toBe(true)
+  await page.screenshot({ path: 'test-results/paste-measurement-mobile.png', fullPage: true })
+})
+
+test('purlins verified width, manual fallback and profile changes', async ({ page }) => {
+  await page.goto('/');
+  await choose(page, 'Bars & sections', 'Purlins');
+  await fill(page, { thickness: '1.9', height: '200', flange: '75', length: '7.2' });
+  await expect(page.locator('#developedWidth')).toHaveValue('375');
+  await expect(page.locator('#developedWidth')).toHaveAttribute('readonly', '');
+  await expect(page.locator('.weight-value')).toHaveText('40.32 kg');
+  await expect(page.getByLabel('Item Name', { exact: true })).toHaveValue('Z-PURLIN 1.9MM X 200MM X 75MM X 7.2M');
+  await page.locator('#thickness').fill('2');
+  await expect(page.locator('#developedWidth')).toHaveValue('');
+  await expect(page.locator('.weight-value')).toHaveText('\u2014 kg');
+  await page.locator('#developedWidth').fill('375');
+  await expect(page.locator('.weight-value')).toHaveText('42.44 kg');
+  await page.locator('#quantity').fill('2');
+  await expect(page.locator('.weight-value')).toHaveText('84.89 kg');
+  await page.locator('#purlinType').selectOption('C');
+  await expect(page.locator('#developedWidth')).toHaveValue('');
+  await expect(page.locator('.weight-value')).toHaveText('\u2014 kg');
+  await page.locator('#developedWidth').fill('380');
+  await expect(page.locator('.weight-value')).toHaveText('86.02 kg');
+  await page.getByRole('button', { name: 'Reset', exact: true }).click();
+  await expect(page.locator('#developedWidth')).toHaveValue('');
+});

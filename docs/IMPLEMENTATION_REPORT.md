@@ -47,3 +47,9 @@ CR Shafting USN 1L1610013 remains disabled. LP!G20 stores 378 kg for 10 pieces (
 ## Limits
 
 Reconciliation uses saved workbook values, not a new full-workbook Excel recalculation. Existing broken inventory references remain untouched. Clipboard browser tests mock success/denial; real clipboard permissions depend on browser context and the UI supports manual copy. Production-system item data and its questionable width label were not modified. Catalogue coverage is limited to the two reviewed specifications; the full extracted formula inventory remains in docs for subsequent catalogue review.
+
+## Purlins - DONE (2026-11-12)
+
+Added Purlins under Bars & sections with C/Z type, thickness, height, flange width, length in meters and quantity. RF rows 304-305 verify developed width 375 mm for Z 1.9 x 200 x 75 mm. Calculation is thickness x developed width x length x 0.00786; 7.2 m gives 40.3218 kg per piece (40.32 displayed). Other profiles require a confirmed manual developed width. Profile edits clear manual width; length and quantity edits retain it. Auto width is read-only. Item names use section dimensions, not developed width. No USN lookup is introduced. Purlins are entered through the material form; the existing paste parser's supported materials are unchanged.
+
+Validation: added engine and browser coverage for auto width, manual fallback, profile changes, quantities, names and reset. Existing 817 workbook regression samples remain covered.

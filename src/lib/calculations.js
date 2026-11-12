@@ -1,4 +1,5 @@
-﻿import { MATERIALS } from '../data/formulas.js'
+﻿import { verifiedPurlinWidth } from '../data/purlin-profiles.js'
+import { MATERIALS } from '../data/formulas.js'
 
 export function positiveNumber(value) {
   if (typeof value !== 'string' && typeof value !== 'number') return null
@@ -18,6 +19,7 @@ const rules = {
   linear: n => n.rating * n.length,
   wideImperial: n => n.rating * (n.length * 3.28) / 2.20462,
   angle: n => ((n.width1 * n.width2) - (n.width1 - n.thickness) * (n.width2 - n.thickness)) * n.length * 7.85 / 1000,
+  purlins: n => n.thickness * n.developedWidth * n.length * 0.00786,
   roll: n => n.thickness * n.width * n.length * 0.00786,
   pipe: n => 3.1416 * n.thickness * (n.diameter - n.thickness) * n.length * 0.00786,
   tubular: n => 2 * n.thickness * (n.width1 + n.width2 - 2 * n.thickness) * n.length * 0.00786,
@@ -29,7 +31,7 @@ export function calculateWeight(material, values = {}) {
   if (!spec) return { errors: { material: 'Choose a material.' }, result: null }
   const errors = {}, numbers = {}
   for (const field of spec.fields) {
-    const value = values[field.key]
+    const value = material === 'purlins' && field.key === 'developedWidth' ? verifiedPurlinWidth(values) ?? values[field.key] : values[field.key]
     if (field.kind === 'text') {
       if (!field.optional && (typeof value !== 'string' || !value.trim())) errors[field.key] = 'Enter an item description.'
     } else if (field.kind === 'select') {

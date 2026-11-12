@@ -94,3 +94,66 @@ test('converter, full precision totals, CSV escaping and invalid units', async (
   assert.ok(summaryCsv(rows).includes('"A, B"'))
   assert.equal(calculateWeight('catalogue', {}).result, null)
 })
+
+test('pasted message detects both plate lines, ignores chat text and compares supplied weights', async () => {
+  const { parseMeasurementMessage } = await import('../src/lib/measurement-parser.js')
+  const preview = parseMeasurementMessage("morning po\nMS PLATE 2.0mm x 4' x 7.2m=137.81kls\nMS PLATE 1.9mm x 4' x 7.2m=130.92kls\nusn 1A108\nty po")
+  assert.equal(preview.ignored, 3)
+  assert.equal(preview.items.length, 2)
+  const [first, second] = preview.items
+  assert.equal(first.values.width, '4')
+  near(Number(first.values.length), 23.62204724409449)
+  assert.equal(first.values.quantity, '1')
+  assert.equal(formatWeight(first.result.total), '137.82')
+  assert.equal(formatWeight(second.result.total), '130.93')
+  assert.equal(first.statedWeight, 137.81)
+  near(first.difference, 0.010472440944880645)
+  assert.equal(formatWeight(first.difference), '0.01')
+})
+test('paste parser supports explicit units and plate shapes without changing formula precision', async () => {
+  const { parseMeasurementMessage } = await import('../src/lib/measurement-parser.js')
+  const cases = [
+    ['M.S. PLATE 2mm × 4′ × 7.2m', 'plate', 137.82047244094488],
+    ['CHECKERED PLATE 2mm x 4ft x 8ft', 'checkered', 46.6752],
+    ['flat bar 8 millimeters x 3.34 inches x 6 meters', 'flat', 32.00692608],
+    ['BASE PLATE 12mm x 0.3m x 300mm', 'base', 8.478129456258912],
+    ['TRIANGULAR BASE PLATE 10mm x 150mm x 200mm', 'triangle', 1.17751798003596],
+    ['ROUND PLATE 3mm x 150mm', 'round', 0.416152697625],
+  ]
+  for (const [text, material, expected] of cases) {
+    const row = parseMeasurementMessage(text).items[0]
+    assert.equal(row.error, undefined, text)
+    assert.equal(row.material, material)
+    near(row.result.total, expected)
+    assert.equal(row.statedWeight, null)
+  }
+})
+test('paste rejects ambiguous dimensions, unknown materials, quantities and invalid weights', async () => {
+  const { parseMeasurementMessage } = await import('../src/lib/measurement-parser.js')
+  for (const text of [
+    'MS PLATE 2 x 4ft x 7.2m', 'MS PLATE -2mm x 4ft x 7.2m',
+    'MS PLATE 0mm x 4ft x 7.2m', 'MS PLATE 2mm x 4ft',
+    'MS PLATE 2mm x 4ft x 7.2m x 2pcs', 'MS PLATE 2mm x 4ft x 7.2m = 137',
+    'MS PLATE 2mm x 4ft x 7.2m = 137kg total', 'MS PLATE 2mm x 4ft x 7.2m = -1kg',
+    'MS PLATE 1/4in x 4ft x 7.2m', 'PIPE 4in x 6m', 'MS PLATE 2cm x 4ft x 7.2m',
+  ]) {
+    const row = parseMeasurementMessage(text).items[0]
+    assert.ok(row?.error, text)
+    assert.equal(row.values, undefined)
+  }
+  assert.ok(parseMeasurementMessage('x'.repeat(20001)).error)
+  assert.equal(parseMeasurementMessage('').items.length, 0)
+})
+
+test('purlins use verified developed width and require manual width for other profiles', () => {
+  const v = { ...initialValues('purlins'), thickness: '1.9', height: '200', flange: '75', length: '7.2', quantity: '3' };
+  near(calculateWeight('purlins', v).result.perPiece, 40.3218);
+  near(calculateWeight('purlins', v).result.total, 120.9654);
+  assert.equal(generateItemName('purlins', v), 'Z-PURLIN 1.9MM X 200MM X 75MM X 7.2M');
+  near(calculateWeight('purlins', { ...v, developedWidth: '999' }).result.perPiece, 40.3218);
+  for (const change of [{ thickness: '2' }, { purlinType: 'C' }, { height: '201' }, { flange: '76' }]) {
+    assert.equal(calculateWeight('purlins', { ...v, ...change }).result, null);
+  }
+  near(calculateWeight('purlins', { ...v, thickness: '2', developedWidth: '375' }).result.perPiece, 42.444);
+  assert.equal(calculateWeight('purlins', { ...v, thickness: '2', developedWidth: '-375' }).result, null);
+});
