@@ -10,7 +10,7 @@ export function PasteMeasurement({ onApply }) {
   return <details className="paste-measurement"><summary>Paste measurement from a message</summary>
     <label htmlFor="measurement-message">Paste one item per line</label>
     <textarea id="measurement-message" rows={4} maxLength={20000} placeholder={"MS PLATE 2mm x 4' x 7.2m = 137.81kls"} value={text} onChange={event => { setText(event.target.value); setNotice('') }} />
-    <p className="paste-help">Supports MS Plate, Checkered Plate, Flat Bar, Base Plate, Triangle Plate and Round Plate. Include a unit for each dimension. Use decimals; for round plates, enter thickness × diameter.</p>
+    <p className="paste-help">Supports MS Plate, GI Sheet, Checkered Plate, Flat Bar, Base Plate, Triangle Plate and Round Plate. Include a unit for each dimension. Use decimals; for round plates, enter thickness × diameter. A weight after = or - is treated as kg per piece when no weight unit is written.</p>
     {preview.error && <p className="field-error">{preview.error}</p>}
     {text.trim() && !preview.items.length && !preview.error && <p className="field-error">No measurements found. Start a line with a supported material name.</p>}
     {preview.ignored > 0 && <p className="paste-help">Skipped {preview.ignored} other message {preview.ignored === 1 ? 'line' : 'lines'}.</p>}

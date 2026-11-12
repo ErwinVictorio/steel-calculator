@@ -3,6 +3,7 @@ import { calculateWeight } from './calculations.js'
 import { convertLength, decimalInput } from './computation-tools.js'
 
 const aliases = [
+  [/^GI\s+SHEET\b/i, 'plate', ['thickness', 'width', 'length'], 'GI SHEET'],
   [/^(?:M\.?\s*S\.?\s*PLATE)\b/i, 'plate', ['thickness', 'width', 'length']],
   [/^(?:CHECKERED|CHEQUERED)\s+PLATE\b/i, 'checkered', ['thickness', 'width', 'length']],
   [/^FLAT\s+BAR\b/i, 'flat', ['thickness', 'width', 'length']],
@@ -24,13 +25,13 @@ export function parseMeasurementMessage(text) {
       else ignored++
       continue
     }
-    const [regex, material, keys] = match
+    const [regex, material, keys, plateType] = match
     const item = { line: index + 1, original, material }
     let dimensions = line.replace(regex, '').trim()
     let statedWeight = null
-    if (dimensions.includes('=')) {
-      const parts = dimensions.split('=')
-      const weight = parts.length === 2 && parts[1].trim().match(/^(\d+(?:\.\d+)?)\s*(?:kg|kgs|kls|kilos|kilograms?)(?:\s*(?:\/\s*(?:pc|piece)|per\s+piece))?\s*$/i)
+    if (/[=-]/.test(dimensions)) {
+      const parts = dimensions.split(/[=-]/)
+      const weight = parts.length === 2 && parts[1].trim().match(/^(\d+(?:\.\d+)?)\s*(?:(?:kg|kgs|kls|kilos|kilograms?)(?:\s*(?:\/\s*(?:pc|piece)|per\s+piece))?)?\s*$/i)
       if (!weight || !Number.isFinite(Number(weight[1])) || Number(weight[1]) <= 0) {
         items.push({ ...item, error: 'Use “= 137.81 kg” for the supplied weight. Enter quantities or other notes separately.' }); continue
       }
@@ -42,6 +43,7 @@ export function parseMeasurementMessage(text) {
       items.push({ ...item, error: `Expected ${keys.length} dimensions in this order: ${keys.join(', ')}. Put one item on each line.` }); continue
     }
     const values = initialValues(material)
+    if (plateType) values.plateType = plateType
     const conversions = []
     let error = ''
     for (let i = 0; i < keys.length; i++) {

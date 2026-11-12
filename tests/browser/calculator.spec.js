@@ -197,3 +197,18 @@ test('purlins verified width, manual fallback and profile changes', async ({ pag
   await page.getByRole('button', { name: 'Reset', exact: true }).click();
   await expect(page.locator('#developedWidth')).toHaveValue('');
 });
+
+test('flat bar and GI sheet supplied message formats apply', async ({ page }) => {
+ await page.goto('/');
+ await page.getByText('Paste measurement from a message', { exact: true }).click();
+ await page.getByLabel('Paste one item per line').fill("FLAT BAR 20MM X 70MM X 6M - 66.88\nGI SHEET 2.5MM X 4' X 9.57' = 69.79");
+ await expect(page.getByRole('article', { name: 'Preview line 1' })).toContainText('66.02 kg / piece');
+ await expect(page.getByRole('article', { name: 'Preview line 1' })).toContainText('66.88 kg');
+ await page.getByRole('button', { name: 'Apply line 1', exact: true }).click();
+ expect(Number(await page.locator('#width').inputValue())).toBeCloseTo(70 / 25.4, 12);
+ await expect(page.locator('.weight-value')).toHaveText('66.02 kg');
+ await page.getByRole('button', { name: 'Apply line 2', exact: true }).click();
+ await expect(page.locator('#plateType')).toHaveValue('GI SHEET');
+ await expect(page.locator('.weight-value')).toHaveText('69.79 kg');
+ await expect(page.getByLabel('Item Name', { exact: true })).toHaveValue('GI SHEET 2.5MM X 4FT X 9.57FT');
+});

@@ -133,7 +133,7 @@ test('paste rejects ambiguous dimensions, unknown materials, quantities and inva
   for (const text of [
     'MS PLATE 2 x 4ft x 7.2m', 'MS PLATE -2mm x 4ft x 7.2m',
     'MS PLATE 0mm x 4ft x 7.2m', 'MS PLATE 2mm x 4ft',
-    'MS PLATE 2mm x 4ft x 7.2m x 2pcs', 'MS PLATE 2mm x 4ft x 7.2m = 137',
+    'MS PLATE 2mm x 4ft x 7.2m x 2pcs', 'MS PLATE 2mm x 4ft x 7.2m = 137lb',
     'MS PLATE 2mm x 4ft x 7.2m = 137kg total', 'MS PLATE 2mm x 4ft x 7.2m = -1kg',
     'MS PLATE 1/4in x 4ft x 7.2m', 'PIPE 4in x 6m', 'MS PLATE 2cm x 4ft x 7.2m',
   ]) {
@@ -156,4 +156,18 @@ test('purlins use verified developed width and require manual width for other pr
   }
   near(calculateWeight('purlins', { ...v, thickness: '2', developedWidth: '375' }).result.perPiece, 42.444);
   assert.equal(calculateWeight('purlins', { ...v, thickness: '2', developedWidth: '-375' }).result, null);
+});
+
+test('flat bar and GI sheet message formats preserve Excel weights and grade', async () => {
+ const { parseMeasurementMessage } = await import('../src/lib/measurement-parser.js');
+ const { items } = parseMeasurementMessage("FLAT BAR 20MM X 70MM X 6M - 66.88\nGI SHEET 2.5MM X 4' X 9.57' = 69.79");
+ assert.equal(items.length, 2);
+ assert.equal(items[0].error, undefined);
+ near(Number(items[0].values.width), 70 / 25.4);
+ near(items[0].result.perPiece, 66.024);
+ assert.equal(items[0].statedWeight, 66.88);
+ assert.equal(items[1].values.plateType, 'GI SHEET');
+ near(items[1].result.perPiece, 69.79401);
+ assert.equal(items[1].statedWeight, 69.79);
+ assert.equal(generateItemName('plate', items[1].values), 'GI SHEET 2.5MM X 4FT X 9.57FT');
 });
