@@ -1,0 +1,599 @@
+{
+  "sha256": "661468d1856d9ef42c1e77c233c6447b8a29a58dffe5630bfe1b90decdb15f3c",
+  "total": 279093,
+  "expanded": 123264,
+  "unresolved": 0,
+  "errors": {
+    "#REF!": 13387,
+    "#VALUE!": 2,
+    "#N/A": 1904
+  },
+  "sheets": [
+    {
+      "sheet": "INVENTORY",
+      "formulas": 56,
+      "patterns": 36,
+      "errors": 0
+    },
+    {
+      "sheet": "DR SUMMARY",
+      "formulas": 896,
+      "patterns": 819,
+      "errors": 0
+    },
+    {
+      "sheet": "PP",
+      "formulas": 17318,
+      "patterns": 179,
+      "errors": 796
+    },
+    {
+      "sheet": "CB",
+      "formulas": 3832,
+      "patterns": 177,
+      "errors": 180
+    },
+    {
+      "sheet": "AB",
+      "formulas": 8471,
+      "patterns": 171,
+      "errors": 408
+    },
+    {
+      "sheet": "WF",
+      "formulas": 45061,
+      "patterns": 251,
+      "errors": 3421
+    },
+    {
+      "sheet": "RF",
+      "formulas": 39015,
+      "patterns": 171,
+      "errors": 1880
+    },
+    {
+      "sheet": "PL",
+      "formulas": 85873,
+      "patterns": 179,
+      "errors": 3948
+    },
+    {
+      "sheet": "SP",
+      "formulas": 1223,
+      "patterns": 179,
+      "errors": 56
+    },
+    {
+      "sheet": "FB",
+      "formulas": 46115,
+      "patterns": 179,
+      "errors": 2120
+    },
+    {
+      "sheet": "TB",
+      "formulas": 11791,
+      "patterns": 171,
+      "errors": 568
+    },
+    {
+      "sheet": "CL",
+      "formulas": 8355,
+      "patterns": 78,
+      "errors": 4
+    },
+    {
+      "sheet": "TJCOIL",
+      "formulas": 3502,
+      "patterns": 76,
+      "errors": 4
+    },
+    {
+      "sheet": "IMP",
+      "formulas": 432,
+      "patterns": 2,
+      "errors": 431
+    },
+    {
+      "sheet": "RR",
+      "formulas": 134,
+      "patterns": 1,
+      "errors": 134
+    },
+    {
+      "sheet": "LP",
+      "formulas": 5581,
+      "patterns": 237,
+      "errors": 4
+    },
+    {
+      "sheet": "RS",
+      "formulas": 72,
+      "patterns": 1,
+      "errors": 72
+    },
+    {
+      "sheet": "DR",
+      "formulas": 0,
+      "patterns": 0,
+      "errors": 0
+    },
+    {
+      "sheet": "JOIN",
+      "formulas": 1269,
+      "patterns": 2,
+      "errors": 1177
+    },
+    {
+      "sheet": "JOOUT",
+      "formulas": 95,
+      "patterns": 2,
+      "errors": 90
+    },
+    {
+      "sheet": "WFJO",
+      "formulas": 2,
+      "patterns": 2,
+      "errors": 0
+    },
+    {
+      "sheet": "USN",
+      "formulas": 0,
+      "patterns": 0,
+      "errors": 0
+    }
+  ],
+  "definedNames": [
+    {
+      "value": "AB!$A$7:$CQ$108",
+      "name": "_xlnm._FilterDatabase"
+    },
+    {
+      "value": "CB!$A$7:$CW$51",
+      "name": "_xlnm._FilterDatabase"
+    },
+    {
+      "value": "CL!$A$9:$CC$2079",
+      "name": "_xlnm._FilterDatabase"
+    },
+    {
+      "value": "DR!$A$1:$K$1586",
+      "name": "_xlnm._FilterDatabase"
+    },
+    {
+      "value": "FB!$A$7:$CS$536",
+      "name": "_xlnm._FilterDatabase"
+    },
+    {
+      "value": "IMP!$A$1:$H$1",
+      "name": "_xlnm._FilterDatabase"
+    },
+    {
+      "value": "JOIN!$A$1:$G$1269",
+      "name": "_xlnm._FilterDatabase"
+    },
+    {
+      "value": "JOOUT!$A$1:$J$66",
+      "name": "_xlnm._FilterDatabase"
+    },
+    {
+      "value": "LP!$A$5:$CE$1143",
+      "name": "_xlnm._FilterDatabase"
+    },
+    {
+      "value": "PL!$A$7:$CV$993",
+      "name": "_xlnm._FilterDatabase"
+    },
+    {
+      "value": "PP!$A$7:$CW$205",
+      "name": "_xlnm._FilterDatabase"
+    },
+    {
+      "value": "RF!$A$7:$CP$476",
+      "name": "_xlnm._FilterDatabase"
+    },
+    {
+      "value": "RR!$A$1:$I$42",
+      "name": "_xlnm._FilterDatabase"
+    },
+    {
+      "value": "SP!$A$7:$CW$20",
+      "name": "_xlnm._FilterDatabase"
+    },
+    {
+      "value": "TB!$A$7:$CQ$149",
+      "name": "_xlnm._FilterDatabase"
+    },
+    {
+      "value": "TJCOIL!$A$8:$CB$997",
+      "name": "_xlnm._FilterDatabase"
+    },
+    {
+      "value": "USN!$A$1:$WXS$16533",
+      "name": "_xlnm._FilterDatabase"
+    },
+    {
+      "value": "WF!$A$7:$DG$490",
+      "name": "_xlnm._FilterDatabase"
+    },
+    {
+      "value": "WFJO!$A$2:$N$408",
+      "name": "_xlnm._FilterDatabase"
+    },
+    {
+      "value": "#REF!",
+      "name": "CATEGORY"
+    },
+    {
+      "value": "#REF!",
+      "name": "CATEGORY"
+    },
+    {
+      "value": "#REF!",
+      "name": "CATEGORY"
+    },
+    {
+      "value": "#REF!",
+      "name": "COIL_NUMBER"
+    },
+    {
+      "value": "#REF!",
+      "name": "COIL_NUMBER"
+    },
+    {
+      "value": "#REF!",
+      "name": "COIL_NUMBER"
+    },
+    {
+      "value": "#REF!",
+      "name": "Column1"
+    },
+    {
+      "value": "#REF!",
+      "name": "Column1"
+    },
+    {
+      "value": "#REF!",
+      "name": "Column1"
+    },
+    {
+      "value": "#REF!",
+      "name": "Column10"
+    },
+    {
+      "value": "#REF!",
+      "name": "Column10"
+    },
+    {
+      "value": "#REF!",
+      "name": "Column10"
+    },
+    {
+      "value": "#REF!",
+      "name": "Column11"
+    },
+    {
+      "value": "#REF!",
+      "name": "Column11"
+    },
+    {
+      "value": "#REF!",
+      "name": "Column11"
+    },
+    {
+      "value": "#REF!",
+      "name": "Column12"
+    },
+    {
+      "value": "#REF!",
+      "name": "Column12"
+    },
+    {
+      "value": "#REF!",
+      "name": "Column12"
+    },
+    {
+      "value": "#REF!",
+      "name": "Column13"
+    },
+    {
+      "value": "#REF!",
+      "name": "Column13"
+    },
+    {
+      "value": "#REF!",
+      "name": "Column13"
+    },
+    {
+      "value": "#REF!",
+      "name": "Column14"
+    },
+    {
+      "value": "#REF!",
+      "name": "Column14"
+    },
+    {
+      "value": "#REF!",
+      "name": "Column14"
+    },
+    {
+      "value": "#REF!",
+      "name": "Column15"
+    },
+    {
+      "value": "#REF!",
+      "name": "Column15"
+    },
+    {
+      "value": "#REF!",
+      "name": "Column15"
+    },
+    {
+      "value": "#REF!",
+      "name": "Column16"
+    },
+    {
+      "value": "#REF!",
+      "name": "Column16"
+    },
+    {
+      "value": "#REF!",
+      "name": "Column16"
+    },
+    {
+      "value": "#REF!",
+      "name": "Column17"
+    },
+    {
+      "value": "#REF!",
+      "name": "Column17"
+    },
+    {
+      "value": "#REF!",
+      "name": "Column17"
+    },
+    {
+      "value": "#REF!",
+      "name": "Column2"
+    },
+    {
+      "value": "#REF!",
+      "name": "Column2"
+    },
+    {
+      "value": "#REF!",
+      "name": "Column2"
+    },
+    {
+      "value": "#REF!",
+      "name": "Column3"
+    },
+    {
+      "value": "#REF!",
+      "name": "Column3"
+    },
+    {
+      "value": "#REF!",
+      "name": "Column3"
+    },
+    {
+      "value": "#REF!",
+      "name": "Column4"
+    },
+    {
+      "value": "#REF!",
+      "name": "Column4"
+    },
+    {
+      "value": "#REF!",
+      "name": "Column4"
+    },
+    {
+      "value": "#REF!",
+      "name": "Column5"
+    },
+    {
+      "value": "#REF!",
+      "name": "Column5"
+    },
+    {
+      "value": "#REF!",
+      "name": "Column5"
+    },
+    {
+      "value": "#REF!",
+      "name": "Column6"
+    },
+    {
+      "value": "#REF!",
+      "name": "Column6"
+    },
+    {
+      "value": "#REF!",
+      "name": "Column6"
+    },
+    {
+      "value": "#REF!",
+      "name": "Column7"
+    },
+    {
+      "value": "#REF!",
+      "name": "Column7"
+    },
+    {
+      "value": "#REF!",
+      "name": "Column7"
+    },
+    {
+      "value": "#REF!",
+      "name": "Column8"
+    },
+    {
+      "value": "#REF!",
+      "name": "Column8"
+    },
+    {
+      "value": "#REF!",
+      "name": "Column8"
+    },
+    {
+      "value": "#REF!",
+      "name": "Column9"
+    },
+    {
+      "value": "#REF!",
+      "name": "Column9"
+    },
+    {
+      "value": "#REF!",
+      "name": "Column9"
+    },
+    {
+      "value": "#REF!",
+      "name": "GROSS_WEIGHT"
+    },
+    {
+      "value": "#REF!",
+      "name": "GROSS_WEIGHT"
+    },
+    {
+      "value": "#REF!",
+      "name": "GROSS_WEIGHT"
+    },
+    {
+      "value": "#REF!",
+      "name": "INDENTOR"
+    },
+    {
+      "value": "#REF!",
+      "name": "INDENTOR"
+    },
+    {
+      "value": "#REF!",
+      "name": "INDENTOR"
+    },
+    {
+      "value": "#REF!",
+      "name": "NET_WEIGHT"
+    },
+    {
+      "value": "#REF!",
+      "name": "NET_WEIGHT"
+    },
+    {
+      "value": "#REF!",
+      "name": "NET_WEIGHT"
+    },
+    {
+      "value": "#REF!",
+      "name": "ORIGIN"
+    },
+    {
+      "value": "#REF!",
+      "name": "ORIGIN"
+    },
+    {
+      "value": "#REF!",
+      "name": "ORIGIN"
+    },
+    {
+      "value": "PL!$A$3:$CT$993",
+      "name": "_xlnm.Print_Area"
+    },
+    {
+      "value": "#REF!",
+      "name": "RECEIVED_DATE"
+    },
+    {
+      "value": "#REF!",
+      "name": "RECEIVED_DATE"
+    },
+    {
+      "value": "#REF!",
+      "name": "RECEIVED_DATE"
+    },
+    {
+      "value": "#REF!",
+      "name": "REMARKS"
+    },
+    {
+      "value": "#REF!",
+      "name": "REMARKS"
+    },
+    {
+      "value": "#REF!",
+      "name": "REMARKS"
+    },
+    {
+      "value": "#REF!",
+      "name": "SO_JO"
+    },
+    {
+      "value": "#REF!",
+      "name": "SO_JO"
+    },
+    {
+      "value": "#REF!",
+      "name": "SO_JO"
+    },
+    {
+      "value": "#REF!",
+      "name": "status"
+    },
+    {
+      "value": "#REF!",
+      "name": "status"
+    },
+    {
+      "value": "#REF!",
+      "name": "status"
+    },
+    {
+      "value": "#REF!",
+      "name": "THKNS__MM"
+    },
+    {
+      "value": "#REF!",
+      "name": "THKNS__MM"
+    },
+    {
+      "value": "#REF!",
+      "name": "THKNS__MM"
+    },
+    {
+      "value": "#REF!",
+      "name": "TYPE"
+    },
+    {
+      "value": "#REF!",
+      "name": "TYPE"
+    },
+    {
+      "value": "#REF!",
+      "name": "TYPE"
+    },
+    {
+      "value": "#REF!",
+      "name": "VESSEL"
+    },
+    {
+      "value": "#REF!",
+      "name": "VESSEL"
+    },
+    {
+      "value": "#REF!",
+      "name": "VESSEL"
+    },
+    {
+      "value": "#REF!",
+      "name": "WIDTH"
+    },
+    {
+      "value": "#REF!",
+      "name": "WIDTH"
+    },
+    {
+      "value": "#REF!",
+      "name": "WIDTH"
+    }
+  ]
+}

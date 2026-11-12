@@ -1,0 +1,975 @@
+{
+  "checked": 3961,
+  "matches": 3961,
+  "mismatches": [],
+  "skipped": 0,
+  "samples": [
+    {
+      "sheet": "PP",
+      "cell": "Q11",
+      "formula": "3.1416*$H11*($F11-$H11)*$I11*0.00786*P11",
+      "actual": 195.43188690305283,
+      "expected": 195.43188690305283,
+      "inputs": [
+        {
+          "value": "3",
+          "cell": "A11"
+        },
+        {
+          "value": "1J1010011",
+          "cell": "B11"
+        },
+        {
+          "value": "BI",
+          "cell": "C11"
+        },
+        {
+          "value": "40",
+          "cell": "D11"
+        },
+        {
+          "value": "STD",
+          "cell": "E11"
+        },
+        {
+          "value": "33.4",
+          "cell": "F11"
+        },
+        {
+          "value": "1",
+          "cell": "G11"
+        },
+        {
+          "value": "3.38",
+          "cell": "H11"
+        },
+        {
+          "value": "6",
+          "cell": "I11"
+        },
+        {
+          "value": "#REF!",
+          "cell": "J11"
+        },
+        {
+          "value": "#REF!",
+          "cell": "K11"
+        },
+        {
+          "value": "#REF!",
+          "cell": "L11"
+        },
+        {
+          "value": "#REF!",
+          "cell": "M11"
+        },
+        {
+          "value": "13",
+          "cell": "P11"
+        },
+        {
+          "value": "195.43188690305283",
+          "cell": "Q11"
+        },
+        {
+          "value": "0",
+          "cell": "R11"
+        },
+        {
+          "value": "0",
+          "cell": "S11"
+        },
+        {
+          "value": "0",
+          "cell": "T11"
+        },
+        {
+          "value": "0",
+          "cell": "U11"
+        },
+        {
+          "value": "13",
+          "cell": "V11"
+        }
+      ]
+    },
+    {
+      "sheet": "CB",
+      "cell": "Q8",
+      "formula": "$H8*$G8*P8",
+      "actual": 52190.63999999999,
+      "expected": 52190.63999999999,
+      "inputs": [
+        {
+          "value": "1",
+          "cell": "A8"
+        },
+        {
+          "value": "1F1010002",
+          "cell": "B8"
+        },
+        {
+          "value": "75",
+          "cell": "C8"
+        },
+        {
+          "value": "MM",
+          "cell": "D8"
+        },
+        {
+          "value": "40",
+          "cell": "E8"
+        },
+        {
+          "value": "MM",
+          "cell": "F8"
+        },
+        {
+          "value": "6",
+          "cell": "G8"
+        },
+        {
+          "value": "6.92",
+          "cell": "H8"
+        },
+        {
+          "value": "4.9982000000000006",
+          "cell": "I8"
+        },
+        {
+          "value": "#REF!",
+          "cell": "J8"
+        },
+        {
+          "value": "#REF!",
+          "cell": "K8"
+        },
+        {
+          "value": "#REF!",
+          "cell": "L8"
+        },
+        {
+          "value": "#REF!",
+          "cell": "M8"
+        },
+        {
+          "value": "1257",
+          "cell": "P8"
+        },
+        {
+          "value": "52190.639999999992",
+          "cell": "Q8"
+        },
+        {
+          "value": "0",
+          "cell": "R8"
+        },
+        {
+          "value": "0",
+          "cell": "S8"
+        },
+        {
+          "value": "50",
+          "cell": "T8"
+        },
+        {
+          "value": "2076",
+          "cell": "U8"
+        },
+        {
+          "value": "1207",
+          "cell": "V8"
+        }
+      ]
+    },
+    {
+      "sheet": "AB",
+      "cell": "O20",
+      "formula": "(($E20*$F20)-($E20-$D20)*($F20-$D20))*$G20*N20*7.85/1000",
+      "actual": 185.9508,
+      "expected": 185.9508,
+      "inputs": [
+        {
+          "value": "13",
+          "cell": "A20"
+        },
+        {
+          "value": "1E1010052",
+          "cell": "B20"
+        },
+        {
+          "value": "EQUAL",
+          "cell": "C20"
+        },
+        {
+          "value": "6",
+          "cell": "D20"
+        },
+        {
+          "value": "50",
+          "cell": "E20"
+        },
+        {
+          "value": "50",
+          "cell": "F20"
+        },
+        {
+          "value": "6",
+          "cell": "G20"
+        },
+        {
+          "value": "#REF!",
+          "cell": "H20"
+        },
+        {
+          "value": "#REF!",
+          "cell": "I20"
+        },
+        {
+          "value": "#REF!",
+          "cell": "J20"
+        },
+        {
+          "value": "#REF!",
+          "cell": "K20"
+        },
+        {
+          "value": "7",
+          "cell": "N20"
+        },
+        {
+          "value": "185.95079999999999",
+          "cell": "O20"
+        },
+        {
+          "value": "0",
+          "cell": "P20"
+        },
+        {
+          "value": "0",
+          "cell": "Q20"
+        },
+        {
+          "value": "7",
+          "cell": "R20"
+        },
+        {
+          "value": "185.95079999999999",
+          "cell": "S20"
+        },
+        {
+          "value": "0",
+          "cell": "T20"
+        },
+        {
+          "value": "0",
+          "cell": "U20"
+        },
+        {
+          "value": "0",
+          "cell": "V20"
+        }
+      ]
+    },
+    {
+      "sheet": "WF",
+      "cell": "AA9",
+      "formula": "$H9*$G9*Z9",
+      "actual": 15311.399999999998,
+      "expected": 15311.399999999998,
+      "inputs": [
+        {
+          "value": "2",
+          "cell": "A9"
+        },
+        {
+          "value": "1G2010001",
+          "cell": "B9"
+        },
+        {
+          "value": "100",
+          "cell": "C9"
+        },
+        {
+          "value": "MM",
+          "cell": "D9"
+        },
+        {
+          "value": "100",
+          "cell": "E9"
+        },
+        {
+          "value": "MM",
+          "cell": "F9"
+        },
+        {
+          "value": "6",
+          "cell": "G9"
+        },
+        {
+          "value": "16.899999999999999",
+          "cell": "H9"
+        },
+        {
+          "value": "kg/m",
+          "cell": "I9"
+        },
+        {
+          "value": "0",
+          "cell": "K9"
+        },
+        {
+          "value": "0",
+          "cell": "M9"
+        },
+        {
+          "value": "0",
+          "cell": "N9"
+        },
+        {
+          "value": "0",
+          "cell": "P9"
+        },
+        {
+          "value": "#REF!",
+          "cell": "Q9"
+        },
+        {
+          "value": "#REF!",
+          "cell": "R9"
+        },
+        {
+          "value": "#REF!",
+          "cell": "S9"
+        },
+        {
+          "value": "#REF!",
+          "cell": "T9"
+        },
+        {
+          "value": "#REF!",
+          "cell": "U9"
+        },
+        {
+          "value": "#REF!",
+          "cell": "V9"
+        },
+        {
+          "value": "#REF!",
+          "cell": "W9"
+        }
+      ]
+    },
+    {
+      "sheet": "WF",
+      "cell": "AA18",
+      "formula": "($H18*($G18*3.28))/2.20462*Z18",
+      "actual": 160.68075223848103,
+      "expected": 160.68075223848103,
+      "inputs": [
+        {
+          "value": "11",
+          "cell": "A18"
+        },
+        {
+          "value": "1G2020007",
+          "cell": "B18"
+        },
+        {
+          "value": "6",
+          "cell": "C18"
+        },
+        {
+          "value": "IN",
+          "cell": "D18"
+        },
+        {
+          "value": "4",
+          "cell": "E18"
+        },
+        {
+          "value": "IN ",
+          "cell": "F18"
+        },
+        {
+          "value": "12",
+          "cell": "G18"
+        },
+        {
+          "value": "9",
+          "cell": "H18"
+        },
+        {
+          "value": "#/ft",
+          "cell": "I18"
+        },
+        {
+          "value": "0",
+          "cell": "K18"
+        },
+        {
+          "value": "0",
+          "cell": "M18"
+        },
+        {
+          "value": "0",
+          "cell": "N18"
+        },
+        {
+          "value": "0",
+          "cell": "P18"
+        },
+        {
+          "value": "#REF!",
+          "cell": "Q18"
+        },
+        {
+          "value": "#REF!",
+          "cell": "R18"
+        },
+        {
+          "value": "#REF!",
+          "cell": "S18"
+        },
+        {
+          "value": "#REF!",
+          "cell": "T18"
+        },
+        {
+          "value": "#REF!",
+          "cell": "U18"
+        },
+        {
+          "value": "#REF!",
+          "cell": "V18"
+        },
+        {
+          "value": "#REF!",
+          "cell": "W18"
+        }
+      ]
+    },
+    {
+      "sheet": "RF",
+      "cell": "N8",
+      "formula": "$D8*$E8*$F8*0.00786*M8",
+      "actual": 167.66323200000002,
+      "expected": 167.66323200000002,
+      "inputs": [
+        {
+          "value": "1",
+          "cell": "A8"
+        },
+        {
+          "value": "1H1010001",
+          "cell": "B8"
+        },
+        {
+          "value": "BI",
+          "cell": "C8"
+        },
+        {
+          "value": "1.1000000000000001",
+          "cell": "D8"
+        },
+        {
+          "value": "202",
+          "cell": "E8"
+        },
+        {
+          "value": "6",
+          "cell": "F8"
+        },
+        {
+          "value": "#REF!",
+          "cell": "G8"
+        },
+        {
+          "value": "#REF!",
+          "cell": "H8"
+        },
+        {
+          "value": "#REF!",
+          "cell": "I8"
+        },
+        {
+          "value": "#REF!",
+          "cell": "J8"
+        },
+        {
+          "value": "16",
+          "cell": "M8"
+        },
+        {
+          "value": "167.66323200000002",
+          "cell": "N8"
+        },
+        {
+          "value": "0",
+          "cell": "O8"
+        },
+        {
+          "value": "0",
+          "cell": "P8"
+        },
+        {
+          "value": "0",
+          "cell": "Q8"
+        },
+        {
+          "value": "0",
+          "cell": "R8"
+        },
+        {
+          "value": "16",
+          "cell": "S8"
+        },
+        {
+          "value": "167.66323200000002",
+          "cell": "T8"
+        },
+        {
+          "value": "0",
+          "cell": "U8"
+        },
+        {
+          "value": "0",
+          "cell": "V8"
+        }
+      ]
+    },
+    {
+      "sheet": "PL",
+      "cell": "N8",
+      "formula": "$D8*$E8*$F8*0.7293*M8",
+      "actual": 1904.3481599999998,
+      "expected": 1904.3481599999998,
+      "inputs": [
+        {
+          "value": "1",
+          "cell": "A8"
+        },
+        {
+          "value": "1A1010001",
+          "cell": "B8"
+        },
+        {
+          "value": "MSP",
+          "cell": "C8"
+        },
+        {
+          "value": "1.2",
+          "cell": "D8"
+        },
+        {
+          "value": "4",
+          "cell": "E8"
+        },
+        {
+          "value": "8",
+          "cell": "F8"
+        },
+        {
+          "value": "#REF!",
+          "cell": "G8"
+        },
+        {
+          "value": "#REF!",
+          "cell": "H8"
+        },
+        {
+          "value": "#REF!",
+          "cell": "I8"
+        },
+        {
+          "value": "#REF!",
+          "cell": "J8"
+        },
+        {
+          "value": "68",
+          "cell": "M8"
+        },
+        {
+          "value": "1904.3481599999998",
+          "cell": "N8"
+        },
+        {
+          "value": "294",
+          "cell": "O8"
+        },
+        {
+          "value": "8233.5052799999994",
+          "cell": "P8"
+        },
+        {
+          "value": "247",
+          "cell": "Q8"
+        },
+        {
+          "value": "6917.2646399999994",
+          "cell": "R8"
+        },
+        {
+          "value": "115",
+          "cell": "S8"
+        },
+        {
+          "value": "3220.5888",
+          "cell": "T8"
+        },
+        {
+          "value": "0",
+          "cell": "U8"
+        },
+        {
+          "value": "0",
+          "cell": "V8"
+        }
+      ]
+    },
+    {
+      "sheet": "SP",
+      "cell": "Q8",
+      "formula": "$I8*$H8*P8",
+      "actual": 812160,
+      "expected": 812160,
+      "inputs": [
+        {
+          "value": "1",
+          "cell": "A8"
+        },
+        {
+          "value": "1D2030001",
+          "cell": "B8"
+        },
+        {
+          "value": "2",
+          "cell": "C8"
+        },
+        {
+          "value": "CHINA",
+          "cell": "D8"
+        },
+        {
+          "value": "ANSHIN",
+          "cell": "E8"
+        },
+        {
+          "value": "400X100",
+          "cell": "F8"
+        },
+        {
+          "value": "10.5",
+          "cell": "G8"
+        },
+        {
+          "value": "12",
+          "cell": "H8"
+        },
+        {
+          "value": "48",
+          "cell": "I8"
+        },
+        {
+          "value": "#REF!",
+          "cell": "J8"
+        },
+        {
+          "value": "#REF!",
+          "cell": "K8"
+        },
+        {
+          "value": "#REF!",
+          "cell": "L8"
+        },
+        {
+          "value": "#REF!",
+          "cell": "M8"
+        },
+        {
+          "value": "1410",
+          "cell": "P8"
+        },
+        {
+          "value": "812160",
+          "cell": "Q8"
+        },
+        {
+          "value": "0",
+          "cell": "R8"
+        },
+        {
+          "value": "0",
+          "cell": "S8"
+        },
+        {
+          "value": "184",
+          "cell": "T8"
+        },
+        {
+          "value": "105984",
+          "cell": "U8"
+        },
+        {
+          "value": "1226",
+          "cell": "V8"
+        }
+      ]
+    },
+    {
+      "sheet": "FB",
+      "cell": "M10",
+      "formula": "$C10*$D10*$E10*0.00786*L10*25.4",
+      "actual": 4.5518832,
+      "expected": 4.5518832,
+      "inputs": [
+        {
+          "value": "3",
+          "cell": "A10"
+        },
+        {
+          "value": "1A6011791",
+          "cell": "B10"
+        },
+        {
+          "value": "1.9",
+          "cell": "C10"
+        },
+        {
+          "value": "2",
+          "cell": "D10"
+        },
+        {
+          "value": "6",
+          "cell": "E10"
+        },
+        {
+          "value": "#REF!",
+          "cell": "F10"
+        },
+        {
+          "value": "#REF!",
+          "cell": "G10"
+        },
+        {
+          "value": "#REF!",
+          "cell": "H10"
+        },
+        {
+          "value": "#REF!",
+          "cell": "I10"
+        },
+        {
+          "value": "1",
+          "cell": "L10"
+        },
+        {
+          "value": "4.5518831999999998",
+          "cell": "M10"
+        },
+        {
+          "value": "0",
+          "cell": "N10"
+        },
+        {
+          "value": "0",
+          "cell": "O10"
+        },
+        {
+          "value": "0",
+          "cell": "P10"
+        },
+        {
+          "value": "0",
+          "cell": "Q10"
+        },
+        {
+          "value": "1",
+          "cell": "R10"
+        },
+        {
+          "value": "4.5518831999999998",
+          "cell": "S10"
+        },
+        {
+          "value": "0",
+          "cell": "T10"
+        },
+        {
+          "value": "0",
+          "cell": "U10"
+        },
+        {
+          "value": "0",
+          "cell": "V10"
+        }
+      ]
+    },
+    {
+      "sheet": "TB",
+      "cell": "O9",
+      "formula": "2*$D9*($E9+$F9-(2*$D9))*$G9*0.00786*N9",
+      "actual": 6.64956,
+      "expected": 6.64956,
+      "inputs": [
+        {
+          "value": "2",
+          "cell": "A9"
+        },
+        {
+          "value": "1K1030018",
+          "cell": "B9"
+        },
+        {
+          "value": "SQUARE",
+          "cell": "C9"
+        },
+        {
+          "value": "1.5",
+          "cell": "D9"
+        },
+        {
+          "value": "25",
+          "cell": "E9"
+        },
+        {
+          "value": "25",
+          "cell": "F9"
+        },
+        {
+          "value": "6",
+          "cell": "G9"
+        },
+        {
+          "value": "#REF!",
+          "cell": "H9"
+        },
+        {
+          "value": "#REF!",
+          "cell": "I9"
+        },
+        {
+          "value": "#REF!",
+          "cell": "J9"
+        },
+        {
+          "value": "#REF!",
+          "cell": "K9"
+        },
+        {
+          "value": "1",
+          "cell": "N9"
+        },
+        {
+          "value": "6.6495600000000001",
+          "cell": "O9"
+        },
+        {
+          "value": "0",
+          "cell": "P9"
+        },
+        {
+          "value": "0",
+          "cell": "Q9"
+        },
+        {
+          "value": "0",
+          "cell": "R9"
+        },
+        {
+          "value": "0",
+          "cell": "S9"
+        },
+        {
+          "value": "1",
+          "cell": "T9"
+        },
+        {
+          "value": "6.6495600000000001",
+          "cell": "U9"
+        },
+        {
+          "value": "0",
+          "cell": "V9"
+        }
+      ]
+    },
+    {
+      "sheet": "LP",
+      "cell": "G6",
+      "formula": "C6*((D6/25.4/12)*(E6/25.4/12))*0.7293*F6",
+      "actual": 16.956258912517825,
+      "expected": 16.956258912517825,
+      "inputs": [
+        {
+          "value": "1D1940011",
+          "cell": "A6"
+        },
+        {
+          "value": "BASE PLATE",
+          "cell": "B6"
+        },
+        {
+          "value": "12",
+          "cell": "C6"
+        },
+        {
+          "value": "300",
+          "cell": "D6"
+        },
+        {
+          "value": "300",
+          "cell": "E6"
+        },
+        {
+          "value": "2",
+          "cell": "F6"
+        },
+        {
+          "value": "16.956258912517825",
+          "cell": "G6"
+        },
+        {
+          "value": "STC",
+          "cell": "H6"
+        },
+        {
+          "value": "44872",
+          "cell": "I6"
+        },
+        {
+          "value": "SCRAP",
+          "cell": "J6"
+        },
+        {
+          "value": "DR106821/BARRON",
+          "cell": "K6"
+        },
+        {
+          "value": "44874",
+          "cell": "L6"
+        },
+        {
+          "value": "",
+          "cell": "P6"
+        },
+        {
+          "value": "",
+          "cell": "Q6"
+        }
+      ]
+    }
+  ],
+  "bySheet": {
+    "PP": 198,
+    "CB": 44,
+    "AB": 101,
+    "WF": 483,
+    "RF": 469,
+    "PL": 986,
+    "SP": 13,
+    "FB": 529,
+    "TB": 141,
+    "LP": 997
+  }
+}

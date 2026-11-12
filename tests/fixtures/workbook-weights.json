@@ -1,0 +1,8762 @@
+[
+  {
+    "source": "PP!Q11",
+    "material": "pipe",
+    "values": {
+      "diameter": "33.4",
+      "thickness": "3.38",
+      "length": "6",
+      "quantity": "13"
+    },
+    "expectedTotal": 195.43188690305283
+  },
+  {
+    "source": "PP!Q12",
+    "material": "pipe",
+    "values": {
+      "diameter": "42.2",
+      "thickness": "3.56",
+      "length": "6",
+      "quantity": "353"
+    },
+    "expectedTotal": 7194.266239433013
+  },
+  {
+    "source": "PP!Q13",
+    "material": "pipe",
+    "values": {
+      "diameter": "48.3",
+      "thickness": "3.68",
+      "length": "6",
+      "quantity": "37"
+    },
+    "expectedTotal": 900.1270092874752
+  },
+  {
+    "source": "PP!Q14",
+    "material": "pipe",
+    "values": {
+      "diameter": "60.3",
+      "thickness": "3.6",
+      "length": "6",
+      "quantity": "100"
+    },
+    "expectedTotal": 3024.1981566720006
+  },
+  {
+    "source": "PP!Q15",
+    "material": "pipe",
+    "values": {
+      "diameter": "60.3",
+      "thickness": "3.91",
+      "length": "6",
+      "quantity": "100"
+    },
+    "expectedTotal": 3266.657006437441
+  },
+  {
+    "source": "PP!Q17",
+    "material": "pipe",
+    "values": {
+      "diameter": "73",
+      "thickness": "4.8",
+      "length": "6",
+      "quantity": "93"
+    },
+    "expectedTotal": 4510.588883834881
+  },
+  {
+    "source": "PP!Q18",
+    "material": "pipe",
+    "values": {
+      "diameter": "73",
+      "thickness": "5.16",
+      "length": "6",
+      "quantity": "40"
+    },
+    "expectedTotal": 2074.5323754946567
+  },
+  {
+    "source": "PP!Q19",
+    "material": "pipe",
+    "values": {
+      "diameter": "88.9",
+      "thickness": "5",
+      "length": "6",
+      "quantity": "81"
+    },
+    "expectedTotal": 5034.329867952
+  },
+  {
+    "source": "PP!Q20",
+    "material": "pipe",
+    "values": {
+      "diameter": "88.9",
+      "thickness": "5.5",
+      "length": "6",
+      "quantity": "259"
+    },
+    "expectedTotal": 17601.642213724805
+  },
+  {
+    "source": "PP!Q21",
+    "material": "pipe",
+    "values": {
+      "diameter": "101.6",
+      "thickness": "4.78",
+      "length": "6",
+      "quantity": "4"
+    },
+    "expectedTotal": 274.26958597463044
+  },
+  {
+    "source": "PP!Q22",
+    "material": "pipe",
+    "values": {
+      "diameter": "101.6",
+      "thickness": "5.7",
+      "length": "6",
+      "quantity": "10"
+    },
+    "expectedTotal": 809.8752882527998
+  },
+  {
+    "source": "PP!Q24",
+    "material": "pipe",
+    "values": {
+      "diameter": "114.3",
+      "thickness": "5.6",
+      "length": "6",
+      "quantity": "39"
+    },
+    "expectedTotal": 3517.27935406848
+  },
+  {
+    "source": "PP!Q25",
+    "material": "pipe",
+    "values": {
+      "diameter": "114.3",
+      "thickness": "6",
+      "length": "6",
+      "quantity": "21"
+    },
+    "expectedTotal": 2021.7324714048
+  },
+  {
+    "source": "PP!Q27",
+    "material": "pipe",
+    "values": {
+      "diameter": "141.30000000000001",
+      "thickness": "6.6",
+      "length": "6",
+      "quantity": "128"
+    },
+    "expectedTotal": 16859.55803406336
+  },
+  {
+    "source": "PP!Q28",
+    "material": "pipe",
+    "values": {
+      "diameter": "168.3",
+      "thickness": "6.3",
+      "length": "6",
+      "quantity": "6"
+    },
+    "expectedTotal": 907.2594470015999
+  },
+  {
+    "source": "PP!Q29",
+    "material": "pipe",
+    "values": {
+      "diameter": "168.3",
+      "thickness": "7.1",
+      "length": "6",
+      "quantity": "4"
+    },
+    "expectedTotal": 678.27851739648
+  },
+  {
+    "source": "PP!Q32",
+    "material": "pipe",
+    "values": {
+      "diameter": "219.1",
+      "thickness": "8.18",
+      "length": "6",
+      "quantity": "80"
+    },
+    "expectedTotal": 20449.643343833086
+  },
+  {
+    "source": "PP!Q33",
+    "material": "pipe",
+    "values": {
+      "diameter": "273",
+      "thickness": "7.8",
+      "length": "6",
+      "quantity": "1"
+    },
+    "expectedTotal": 306.4734146073599
+  },
+  {
+    "source": "PP!Q36",
+    "material": "pipe",
+    "values": {
+      "diameter": "323.8",
+      "thickness": "9.5",
+      "length": "6",
+      "quantity": "7"
+    },
+    "expectedTotal": 3096.6399403632
+  },
+  {
+    "source": "PP!Q37",
+    "material": "pipe",
+    "values": {
+      "diameter": "323.8",
+      "thickness": "10.3",
+      "length": "6",
+      "quantity": "41"
+    },
+    "expectedTotal": 19614.7741215888
+  },
+  {
+    "source": "PP!Q41",
+    "material": "pipe",
+    "values": {
+      "diameter": "21.3",
+      "thickness": "2.6",
+      "length": "6",
+      "quantity": "9"
+    },
+    "expectedTotal": 64.83091462848
+  },
+  {
+    "source": "PP!Q44",
+    "material": "pipe",
+    "values": {
+      "diameter": "42.2",
+      "thickness": "3.2",
+      "length": "6",
+      "quantity": "122"
+    },
+    "expectedTotal": 2255.7922523136003
+  },
+  {
+    "source": "PP!Q45",
+    "material": "pipe",
+    "values": {
+      "diameter": "48.3",
+      "thickness": "3.2",
+      "length": "6",
+      "quantity": "92"
+    },
+    "expectedTotal": 1967.15704356864
+  },
+  {
+    "source": "PP!Q46",
+    "material": "pipe",
+    "values": {
+      "diameter": "13.7",
+      "thickness": "2.2400000000000002",
+      "length": "6",
+      "quantity": "1"
+    },
+    "expectedTotal": 3.8032714266624
+  },
+  {
+    "source": "PP!Q49",
+    "material": "pipe",
+    "values": {
+      "diameter": "26.4",
+      "thickness": "3.9",
+      "length": "6",
+      "quantity": "2"
+    },
+    "expectedTotal": 26.001703728
+  },
+  {
+    "source": "PP!Q50",
+    "material": "pipe",
+    "values": {
+      "diameter": "33.4",
+      "thickness": "4.5",
+      "length": "6",
+      "quantity": "19"
+    },
+    "expectedTotal": 366.0906542832
+  },
+  {
+    "source": "PP!Q51",
+    "material": "pipe",
+    "values": {
+      "diameter": "42.2",
+      "thickness": "4.8499999999999996",
+      "length": "6",
+      "quantity": "322"
+    },
+    "expectedTotal": 8641.97292076272
+  },
+  {
+    "source": "PP!Q52",
+    "material": "pipe",
+    "values": {
+      "diameter": "48.3",
+      "thickness": "5",
+      "length": "6",
+      "quantity": "1"
+    },
+    "expectedTotal": 32.076175824
+  },
+  {
+    "source": "PP!Q53",
+    "material": "pipe",
+    "values": {
+      "diameter": "60.3",
+      "thickness": "5",
+      "length": "6",
+      "quantity": "8"
+    },
+    "expectedTotal": 327.725177472
+  },
+  {
+    "source": "PP!Q54",
+    "material": "pipe",
+    "values": {
+      "diameter": "60.3",
+      "thickness": "5.6",
+      "length": "6",
+      "quantity": "130"
+    },
+    "expectedTotal": 5899.882878489599
+  },
+  {
+    "source": "PP!Q56",
+    "material": "pipe",
+    "values": {
+      "diameter": "73",
+      "thickness": "7",
+      "length": "6",
+      "quantity": "213"
+    },
+    "expectedTotal": 14579.621977536
+  },
+  {
+    "source": "PP!Q58",
+    "material": "pipe",
+    "values": {
+      "diameter": "88.9",
+      "thickness": "7.6",
+      "length": "6",
+      "quantity": "236"
+    },
+    "expectedTotal": 21604.331151406084
+  },
+  {
+    "source": "PP!Q59",
+    "material": "pipe",
+    "values": {
+      "diameter": "101.6",
+      "thickness": "8.1",
+      "length": "6",
+      "quantity": "43"
+    },
+    "expectedTotal": 4824.9161463888
+  },
+  {
+    "source": "PP!Q60",
+    "material": "pipe",
+    "values": {
+      "diameter": "114.3",
+      "thickness": "7.1",
+      "length": "6",
+      "quantity": "58"
+    },
+    "expectedTotal": 6540.42262680576
+  },
+  {
+    "source": "PP!Q62",
+    "material": "pipe",
+    "values": {
+      "diameter": "114.3",
+      "thickness": "8.5500000000000007",
+      "length": "6",
+      "quantity": "234"
+    },
+    "expectedTotal": 31346.353929290402
+  },
+  {
+    "source": "PP!Q63",
+    "material": "pipe",
+    "values": {
+      "diameter": "141.30000000000001",
+      "thickness": "8.74",
+      "length": "6",
+      "quantity": "5"
+    },
+    "expectedTotal": 858.2594956024321
+  },
+  {
+    "source": "PP!Q64",
+    "material": "pipe",
+    "values": {
+      "diameter": "141.30000000000001",
+      "thickness": "9.5",
+      "length": "6",
+      "quantity": "3"
+    },
+    "expectedTotal": 556.5253544928
+  },
+  {
+    "source": "PP!Q66",
+    "material": "pipe",
+    "values": {
+      "diameter": "168.3",
+      "thickness": "10.97",
+      "length": "6",
+      "quantity": "318"
+    },
+    "expectedTotal": 81314.87054058911
+  },
+  {
+    "source": "PP!Q68",
+    "material": "pipe",
+    "values": {
+      "diameter": "219.1",
+      "thickness": "12.7",
+      "length": "6",
+      "quantity": "47"
+    },
+    "expectedTotal": 18253.07156445696
+  },
+  {
+    "source": "PP!Q70",
+    "material": "pipe",
+    "values": {
+      "diameter": "273",
+      "thickness": "15.1",
+      "length": "6",
+      "quantity": "49"
+    },
+    "expectedTotal": 28271.513195069758
+  },
+  {
+    "source": "PP!Q72",
+    "material": "pipe",
+    "values": {
+      "diameter": "323.8",
+      "thickness": "17.5",
+      "length": "6",
+      "quantity": "53"
+    },
+    "expectedTotal": 42090.646824072
+  },
+  {
+    "source": "PP!Q77",
+    "material": "pipe",
+    "values": {
+      "diameter": "42.2",
+      "thickness": "4.5",
+      "length": "6",
+      "quantity": "23"
+    },
+    "expectedTotal": 578.1045462192001
+  },
+  {
+    "source": "PP!Q78",
+    "material": "pipe",
+    "values": {
+      "diameter": "48.3",
+      "thickness": "4.5",
+      "length": "6",
+      "quantity": "10"
+    },
+    "expectedTotal": 292.019134176
+  },
+  {
+    "source": "PP!Q97",
+    "material": "pipe",
+    "values": {
+      "diameter": "48.3",
+      "thickness": "7.14",
+      "length": "6",
+      "quantity": "8"
+    },
+    "expectedTotal": 348.32789040107514
+  },
+  {
+    "source": "PP!Q112",
+    "material": "pipe",
+    "values": {
+      "diameter": "88.9",
+      "thickness": "3",
+      "length": "6",
+      "quantity": "2"
+    },
+    "expectedTotal": 76.36055898240001
+  },
+  {
+    "source": "PP!Q115",
+    "material": "pipe",
+    "values": {
+      "diameter": "73",
+      "thickness": "2.2000000000000002",
+      "length": "6",
+      "quantity": "5"
+    },
+    "expectedTotal": 115.3853382528
+  },
+  {
+    "source": "PP!Q136",
+    "material": "pipe",
+    "values": {
+      "diameter": "114.3",
+      "thickness": "5.6",
+      "length": "6",
+      "quantity": "1"
+    },
+    "expectedTotal": 90.18665010432001
+  },
+  {
+    "source": "CB!Q8",
+    "material": "channel",
+    "values": {
+      "rating": "6.92",
+      "length": "6",
+      "quantity": "1257"
+    },
+    "expectedTotal": 52190.63999999999
+  },
+  {
+    "source": "CB!Q9",
+    "material": "channel",
+    "values": {
+      "rating": "9.432835820895523",
+      "length": "6",
+      "quantity": "619"
+    },
+    "expectedTotal": 35033.55223880597
+  },
+  {
+    "source": "CB!Q11",
+    "material": "channel",
+    "values": {
+      "rating": "10",
+      "length": "6",
+      "quantity": "2"
+    },
+    "expectedTotal": 120
+  },
+  {
+    "source": "CB!Q13",
+    "material": "channel",
+    "values": {
+      "rating": "17.11",
+      "length": "6",
+      "quantity": "2"
+    },
+    "expectedTotal": 205.32
+  },
+  {
+    "source": "CB!Q14",
+    "material": "channel",
+    "values": {
+      "rating": "25.373134328358208",
+      "length": "6",
+      "quantity": "1"
+    },
+    "expectedTotal": 152.23880597014926
+  },
+  {
+    "source": "CB!Q18",
+    "material": "channel",
+    "values": {
+      "rating": "14.56",
+      "length": "6",
+      "quantity": "518"
+    },
+    "expectedTotal": 45252.48
+  },
+  {
+    "source": "CB!Q20",
+    "material": "channel",
+    "values": {
+      "rating": "10.7",
+      "length": "6",
+      "quantity": "2883"
+    },
+    "expectedTotal": 185088.59999999998
+  },
+  {
+    "source": "CB!Q21",
+    "material": "channel",
+    "values": {
+      "rating": "8.06",
+      "length": "6",
+      "quantity": "585"
+    },
+    "expectedTotal": 28290.6
+  },
+  {
+    "source": "CB!Q22",
+    "material": "channel",
+    "values": {
+      "rating": "14.7",
+      "length": "6",
+      "quantity": "52"
+    },
+    "expectedTotal": 4586.4
+  },
+  {
+    "source": "CB!Q23",
+    "material": "channel",
+    "values": {
+      "rating": "11.66",
+      "length": "6",
+      "quantity": "387"
+    },
+    "expectedTotal": 27074.520000000004
+  },
+  {
+    "source": "CB!Q25",
+    "material": "channel",
+    "values": {
+      "rating": "29.7",
+      "length": "6",
+      "quantity": "45"
+    },
+    "expectedTotal": 8018.999999999999
+  },
+  {
+    "source": "CB!Q26",
+    "material": "channel",
+    "values": {
+      "rating": "24.3",
+      "length": "6",
+      "quantity": "110"
+    },
+    "expectedTotal": 16038.000000000002
+  },
+  {
+    "source": "CB!Q27",
+    "material": "channel",
+    "values": {
+      "rating": "8.66",
+      "length": "6",
+      "quantity": "840"
+    },
+    "expectedTotal": 43646.4
+  },
+  {
+    "source": "CB!Q29",
+    "material": "channel",
+    "values": {
+      "rating": "23.29",
+      "length": "6",
+      "quantity": "197"
+    },
+    "expectedTotal": 27528.780000000002
+  },
+  {
+    "source": "CB!Q30",
+    "material": "channel",
+    "values": {
+      "rating": "34.5",
+      "length": "6",
+      "quantity": "167"
+    },
+    "expectedTotal": 34569
+  },
+  {
+    "source": "CB!Q33",
+    "material": "channel",
+    "values": {
+      "rating": "5.3",
+      "length": "6",
+      "quantity": "1680"
+    },
+    "expectedTotal": 53423.99999999999
+  },
+  {
+    "source": "CB!Q35",
+    "material": "channel",
+    "values": {
+      "rating": "19.350000000000001",
+      "length": "6",
+      "quantity": "249"
+    },
+    "expectedTotal": 28908.9
+  },
+  {
+    "source": "CB!Q37",
+    "material": "channel",
+    "values": {
+      "rating": "10.4",
+      "length": "6",
+      "quantity": "722"
+    },
+    "expectedTotal": 45052.8
+  },
+  {
+    "source": "CB!Q38",
+    "material": "channel",
+    "values": {
+      "rating": "17.100000000000001",
+      "length": "6",
+      "quantity": "749"
+    },
+    "expectedTotal": 76847.40000000001
+  },
+  {
+    "source": "CB!Q40",
+    "material": "channel",
+    "values": {
+      "rating": "15",
+      "length": "6",
+      "quantity": "576"
+    },
+    "expectedTotal": 51840
+  },
+  {
+    "source": "CB!Q41",
+    "material": "channel",
+    "values": {
+      "rating": "18.260000000000002",
+      "length": "6",
+      "quantity": "780"
+    },
+    "expectedTotal": 85456.8
+  },
+  {
+    "source": "AB!O20",
+    "material": "angle",
+    "values": {
+      "thickness": "6",
+      "width1": "50",
+      "width2": "50",
+      "length": "6",
+      "quantity": "7"
+    },
+    "expectedTotal": 185.9508
+  },
+  {
+    "source": "AB!O21",
+    "material": "angle",
+    "values": {
+      "thickness": "6",
+      "width1": "63",
+      "width2": "63",
+      "length": "6",
+      "quantity": "4"
+    },
+    "expectedTotal": 135.648
+  },
+  {
+    "source": "AB!O23",
+    "material": "angle",
+    "values": {
+      "thickness": "6",
+      "width1": "100",
+      "width2": "100",
+      "length": "6",
+      "quantity": "106"
+    },
+    "expectedTotal": 5811.386399999999
+  },
+  {
+    "source": "AB!O24",
+    "material": "angle",
+    "values": {
+      "thickness": "8",
+      "width1": "50",
+      "width2": "50",
+      "length": "6",
+      "quantity": "20"
+    },
+    "expectedTotal": 693.312
+  },
+  {
+    "source": "AB!O25",
+    "material": "angle",
+    "values": {
+      "thickness": "8",
+      "width1": "65",
+      "width2": "65",
+      "length": "6",
+      "quantity": "1"
+    },
+    "expectedTotal": 45.9696
+  },
+  {
+    "source": "AB!O33",
+    "material": "angle",
+    "values": {
+      "thickness": "10",
+      "width1": "100",
+      "width2": "100",
+      "length": "6",
+      "quantity": "32"
+    },
+    "expectedTotal": 2863.68
+  },
+  {
+    "source": "AB!O34",
+    "material": "angle",
+    "values": {
+      "thickness": "10",
+      "width1": "125",
+      "width2": "125",
+      "length": "6",
+      "quantity": "3"
+    },
+    "expectedTotal": 339.12
+  },
+  {
+    "source": "AB!O37",
+    "material": "angle",
+    "values": {
+      "thickness": "12",
+      "width1": "100",
+      "width2": "100",
+      "length": "6",
+      "quantity": "5"
+    },
+    "expectedTotal": 531.288
+  },
+  {
+    "source": "AB!O38",
+    "material": "angle",
+    "values": {
+      "thickness": "12",
+      "width1": "125",
+      "width2": "125",
+      "length": "6",
+      "quantity": "266"
+    },
+    "expectedTotal": 35781.6816
+  },
+  {
+    "source": "AB!O39",
+    "material": "angle",
+    "values": {
+      "thickness": "12",
+      "width1": "150",
+      "width2": "150",
+      "length": "6",
+      "quantity": "68"
+    },
+    "expectedTotal": 11068.876799999998
+  },
+  {
+    "source": "AB!O42",
+    "material": "angle",
+    "values": {
+      "thickness": "11",
+      "width1": "75",
+      "width2": "75",
+      "length": "6",
+      "quantity": "27"
+    },
+    "expectedTotal": 1944.4292999999998
+  },
+  {
+    "source": "AB!O52",
+    "material": "angle",
+    "values": {
+      "thickness": "3",
+      "width1": "38",
+      "width2": "38",
+      "length": "6",
+      "quantity": "10"
+    },
+    "expectedTotal": 103.149
+  },
+  {
+    "source": "AB!O86",
+    "material": "angle",
+    "values": {
+      "thickness": "6",
+      "width1": "50",
+      "width2": "75",
+      "length": "6",
+      "quantity": "295"
+    },
+    "expectedTotal": 9920.673
+  },
+  {
+    "source": "AB!O90",
+    "material": "angle",
+    "values": {
+      "thickness": "8",
+      "width1": "50",
+      "width2": "75",
+      "length": "6",
+      "quantity": "797"
+    },
+    "expectedTotal": 35136.22319999999
+  },
+  {
+    "source": "AB!O91",
+    "material": "angle",
+    "values": {
+      "thickness": "8",
+      "width1": "75",
+      "width2": "100",
+      "length": "6",
+      "quantity": "402"
+    },
+    "expectedTotal": 25296.0912
+  },
+  {
+    "source": "AB!O92",
+    "material": "angle",
+    "values": {
+      "thickness": "8",
+      "width1": "75",
+      "width2": "125",
+      "length": "6",
+      "quantity": "278"
+    },
+    "expectedTotal": 20112.076800000003
+  },
+  {
+    "source": "AB!O93",
+    "material": "angle",
+    "values": {
+      "thickness": "9",
+      "width1": "75",
+      "width2": "100",
+      "length": "6",
+      "quantity": "2"
+    },
+    "expectedTotal": 140.73479999999998
+  },
+  {
+    "source": "AB!O96",
+    "material": "angle",
+    "values": {
+      "thickness": "10",
+      "width1": "75",
+      "width2": "100",
+      "length": "6",
+      "quantity": "127"
+    },
+    "expectedTotal": 9869.805
+  },
+  {
+    "source": "AB!O97",
+    "material": "angle",
+    "values": {
+      "thickness": "10",
+      "width1": "75",
+      "width2": "125",
+      "length": "6",
+      "quantity": "173"
+    },
+    "expectedTotal": 15481.77
+  },
+  {
+    "source": "AB!O98",
+    "material": "angle",
+    "values": {
+      "thickness": "10",
+      "width1": "90",
+      "width2": "150",
+      "length": "6",
+      "quantity": "174"
+    },
+    "expectedTotal": 18849.42
+  },
+  {
+    "source": "AB!O100",
+    "material": "angle",
+    "values": {
+      "thickness": "12",
+      "width1": "90",
+      "width2": "150",
+      "length": "6",
+      "quantity": "339"
+    },
+    "expectedTotal": 43685.4384
+  },
+  {
+    "source": "AB!O107",
+    "material": "angle",
+    "values": {
+      "thickness": "12",
+      "width1": "90",
+      "width2": "150",
+      "length": "6",
+      "quantity": "5"
+    },
+    "expectedTotal": 644.328
+  },
+  {
+    "source": "WF!AA9",
+    "material": "wideMetric",
+    "values": {
+      "rating": "16.899999999999999",
+      "length": "6",
+      "quantity": "151"
+    },
+    "expectedTotal": 15311.399999999998
+  },
+  {
+    "source": "WF!AA10",
+    "material": "wideMetric",
+    "values": {
+      "rating": "16.899999999999999",
+      "length": "12",
+      "quantity": "168"
+    },
+    "expectedTotal": 34070.399999999994
+  },
+  {
+    "source": "WF!AA18",
+    "material": "beams",
+    "values": {
+      "rating": "9",
+      "length": "12",
+      "quantity": "1"
+    },
+    "expectedTotal": 160.68075223848103
+  },
+  {
+    "source": "WF!AA19",
+    "material": "beams",
+    "values": {
+      "rating": "15",
+      "length": "3",
+      "quantity": "7"
+    },
+    "expectedTotal": 468.65219402890295
+  },
+  {
+    "source": "WF!AA21",
+    "material": "beams",
+    "values": {
+      "rating": "15",
+      "length": "6",
+      "quantity": "33"
+    },
+    "expectedTotal": 4418.720686558228
+  },
+  {
+    "source": "WF!AA22",
+    "material": "beams",
+    "values": {
+      "rating": "15",
+      "length": "12",
+      "quantity": "216"
+    },
+    "expectedTotal": 57845.07080585317
+  },
+  {
+    "source": "WF!AA23",
+    "material": "beams",
+    "values": {
+      "rating": "20",
+      "length": "6",
+      "quantity": "290"
+    },
+    "expectedTotal": 51774.90905462167
+  },
+  {
+    "source": "WF!AA24",
+    "material": "beams",
+    "values": {
+      "rating": "20",
+      "length": "12",
+      "quantity": "391"
+    },
+    "expectedTotal": 139613.72027832465
+  },
+  {
+    "source": "WF!AA25",
+    "material": "wideMetric",
+    "values": {
+      "rating": "31.5",
+      "length": "6",
+      "quantity": "6"
+    },
+    "expectedTotal": 1134
+  },
+  {
+    "source": "WF!AA26",
+    "material": "wideMetric",
+    "values": {
+      "rating": "31.5",
+      "length": "12",
+      "quantity": "187"
+    },
+    "expectedTotal": 70686
+  },
+  {
+    "source": "WF!AA27",
+    "material": "beams",
+    "values": {
+      "rating": "25",
+      "length": "6",
+      "quantity": "10"
+    },
+    "expectedTotal": 2231.6771144233476
+  },
+  {
+    "source": "WF!AA29",
+    "material": "beams",
+    "values": {
+      "rating": "10",
+      "length": "6",
+      "quantity": "9"
+    },
+    "expectedTotal": 803.4037611924052
+  },
+  {
+    "source": "WF!AA32",
+    "material": "wideMetric",
+    "values": {
+      "rating": "17.8",
+      "length": "6",
+      "quantity": "305"
+    },
+    "expectedTotal": 32574.000000000004
+  },
+  {
+    "source": "WF!AA33",
+    "material": "wideMetric",
+    "values": {
+      "rating": "17.8",
+      "length": "12",
+      "quantity": "105"
+    },
+    "expectedTotal": 22428.000000000004
+  },
+  {
+    "source": "WF!AA34",
+    "material": "wideMetric",
+    "values": {
+      "rating": "20.9",
+      "length": "6",
+      "quantity": "235"
+    },
+    "expectedTotal": 29468.999999999996
+  },
+  {
+    "source": "WF!AA35",
+    "material": "wideMetric",
+    "values": {
+      "rating": "20.9",
+      "length": "12",
+      "quantity": "162"
+    },
+    "expectedTotal": 40629.6
+  },
+  {
+    "source": "WF!AA38",
+    "material": "beams",
+    "values": {
+      "rating": "18",
+      "length": "6",
+      "quantity": "61"
+    },
+    "expectedTotal": 9801.525886547342
+  },
+  {
+    "source": "WF!AA39",
+    "material": "beams",
+    "values": {
+      "rating": "18",
+      "length": "12",
+      "quantity": "7"
+    },
+    "expectedTotal": 2249.5305313387344
+  },
+  {
+    "source": "WF!AA42",
+    "material": "beams",
+    "values": {
+      "rating": "21",
+      "length": "6",
+      "quantity": "32"
+    },
+    "expectedTotal": 5998.748083569958
+  },
+  {
+    "source": "WF!AA43",
+    "material": "beams",
+    "values": {
+      "rating": "21",
+      "length": "12",
+      "quantity": "364"
+    },
+    "expectedTotal": 136471.51890121654
+  },
+  {
+    "source": "WF!AA44",
+    "material": "beams",
+    "values": {
+      "rating": "24",
+      "length": "6",
+      "quantity": "220"
+    },
+    "expectedTotal": 47133.0206566211
+  },
+  {
+    "source": "WF!AA45",
+    "material": "beams",
+    "values": {
+      "rating": "24",
+      "length": "12",
+      "quantity": "127"
+    },
+    "expectedTotal": 54417.21475809891
+  },
+  {
+    "source": "WF!AA46",
+    "material": "beams",
+    "values": {
+      "rating": "28",
+      "length": "6",
+      "quantity": "2"
+    },
+    "expectedTotal": 499.89567363082983
+  },
+  {
+    "source": "WF!AA47",
+    "material": "beams",
+    "values": {
+      "rating": "28",
+      "length": "12",
+      "quantity": "38"
+    },
+    "expectedTotal": 18996.035597971535
+  },
+  {
+    "source": "WF!AA48",
+    "material": "beams",
+    "values": {
+      "rating": "31",
+      "length": "6",
+      "quantity": "3"
+    },
+    "expectedTotal": 830.1838865654853
+  },
+  {
+    "source": "WF!AA49",
+    "material": "beams",
+    "values": {
+      "rating": "31",
+      "length": "12",
+      "quantity": "82"
+    },
+    "expectedTotal": 45383.385798913194
+  },
+  {
+    "source": "WF!AA50",
+    "material": "wideMetric",
+    "values": {
+      "rating": "49.9",
+      "length": "6",
+      "quantity": "72"
+    },
+    "expectedTotal": 21556.8
+  },
+  {
+    "source": "WF!AA51",
+    "material": "wideMetric",
+    "values": {
+      "rating": "49.9",
+      "length": "12",
+      "quantity": "86"
+    },
+    "expectedTotal": 51496.799999999996
+  },
+  {
+    "source": "WF!AA54",
+    "material": "beams",
+    "values": {
+      "rating": "40",
+      "length": "6",
+      "quantity": "3"
+    },
+    "expectedTotal": 1071.2050149232068
+  },
+  {
+    "source": "WF!AA55",
+    "material": "beams",
+    "values": {
+      "rating": "40",
+      "length": "12",
+      "quantity": "72"
+    },
+    "expectedTotal": 51417.840716313935
+  },
+  {
+    "source": "WF!AA56",
+    "material": "beams",
+    "values": {
+      "rating": "48",
+      "length": "6",
+      "quantity": "2"
+    },
+    "expectedTotal": 856.9640119385655
+  },
+  {
+    "source": "WF!AA57",
+    "material": "beams",
+    "values": {
+      "rating": "48",
+      "length": "12",
+      "quantity": "27"
+    },
+    "expectedTotal": 23138.028322341266
+  },
+  {
+    "source": "WF!AA60",
+    "material": "beams",
+    "values": {
+      "rating": "12",
+      "length": "6",
+      "quantity": "48"
+    },
+    "expectedTotal": 5141.784071631393
+  },
+  {
+    "source": "WF!AA61",
+    "material": "beams",
+    "values": {
+      "rating": "12",
+      "length": "12",
+      "quantity": "685"
+    },
+    "expectedTotal": 146755.08704447933
+  },
+  {
+    "source": "WF!AA62",
+    "material": "beams",
+    "values": {
+      "rating": "15",
+      "length": "6",
+      "quantity": "48"
+    },
+    "expectedTotal": 6427.230089539241
+  },
+  {
+    "source": "WF!AA63",
+    "material": "beams",
+    "values": {
+      "rating": "15",
+      "length": "12",
+      "quantity": "29"
+    },
+    "expectedTotal": 7766.2363581932495
+  },
+  {
+    "source": "WF!AA64",
+    "material": "beams",
+    "values": {
+      "rating": "17",
+      "length": "6",
+      "quantity": "19"
+    },
+    "expectedTotal": 2883.326831834965
+  },
+  {
+    "source": "WF!AA65",
+    "material": "beams",
+    "values": {
+      "rating": "17",
+      "length": "12",
+      "quantity": "229"
+    },
+    "expectedTotal": 69503.35205160074
+  },
+  {
+    "source": "WF!AA68",
+    "material": "beams",
+    "values": {
+      "rating": "19",
+      "length": "6",
+      "quantity": "21"
+    },
+    "expectedTotal": 3561.756674619663
+  },
+  {
+    "source": "WF!AA69",
+    "material": "beams",
+    "values": {
+      "rating": "19",
+      "length": "12",
+      "quantity": "37"
+    },
+    "expectedTotal": 12550.952091516907
+  },
+  {
+    "source": "WF!AA70",
+    "material": "wideMetric",
+    "values": {
+      "rating": "29.6",
+      "length": "6",
+      "quantity": "7"
+    },
+    "expectedTotal": 1243.2000000000003
+  },
+  {
+    "source": "WF!AA71",
+    "material": "wideMetric",
+    "values": {
+      "rating": "29.6",
+      "length": "12",
+      "quantity": "6"
+    },
+    "expectedTotal": 2131.2000000000003
+  },
+  {
+    "source": "WF!AA72",
+    "material": "beams",
+    "values": {
+      "rating": "21",
+      "length": "6",
+      "quantity": "1"
+    },
+    "expectedTotal": 187.4608776115612
+  },
+  {
+    "source": "WF!AA73",
+    "material": "beams",
+    "values": {
+      "rating": "21",
+      "length": "12",
+      "quantity": "1"
+    },
+    "expectedTotal": 374.9217552231224
+  },
+  {
+    "source": "WF!AA74",
+    "material": "beams",
+    "values": {
+      "rating": "22",
+      "length": "6",
+      "quantity": "5"
+    },
+    "expectedTotal": 981.9379303462729
+  },
+  {
+    "source": "WF!AA75",
+    "material": "beams",
+    "values": {
+      "rating": "22",
+      "length": "12",
+      "quantity": "28"
+    },
+    "expectedTotal": 10997.704819878256
+  },
+  {
+    "source": "WF!AA78",
+    "material": "beams",
+    "values": {
+      "rating": "26",
+      "length": "6",
+      "quantity": "6"
+    },
+    "expectedTotal": 1392.566519400169
+  },
+  {
+    "source": "WF!AA79",
+    "material": "beams",
+    "values": {
+      "rating": "26",
+      "length": "12",
+      "quantity": "56"
+    },
+    "expectedTotal": 25994.575028803152
+  },
+  {
+    "source": "WF!AA82",
+    "material": "beams",
+    "values": {
+      "rating": "30",
+      "length": "6",
+      "quantity": "4"
+    },
+    "expectedTotal": 1071.2050149232068
+  },
+  {
+    "source": "WF!AA83",
+    "material": "beams",
+    "values": {
+      "rating": "30",
+      "length": "12",
+      "quantity": "40"
+    },
+    "expectedTotal": 21424.100298464138
+  },
+  {
+    "source": "WF!AA84",
+    "material": "beams",
+    "values": {
+      "rating": "33",
+      "length": "6",
+      "quantity": "6"
+    },
+    "expectedTotal": 1767.488274623291
+  },
+  {
+    "source": "WF!AA85",
+    "material": "beams",
+    "values": {
+      "rating": "33",
+      "length": "12",
+      "quantity": "41"
+    },
+    "expectedTotal": 24155.67308651831
+  },
+  {
+    "source": "WF!AA86",
+    "material": "beams",
+    "values": {
+      "rating": "39",
+      "length": "6",
+      "quantity": "14"
+    },
+    "expectedTotal": 4873.982817900591
+  },
+  {
+    "source": "WF!AA87",
+    "material": "beams",
+    "values": {
+      "rating": "39",
+      "length": "12",
+      "quantity": "38"
+    },
+    "expectedTotal": 26458.763868603208
+  },
+  {
+    "source": "WF!AA90",
+    "material": "beams",
+    "values": {
+      "rating": "54",
+      "length": "6",
+      "quantity": "1"
+    },
+    "expectedTotal": 482.0422567154431
+  },
+  {
+    "source": "WF!AA91",
+    "material": "beams",
+    "values": {
+      "rating": "54",
+      "length": "12",
+      "quantity": "43"
+    },
+    "expectedTotal": 41455.634077528106
+  },
+  {
+    "source": "WF!AA94",
+    "material": "beams",
+    "values": {
+      "rating": "60",
+      "length": "6",
+      "quantity": "4"
+    },
+    "expectedTotal": 2142.4100298464136
+  },
+  {
+    "source": "WF!AA95",
+    "material": "beams",
+    "values": {
+      "rating": "60",
+      "length": "12",
+      "quantity": "37"
+    },
+    "expectedTotal": 39634.58555215865
+  },
+  {
+    "source": "WF!AA98",
+    "material": "beams",
+    "values": {
+      "rating": "14",
+      "length": "6",
+      "quantity": "7"
+    },
+    "expectedTotal": 874.8174288539522
+  },
+  {
+    "source": "WF!AA99",
+    "material": "beams",
+    "values": {
+      "rating": "14",
+      "length": "12",
+      "quantity": "21"
+    },
+    "expectedTotal": 5248.904573123713
+  },
+  {
+    "source": "WF!AA100",
+    "material": "beams",
+    "values": {
+      "rating": "19",
+      "length": "6",
+      "quantity": "4"
+    },
+    "expectedTotal": 678.4298427846977
+  },
+  {
+    "source": "WF!AA101",
+    "material": "beams",
+    "values": {
+      "rating": "19",
+      "length": "12",
+      "quantity": "204"
+    },
+    "expectedTotal": 69199.84396403917
+  },
+  {
+    "source": "WF!AA102",
+    "material": "wideMetric",
+    "values": {
+      "rating": "32",
+      "length": "6",
+      "quantity": "30"
+    },
+    "expectedTotal": 5760
+  },
+  {
+    "source": "WF!AA103",
+    "material": "wideMetric",
+    "values": {
+      "rating": "32",
+      "length": "12",
+      "quantity": "37"
+    },
+    "expectedTotal": 14208
+  },
+  {
+    "source": "WF!AA104",
+    "material": "beams",
+    "values": {
+      "rating": "22",
+      "length": "6",
+      "quantity": "2"
+    },
+    "expectedTotal": 392.77517213850916
+  },
+  {
+    "source": "WF!AA105",
+    "material": "beams",
+    "values": {
+      "rating": "22",
+      "length": "12",
+      "quantity": "24"
+    },
+    "expectedTotal": 9426.60413132422
+  },
+  {
+    "source": "WF!AA106",
+    "material": "wideMetric",
+    "values": {
+      "rating": "36.700000000000003",
+      "length": "6",
+      "quantity": "147"
+    },
+    "expectedTotal": 32369.4
+  },
+  {
+    "source": "WF!AA107",
+    "material": "wideMetric",
+    "values": {
+      "rating": "36.700000000000003",
+      "length": "12",
+      "quantity": "147"
+    },
+    "expectedTotal": 64738.8
+  },
+  {
+    "source": "WF!AA108",
+    "material": "beams",
+    "values": {
+      "rating": "26",
+      "length": "6",
+      "quantity": "2"
+    },
+    "expectedTotal": 464.1888398000563
+  },
+  {
+    "source": "WF!AA109",
+    "material": "beams",
+    "values": {
+      "rating": "26",
+      "length": "12",
+      "quantity": "9"
+    },
+    "expectedTotal": 4177.6995582005065
+  },
+  {
+    "source": "WF!AA110",
+    "material": "beams",
+    "values": {
+      "rating": "30",
+      "length": "6",
+      "quantity": "2"
+    },
+    "expectedTotal": 535.6025074616034
+  },
+  {
+    "source": "WF!AA111",
+    "material": "beams",
+    "values": {
+      "rating": "30",
+      "length": "12",
+      "quantity": "66"
+    },
+    "expectedTotal": 35349.76549246583
+  },
+  {
+    "source": "WF!AA112",
+    "material": "beams",
+    "values": {
+      "rating": "35",
+      "length": "6",
+      "quantity": "33"
+    },
+    "expectedTotal": 10310.348268635864
+  },
+  {
+    "source": "WF!AA113",
+    "material": "beams",
+    "values": {
+      "rating": "35",
+      "length": "12",
+      "quantity": "57"
+    },
+    "expectedTotal": 35617.56674619662
+  },
+  {
+    "source": "WF!AA114",
+    "material": "beams",
+    "values": {
+      "rating": "40",
+      "length": "6",
+      "quantity": "1"
+    },
+    "expectedTotal": 357.06833830773564
+  },
+  {
+    "source": "WF!AA117",
+    "material": "beams",
+    "values": {
+      "rating": "45",
+      "length": "12",
+      "quantity": "6"
+    },
+    "expectedTotal": 4820.422567154431
+  },
+  {
+    "source": "WF!AA118",
+    "material": "beams",
+    "values": {
+      "rating": "53",
+      "length": "6",
+      "quantity": "3"
+    },
+    "expectedTotal": 1419.346644773249
+  },
+  {
+    "source": "WF!AA119",
+    "material": "beams",
+    "values": {
+      "rating": "53",
+      "length": "12",
+      "quantity": "44"
+    },
+    "expectedTotal": 41634.16824668197
+  },
+  {
+    "source": "WF!AA120",
+    "material": "beams",
+    "values": {
+      "rating": "53",
+      "length": "6",
+      "quantity": "2"
+    },
+    "expectedTotal": 946.2310965154993
+  },
+  {
+    "source": "WF!AA121",
+    "material": "beams",
+    "values": {
+      "rating": "53",
+      "length": "12",
+      "quantity": "19"
+    },
+    "expectedTotal": 17978.39083379449
+  },
+  {
+    "source": "WF!AA122",
+    "material": "beams",
+    "values": {
+      "rating": "58",
+      "length": "6",
+      "quantity": "25"
+    },
+    "expectedTotal": 12943.727263655415
+  },
+  {
+    "source": "WF!AA126",
+    "material": "beams",
+    "values": {
+      "rating": "72",
+      "length": "6",
+      "quantity": "4"
+    },
+    "expectedTotal": 2570.8920358156965
+  },
+  {
+    "source": "WF!AA127",
+    "material": "beams",
+    "values": {
+      "rating": "72",
+      "length": "12",
+      "quantity": "41"
+    },
+    "expectedTotal": 52703.28673422178
+  },
+  {
+    "source": "WF!AA129",
+    "material": "beams",
+    "values": {
+      "rating": "79",
+      "length": "12",
+      "quantity": "28"
+    },
+    "expectedTotal": 39491.75821683556
+  },
+  {
+    "source": "WF!AA130",
+    "material": "beams",
+    "values": {
+      "rating": "87",
+      "length": "6",
+      "quantity": "3"
+    },
+    "expectedTotal": 2329.8709074579747
+  },
+  {
+    "source": "WF!AA132",
+    "material": "beams",
+    "values": {
+      "rating": "22",
+      "length": "6",
+      "quantity": "5"
+    },
+    "expectedTotal": 981.9379303462729
+  },
+  {
+    "source": "WF!AA133",
+    "material": "beams",
+    "values": {
+      "rating": "22",
+      "length": "12",
+      "quantity": "29"
+    },
+    "expectedTotal": 11390.479992016766
+  },
+  {
+    "source": "WF!AA134",
+    "material": "beams",
+    "values": {
+      "rating": "26",
+      "length": "6",
+      "quantity": "7"
+    },
+    "expectedTotal": 1624.660939300197
+  },
+  {
+    "source": "WF!AA138",
+    "material": "beams",
+    "values": {
+      "rating": "38",
+      "length": "6",
+      "quantity": "3"
+    },
+    "expectedTotal": 1017.6447641770466
+  },
+  {
+    "source": "WF!AA139",
+    "material": "beams",
+    "values": {
+      "rating": "38",
+      "length": "12",
+      "quantity": "63"
+    },
+    "expectedTotal": 42741.08009543596
+  },
+  {
+    "source": "WF!AA141",
+    "material": "beams",
+    "values": {
+      "rating": "43",
+      "length": "12",
+      "quantity": "27"
+    },
+    "expectedTotal": 20727.817038764053
+  },
+  {
+    "source": "WF!AA142",
+    "material": "beams",
+    "values": {
+      "rating": "48",
+      "length": "6",
+      "quantity": "3"
+    },
+    "expectedTotal": 1285.4460179078483
+  },
+  {
+    "source": "WF!AA143",
+    "material": "beams",
+    "values": {
+      "rating": "48",
+      "length": "12",
+      "quantity": "47"
+    },
+    "expectedTotal": 40277.30856111258
+  },
+  {
+    "source": "WF!AA146",
+    "material": "beams",
+    "values": {
+      "rating": "61",
+      "length": "6",
+      "quantity": "3"
+    },
+    "expectedTotal": 1633.5876477578904
+  },
+  {
+    "source": "WF!AA147",
+    "material": "beams",
+    "values": {
+      "rating": "61",
+      "length": "12",
+      "quantity": "31"
+    },
+    "expectedTotal": 33760.8113869964
+  },
+  {
+    "source": "WF!AA148",
+    "material": "beams",
+    "values": {
+      "rating": "68",
+      "length": "6",
+      "quantity": "3"
+    },
+    "expectedTotal": 1821.0485253694517
+  },
+  {
+    "source": "WF!AA149",
+    "material": "beams",
+    "values": {
+      "rating": "68",
+      "length": "12",
+      "quantity": "30"
+    },
+    "expectedTotal": 36420.970507389036
+  },
+  {
+    "source": "WF!AA150",
+    "material": "beams",
+    "values": {
+      "rating": "74",
+      "length": "6",
+      "quantity": "1"
+    },
+    "expectedTotal": 660.5764258693108
+  },
+  {
+    "source": "WF!AA152",
+    "material": "beams",
+    "values": {
+      "rating": "26",
+      "length": "6",
+      "quantity": "2"
+    },
+    "expectedTotal": 464.1888398000563
+  },
+  {
+    "source": "WF!AA154",
+    "material": "beams",
+    "values": {
+      "rating": "31",
+      "length": "6",
+      "quantity": "2"
+    },
+    "expectedTotal": 553.4559243769902
+  },
+  {
+    "source": "WF!AA155",
+    "material": "beams",
+    "values": {
+      "rating": "31",
+      "length": "12",
+      "quantity": "3"
+    },
+    "expectedTotal": 1660.3677731309706
+  },
+  {
+    "source": "WF!AA156",
+    "material": "beams",
+    "values": {
+      "rating": "36",
+      "length": "6",
+      "quantity": "5"
+    },
+    "expectedTotal": 1606.8075223848105
+  },
+  {
+    "source": "WF!AA157",
+    "material": "beams",
+    "values": {
+      "rating": "36",
+      "length": "12",
+      "quantity": "19"
+    },
+    "expectedTotal": 12211.73717012456
+  },
+  {
+    "source": "WF!AA158",
+    "material": "beams",
+    "values": {
+      "rating": "40",
+      "length": "6",
+      "quantity": "8"
+    },
+    "expectedTotal": 2856.546706461885
+  },
+  {
+    "source": "WF!AA159",
+    "material": "beams",
+    "values": {
+      "rating": "40",
+      "length": "12",
+      "quantity": "5"
+    },
+    "expectedTotal": 3570.6833830773567
+  },
+  {
+    "source": "WF!AA160",
+    "material": "wideMetric",
+    "values": {
+      "rating": "56.6",
+      "length": "6",
+      "quantity": "66"
+    },
+    "expectedTotal": 22413.600000000002
+  },
+  {
+    "source": "WF!AA161",
+    "material": "wideMetric",
+    "values": {
+      "rating": "56.6",
+      "length": "12",
+      "quantity": "34"
+    },
+    "expectedTotal": 23092.800000000003
+  },
+  {
+    "source": "WF!AA162",
+    "material": "beams",
+    "values": {
+      "rating": "45",
+      "length": "6",
+      "quantity": "3"
+    },
+    "expectedTotal": 1205.1056417886077
+  },
+  {
+    "source": "WF!AA163",
+    "material": "beams",
+    "values": {
+      "rating": "45",
+      "length": "12",
+      "quantity": "37"
+    },
+    "expectedTotal": 29725.93916411899
+  },
+  {
+    "source": "WF!AA164",
+    "material": "wideMetric",
+    "values": {
+      "rating": "65.400000000000006",
+      "length": "6",
+      "quantity": "83"
+    },
+    "expectedTotal": 32569.200000000004
+  },
+  {
+    "source": "WF!AA165",
+    "material": "wideMetric",
+    "values": {
+      "rating": "65.400000000000006",
+      "length": "12",
+      "quantity": "34"
+    },
+    "expectedTotal": 26683.2
+  },
+  {
+    "source": "WF!AA166",
+    "material": "beams",
+    "values": {
+      "rating": "50",
+      "length": "6",
+      "quantity": "3"
+    },
+    "expectedTotal": 1339.0062686540086
+  },
+  {
+    "source": "WF!AA167",
+    "material": "beams",
+    "values": {
+      "rating": "50",
+      "length": "12",
+      "quantity": "32"
+    },
+    "expectedTotal": 28565.46706461885
+  },
+  {
+    "source": "WF!AA168",
+    "material": "beams",
+    "values": {
+      "rating": "35",
+      "length": "6",
+      "quantity": "1"
+    },
+    "expectedTotal": 312.4347960192686
+  },
+  {
+    "source": "WF!AA169",
+    "material": "beams",
+    "values": {
+      "rating": "35",
+      "length": "12",
+      "quantity": "1"
+    },
+    "expectedTotal": 624.8695920385372
+  },
+  {
+    "source": "WF!AA171",
+    "material": "beams",
+    "values": {
+      "rating": "40",
+      "length": "12",
+      "quantity": "3"
+    },
+    "expectedTotal": 2142.4100298464136
+  },
+  {
+    "source": "WF!AA172",
+    "material": "beams",
+    "values": {
+      "rating": "50",
+      "length": "6",
+      "quantity": "3"
+    },
+    "expectedTotal": 1339.0062686540086
+  },
+  {
+    "source": "WF!AA173",
+    "material": "beams",
+    "values": {
+      "rating": "50",
+      "length": "12",
+      "quantity": "7"
+    },
+    "expectedTotal": 6248.695920385373
+  },
+  {
+    "source": "WF!AA174",
+    "material": "beams",
+    "values": {
+      "rating": "55",
+      "length": "6",
+      "quantity": "2"
+    },
+    "expectedTotal": 981.937930346273
+  },
+  {
+    "source": "WF!AA175",
+    "material": "beams",
+    "values": {
+      "rating": "55",
+      "length": "12",
+      "quantity": "45"
+    },
+    "expectedTotal": 44187.20686558229
+  },
+  {
+    "source": "WF!AA177",
+    "material": "beams",
+    "values": {
+      "rating": "60",
+      "length": "12",
+      "quantity": "27"
+    },
+    "expectedTotal": 28922.535402926584
+  },
+  {
+    "source": "WF!AA178",
+    "material": "beams",
+    "values": {
+      "rating": "65",
+      "length": "6",
+      "quantity": "1"
+    },
+    "expectedTotal": 580.2360497500704
+  },
+  {
+    "source": "WF!AA179",
+    "material": "beams",
+    "values": {
+      "rating": "65",
+      "length": "12",
+      "quantity": "55"
+    },
+    "expectedTotal": 63825.96547250774
+  },
+  {
+    "source": "WF!AA180",
+    "material": "beams",
+    "values": {
+      "rating": "68",
+      "length": "6",
+      "quantity": "14"
+    },
+    "expectedTotal": 8498.226451724107
+  },
+  {
+    "source": "WF!AA181",
+    "material": "beams",
+    "values": {
+      "rating": "68",
+      "length": "12",
+      "quantity": "31"
+    },
+    "expectedTotal": 37635.002857635336
+  },
+  {
+    "source": "WF!AA182",
+    "material": "beams",
+    "values": {
+      "rating": "62",
+      "length": "6",
+      "quantity": "3"
+    },
+    "expectedTotal": 1660.3677731309706
+  },
+  {
+    "source": "WF!AA183",
+    "material": "beams",
+    "values": {
+      "rating": "62",
+      "length": "12",
+      "quantity": "15"
+    },
+    "expectedTotal": 16603.677731309705
+  },
+  {
+    "source": "WF!AA184",
+    "material": "beams",
+    "values": {
+      "rating": "68",
+      "length": "6",
+      "quantity": "1"
+    },
+    "expectedTotal": 607.0161751231506
+  },
+  {
+    "source": "WF!AA185",
+    "material": "beams",
+    "values": {
+      "rating": "68",
+      "length": "12",
+      "quantity": "7"
+    },
+    "expectedTotal": 8498.226451724107
+  },
+  {
+    "source": "WF!AA186",
+    "material": "beams",
+    "values": {
+      "rating": "76",
+      "length": "6",
+      "quantity": "2"
+    },
+    "expectedTotal": 1356.8596855693954
+  },
+  {
+    "source": "WF!AA187",
+    "material": "beams",
+    "values": {
+      "rating": "76",
+      "length": "12",
+      "quantity": "27"
+    },
+    "expectedTotal": 36635.21151037368
+  },
+  {
+    "source": "WF!AA191",
+    "material": "beams",
+    "values": {
+      "rating": "57",
+      "length": "12",
+      "quantity": "4"
+    },
+    "expectedTotal": 4070.579056708186
+  },
+  {
+    "source": "WF!AA192",
+    "material": "beams",
+    "values": {
+      "rating": "50",
+      "length": "6",
+      "quantity": "2"
+    },
+    "expectedTotal": 892.670845769339
+  },
+  {
+    "source": "WF!AA193",
+    "material": "beams",
+    "values": {
+      "rating": "50",
+      "length": "12",
+      "quantity": "21"
+    },
+    "expectedTotal": 18746.08776115612
+  },
+  {
+    "source": "WF!AA194",
+    "material": "beams",
+    "values": {
+      "rating": "12",
+      "length": "6",
+      "quantity": "7"
+    },
+    "expectedTotal": 749.8435104462447
+  },
+  {
+    "source": "WF!AA195",
+    "material": "beams",
+    "values": {
+      "rating": "12",
+      "length": "12",
+      "quantity": "226"
+    },
+    "expectedTotal": 48418.46667452895
+  },
+  {
+    "source": "WF!AA196",
+    "material": "beams",
+    "values": {
+      "rating": "45",
+      "length": "6",
+      "quantity": "3"
+    },
+    "expectedTotal": 1205.1056417886077
+  },
+  {
+    "source": "WF!AA197",
+    "material": "beams",
+    "values": {
+      "rating": "45",
+      "length": "12",
+      "quantity": "52"
+    },
+    "expectedTotal": 41776.99558200507
+  },
+  {
+    "source": "WF!AA198",
+    "material": "beams",
+    "values": {
+      "rating": "62",
+      "length": "6",
+      "quantity": "6"
+    },
+    "expectedTotal": 3320.735546261941
+  },
+  {
+    "source": "WF!AA199",
+    "material": "beams",
+    "values": {
+      "rating": "62",
+      "length": "12",
+      "quantity": "19"
+    },
+    "expectedTotal": 21031.325126325628
+  },
+  {
+    "source": "WF!AA202",
+    "material": "beams",
+    "values": {
+      "rating": "16",
+      "length": "6",
+      "quantity": "4"
+    },
+    "expectedTotal": 571.309341292377
+  },
+  {
+    "source": "WF!AA203",
+    "material": "beams",
+    "values": {
+      "rating": "16",
+      "length": "12",
+      "quantity": "162"
+    },
+    "expectedTotal": 46276.05664468253
+  },
+  {
+    "source": "WF!AA206",
+    "material": "beams",
+    "values": {
+      "rating": "44",
+      "length": "6",
+      "quantity": "1"
+    },
+    "expectedTotal": 392.77517213850916
+  },
+  {
+    "source": "WF!AA210",
+    "material": "wideMetric",
+    "values": {
+      "rating": "41.2",
+      "length": "6",
+      "quantity": "19"
+    },
+    "expectedTotal": 4696.8
+  },
+  {
+    "source": "WF!AA211",
+    "material": "wideMetric",
+    "values": {
+      "rating": "41.2",
+      "length": "12",
+      "quantity": "40"
+    },
+    "expectedTotal": 19776
+  },
+  {
+    "source": "WF!AA212",
+    "material": "wideMetric",
+    "values": {
+      "rating": "29.9",
+      "length": "6",
+      "quantity": "23"
+    },
+    "expectedTotal": 4126.2
+  },
+  {
+    "source": "WF!AA213",
+    "material": "wideMetric",
+    "values": {
+      "rating": "29.9",
+      "length": "12",
+      "quantity": "100"
+    },
+    "expectedTotal": 35879.99999999999
+  },
+  {
+    "source": "WF!AA214",
+    "material": "beams",
+    "values": {
+      "rating": "16",
+      "length": "6",
+      "quantity": "1"
+    },
+    "expectedTotal": 142.82733532309425
+  },
+  {
+    "source": "WF!AA216",
+    "material": "beams",
+    "values": {
+      "rating": "77",
+      "length": "6",
+      "quantity": "1"
+    },
+    "expectedTotal": 687.356551242391
+  },
+  {
+    "source": "WF!AA217",
+    "material": "beams",
+    "values": {
+      "rating": "77",
+      "length": "12",
+      "quantity": "37"
+    },
+    "expectedTotal": 50864.38479193694
+  },
+  {
+    "source": "WF!AA221",
+    "material": "beams",
+    "values": {
+      "rating": "106",
+      "length": "12",
+      "quantity": "24"
+    },
+    "expectedTotal": 45419.09263274397
+  },
+  {
+    "source": "WF!AA224",
+    "material": "beams",
+    "values": {
+      "rating": "55",
+      "length": "6",
+      "quantity": "1"
+    },
+    "expectedTotal": 490.9689651731365
+  },
+  {
+    "source": "WF!AA225",
+    "material": "beams",
+    "values": {
+      "rating": "55",
+      "length": "12",
+      "quantity": "34"
+    },
+    "expectedTotal": 33385.88963177328
+  },
+  {
+    "source": "WF!AA227",
+    "material": "beams",
+    "values": {
+      "rating": "84",
+      "length": "12",
+      "quantity": "30"
+    },
+    "expectedTotal": 44990.61062677469
+  },
+  {
+    "source": "WF!AA228",
+    "material": "beams",
+    "values": {
+      "rating": "50",
+      "length": "6",
+      "quantity": "2"
+    },
+    "expectedTotal": 892.670845769339
+  },
+  {
+    "source": "WF!AA229",
+    "material": "beams",
+    "values": {
+      "rating": "50",
+      "length": "12",
+      "quantity": "59"
+    },
+    "expectedTotal": 52667.57990039101
+  },
+  {
+    "source": "WF!AA238",
+    "material": "beams",
+    "values": {
+      "rating": "76",
+      "length": "6",
+      "quantity": "2"
+    },
+    "expectedTotal": 1356.8596855693954
+  },
+  {
+    "source": "WF!AA239",
+    "material": "beams",
+    "values": {
+      "rating": "76",
+      "length": "12",
+      "quantity": "28"
+    },
+    "expectedTotal": 37992.07119594307
+  },
+  {
+    "source": "WF!AA241",
+    "material": "beams",
+    "values": {
+      "rating": "86",
+      "length": "12",
+      "quantity": "14"
+    },
+    "expectedTotal": 21495.513966125684
+  },
+  {
+    "source": "WF!AA242",
+    "material": "beams",
+    "values": {
+      "rating": "55",
+      "length": "6",
+      "quantity": "1"
+    },
+    "expectedTotal": 490.9689651731365
+  },
+  {
+    "source": "WF!AA243",
+    "material": "beams",
+    "values": {
+      "rating": "55",
+      "length": "12",
+      "quantity": "1"
+    },
+    "expectedTotal": 981.937930346273
+  },
+  {
+    "source": "WF!AA247",
+    "material": "beams",
+    "values": {
+      "rating": "71",
+      "length": "12",
+      "quantity": "39"
+    },
+    "expectedTotal": 49436.111438706
+  },
+  {
+    "source": "WF!AA250",
+    "material": "beams",
+    "values": {
+      "rating": "73",
+      "length": "6",
+      "quantity": "2"
+    },
+    "expectedTotal": 1303.2994348232348
+  },
+  {
+    "source": "WF!AA251",
+    "material": "beams",
+    "values": {
+      "rating": "73",
+      "length": "12",
+      "quantity": "43"
+    },
+    "expectedTotal": 56041.8756973991
+  },
+  {
+    "source": "WF!AA252",
+    "material": "beams",
+    "values": {
+      "rating": "83",
+      "length": "6",
+      "quantity": "1"
+    },
+    "expectedTotal": 740.9168019885514
+  },
+  {
+    "source": "WF!AA253",
+    "material": "beams",
+    "values": {
+      "rating": "83",
+      "length": "12",
+      "quantity": "16"
+    },
+    "expectedTotal": 23709.337663633643
+  },
+  {
+    "source": "WF!AA259",
+    "material": "beams",
+    "values": {
+      "rating": "120",
+      "length": "12",
+      "quantity": "1"
+    },
+    "expectedTotal": 2142.4100298464136
+  },
+  {
+    "source": "WF!AA260",
+    "material": "beams",
+    "values": {
+      "rating": "130",
+      "length": "6",
+      "quantity": "2"
+    },
+    "expectedTotal": 2320.9441990002815
+  },
+  {
+    "source": "WF!AA261",
+    "material": "beams",
+    "values": {
+      "rating": "130",
+      "length": "12",
+      "quantity": "25"
+    },
+    "expectedTotal": 58023.60497500704
+  },
+  {
+    "source": "WF!AA262",
+    "material": "beams",
+    "values": {
+      "rating": "67",
+      "length": "6",
+      "quantity": "2"
+    },
+    "expectedTotal": 1196.1789333309143
+  },
+  {
+    "source": "WF!AA264",
+    "material": "beams",
+    "values": {
+      "rating": "94",
+      "length": "6",
+      "quantity": "2"
+    },
+    "expectedTotal": 1678.2211900463574
+  },
+  {
+    "source": "WF!AA265",
+    "material": "beams",
+    "values": {
+      "rating": "94",
+      "length": "12",
+      "quantity": "48"
+    },
+    "expectedTotal": 80554.61712222516
+  },
+  {
+    "source": "WF!AA266",
+    "material": "beams",
+    "values": {
+      "rating": "109",
+      "length": "6",
+      "quantity": "1"
+    },
+    "expectedTotal": 973.0112218885795
+  },
+  {
+    "source": "WF!AA267",
+    "material": "beams",
+    "values": {
+      "rating": "109",
+      "length": "12",
+      "quantity": "1"
+    },
+    "expectedTotal": 1946.022443777159
+  },
+  {
+    "source": "WF!AA274",
+    "material": "wideMetric",
+    "values": {
+      "rating": "78.099999999999994",
+      "length": "6",
+      "quantity": "56"
+    },
+    "expectedTotal": 26241.6
+  },
+  {
+    "source": "WF!AA275",
+    "material": "wideMetric",
+    "values": {
+      "rating": "78.099999999999994",
+      "length": "12",
+      "quantity": "34"
+    },
+    "expectedTotal": 31864.8
+  },
+  {
+    "source": "WF!AA280",
+    "material": "beams",
+    "values": {
+      "rating": "132",
+      "length": "6",
+      "quantity": "1"
+    },
+    "expectedTotal": 1178.3255164155273
+  },
+  {
+    "source": "WF!AA281",
+    "material": "beams",
+    "values": {
+      "rating": "132",
+      "length": "12",
+      "quantity": "16"
+    },
+    "expectedTotal": 37706.416525296874
+  },
+  {
+    "source": "WF!AA282",
+    "material": "beams",
+    "values": {
+      "rating": "99",
+      "length": "6",
+      "quantity": "4"
+    },
+    "expectedTotal": 3534.976549246582
+  },
+  {
+    "source": "WF!AA283",
+    "material": "beams",
+    "values": {
+      "rating": "99",
+      "length": "12",
+      "quantity": "27"
+    },
+    "expectedTotal": 47722.18341482886
+  },
+  {
+    "source": "WF!AA286",
+    "material": "beams",
+    "values": {
+      "rating": "124",
+      "length": "6",
+      "quantity": "1"
+    },
+    "expectedTotal": 1106.9118487539804
+  },
+  {
+    "source": "WF!AA291",
+    "material": "beams",
+    "values": {
+      "rating": "119",
+      "length": "12",
+      "quantity": "21"
+    },
+    "expectedTotal": 44615.68887155157
+  },
+  {
+    "source": "WF!AA294",
+    "material": "beams",
+    "values": {
+      "rating": "86",
+      "length": "6",
+      "quantity": "1"
+    },
+    "expectedTotal": 767.6969273616315
+  },
+  {
+    "source": "WF!AA300",
+    "material": "beams",
+    "values": {
+      "rating": "77",
+      "length": "6",
+      "quantity": "6"
+    },
+    "expectedTotal": 4124.139307454346
+  },
+  {
+    "source": "WF!AA301",
+    "material": "beams",
+    "values": {
+      "rating": "77",
+      "length": "12",
+      "quantity": "2"
+    },
+    "expectedTotal": 2749.426204969564
+  },
+  {
+    "source": "WF!AA302",
+    "material": "beams",
+    "values": {
+      "rating": "103",
+      "length": "6",
+      "quantity": "1"
+    },
+    "expectedTotal": 919.4509711424191
+  },
+  {
+    "source": "WF!AA303",
+    "material": "beams",
+    "values": {
+      "rating": "103",
+      "length": "12",
+      "quantity": "18"
+    },
+    "expectedTotal": 33100.23496112709
+  },
+  {
+    "source": "WF!AA304",
+    "material": "beams",
+    "values": {
+      "rating": "101",
+      "length": "6",
+      "quantity": "1"
+    },
+    "expectedTotal": 901.5975542270324
+  },
+  {
+    "source": "WF!AA305",
+    "material": "beams",
+    "values": {
+      "rating": "101",
+      "length": "12",
+      "quantity": "6"
+    },
+    "expectedTotal": 10819.170650724389
+  },
+  {
+    "source": "WF!AA306",
+    "material": "beams",
+    "values": {
+      "rating": "111",
+      "length": "6",
+      "quantity": "1"
+    },
+    "expectedTotal": 990.8646388039663
+  },
+  {
+    "source": "WF!AA307",
+    "material": "beams",
+    "values": {
+      "rating": "111",
+      "length": "12",
+      "quantity": "32"
+    },
+    "expectedTotal": 63415.33688345384
+  },
+  {
+    "source": "WF!AA308",
+    "material": "beams",
+    "values": {
+      "rating": "106",
+      "length": "6",
+      "quantity": "1"
+    },
+    "expectedTotal": 946.2310965154993
+  },
+  {
+    "source": "WF!AA309",
+    "material": "beams",
+    "values": {
+      "rating": "106",
+      "length": "12",
+      "quantity": "7"
+    },
+    "expectedTotal": 13247.23535121699
+  },
+  {
+    "source": "WF!AA310",
+    "material": "beams",
+    "values": {
+      "rating": "176",
+      "length": "6",
+      "quantity": "2"
+    },
+    "expectedTotal": 3142.2013771080733
+  },
+  {
+    "source": "WF!AA311",
+    "material": "beams",
+    "values": {
+      "rating": "176",
+      "length": "12",
+      "quantity": "18"
+    },
+    "expectedTotal": 56559.62478794532
+  },
+  {
+    "source": "WF!AA312",
+    "material": "wideMetric",
+    "values": {
+      "rating": "20.7",
+      "length": "6",
+      "quantity": "184"
+    },
+    "expectedTotal": 22852.8
+  },
+  {
+    "source": "WF!AA313",
+    "material": "wideMetric",
+    "values": {
+      "rating": "20.7",
+      "length": "12",
+      "quantity": "135"
+    },
+    "expectedTotal": 33534
+  },
+  {
+    "source": "WF!AA315",
+    "material": "wideMetric",
+    "values": {
+      "rating": "55.8",
+      "length": "10",
+      "quantity": "6"
+    },
+    "expectedTotal": 3348
+  },
+  {
+    "source": "WF!AA316",
+    "material": "wideMetric",
+    "values": {
+      "rating": "55.8",
+      "length": "6",
+      "quantity": "1"
+    },
+    "expectedTotal": 334.79999999999995
+  },
+  {
+    "source": "WF!AA317",
+    "material": "wideMetric",
+    "values": {
+      "rating": "55.8",
+      "length": "12",
+      "quantity": "1"
+    },
+    "expectedTotal": 669.5999999999999
+  },
+  {
+    "source": "WF!AA320",
+    "material": "wideMetric",
+    "values": {
+      "rating": "93",
+      "length": "6",
+      "quantity": "5"
+    },
+    "expectedTotal": 2790
+  },
+  {
+    "source": "WF!AA321",
+    "material": "wideMetric",
+    "values": {
+      "rating": "93",
+      "length": "12",
+      "quantity": "104"
+    },
+    "expectedTotal": 116064
+  },
+  {
+    "source": "WF!AA322",
+    "material": "wideMetric",
+    "values": {
+      "rating": "49.4",
+      "length": "6",
+      "quantity": "58"
+    },
+    "expectedTotal": 17191.199999999997
+  },
+  {
+    "source": "WF!AA323",
+    "material": "wideMetric",
+    "values": {
+      "rating": "49.4",
+      "length": "12",
+      "quantity": "10"
+    },
+    "expectedTotal": 5928
+  },
+  {
+    "source": "WF!AA328",
+    "material": "wideMetric",
+    "values": {
+      "rating": "72.400000000000006",
+      "length": "6",
+      "quantity": "77"
+    },
+    "expectedTotal": 33448.8
+  },
+  {
+    "source": "WF!AA329",
+    "material": "wideMetric",
+    "values": {
+      "rating": "72.400000000000006",
+      "length": "12",
+      "quantity": "72"
+    },
+    "expectedTotal": 62553.600000000006
+  },
+  {
+    "source": "WF!AA330",
+    "material": "wideMetric",
+    "values": {
+      "rating": "135",
+      "length": "6",
+      "quantity": "2"
+    },
+    "expectedTotal": 1620
+  },
+  {
+    "source": "WF!AA331",
+    "material": "wideMetric",
+    "values": {
+      "rating": "135",
+      "length": "12",
+      "quantity": "40"
+    },
+    "expectedTotal": 64800
+  },
+  {
+    "source": "WF!AA332",
+    "material": "beams",
+    "values": {
+      "rating": "93",
+      "length": "6",
+      "quantity": "1"
+    },
+    "expectedTotal": 830.1838865654853
+  },
+  {
+    "source": "WF!AA333",
+    "material": "beams",
+    "values": {
+      "rating": "93",
+      "length": "12",
+      "quantity": "18"
+    },
+    "expectedTotal": 29886.61991635747
+  },
+  {
+    "source": "WF!AA339",
+    "material": "beams",
+    "values": {
+      "rating": "13",
+      "length": "6",
+      "quantity": "6"
+    },
+    "expectedTotal": 696.2832597000845
+  },
+  {
+    "source": "WF!AA340",
+    "material": "beams",
+    "values": {
+      "rating": "13",
+      "length": "12",
+      "quantity": "4"
+    },
+    "expectedTotal": 928.3776796001126
+  },
+  {
+    "source": "WF!AA341",
+    "material": "beams",
+    "values": {
+      "rating": "15",
+      "length": "6",
+      "quantity": "4"
+    },
+    "expectedTotal": 535.6025074616034
+  },
+  {
+    "source": "WF!AA343",
+    "material": "beams",
+    "values": {
+      "rating": "100",
+      "length": "6",
+      "quantity": "1"
+    },
+    "expectedTotal": 892.670845769339
+  },
+  {
+    "source": "WF!AA344",
+    "material": "beams",
+    "values": {
+      "rating": "100",
+      "length": "12",
+      "quantity": "4"
+    },
+    "expectedTotal": 7141.366766154712
+  },
+  {
+    "source": "WF!AA347",
+    "material": "beams",
+    "values": {
+      "rating": "82",
+      "length": "6",
+      "quantity": "2"
+    },
+    "expectedTotal": 1463.980187061716
+  },
+  {
+    "source": "WF!AA348",
+    "material": "beams",
+    "values": {
+      "rating": "82",
+      "length": "12",
+      "quantity": "36"
+    },
+    "expectedTotal": 52703.28673422177
+  },
+  {
+    "source": "WF!AA349",
+    "material": "beams",
+    "values": {
+      "rating": "89",
+      "length": "6",
+      "quantity": "1"
+    },
+    "expectedTotal": 794.4770527347117
+  },
+  {
+    "source": "WF!AA363",
+    "material": "beams",
+    "values": {
+      "rating": "159",
+      "length": "6",
+      "quantity": "2"
+    },
+    "expectedTotal": 2838.693289546498
+  },
+  {
+    "source": "WF!AA365",
+    "material": "beams",
+    "values": {
+      "rating": "145",
+      "length": "6",
+      "quantity": "1"
+    },
+    "expectedTotal": 1294.3727263655414
+  },
+  {
+    "source": "WF!AA366",
+    "material": "beams",
+    "values": {
+      "rating": "145",
+      "length": "12",
+      "quantity": "21"
+    },
+    "expectedTotal": 54363.65450735274
+  },
+  {
+    "source": "WF!AA385",
+    "material": "wideMetric",
+    "values": {
+      "rating": "23.8",
+      "length": "6",
+      "quantity": "40"
+    },
+    "expectedTotal": 5712
+  },
+  {
+    "source": "WF!AA386",
+    "material": "wideMetric",
+    "values": {
+      "rating": "23.8",
+      "length": "12",
+      "quantity": "153"
+    },
+    "expectedTotal": 43696.8
+  },
+  {
+    "source": "WF!AA409",
+    "material": "wideMetric",
+    "values": {
+      "rating": "14",
+      "length": "6",
+      "quantity": "1"
+    },
+    "expectedTotal": 84
+  },
+  {
+    "source": "WF!AA410",
+    "material": "wideMetric",
+    "values": {
+      "rating": "14",
+      "length": "12",
+      "quantity": "278"
+    },
+    "expectedTotal": 46704
+  },
+  {
+    "source": "WF!AA413",
+    "material": "wideMetric",
+    "values": {
+      "rating": "29",
+      "length": "6",
+      "quantity": "15"
+    },
+    "expectedTotal": 2610
+  },
+  {
+    "source": "WF!AA414",
+    "material": "wideMetric",
+    "values": {
+      "rating": "29",
+      "length": "12",
+      "quantity": "43"
+    },
+    "expectedTotal": 14964
+  },
+  {
+    "source": "RF!N8",
+    "material": "roll",
+    "values": {
+      "thickness": "1.1000000000000001",
+      "width": "202",
+      "length": "6",
+      "quantity": "16"
+    },
+    "expectedTotal": 167.66323200000002
+  },
+  {
+    "source": "RF!N10",
+    "material": "roll",
+    "values": {
+      "thickness": "1.1000000000000001",
+      "width": "270",
+      "length": "6",
+      "quantity": "135"
+    },
+    "expectedTotal": 1890.8802000000003
+  },
+  {
+    "source": "RF!N11",
+    "material": "roll",
+    "values": {
+      "thickness": "1.3",
+      "width": "202",
+      "length": "6",
+      "quantity": "3"
+    },
+    "expectedTotal": 37.152648000000006
+  },
+  {
+    "source": "RF!N12",
+    "material": "roll",
+    "values": {
+      "thickness": "1.3",
+      "width": "253",
+      "length": "6",
+      "quantity": "100"
+    },
+    "expectedTotal": 1551.0924000000002
+  },
+  {
+    "source": "RF!N13",
+    "material": "roll",
+    "values": {
+      "thickness": "1.3",
+      "width": "270",
+      "length": "6",
+      "quantity": "231"
+    },
+    "expectedTotal": 3823.7799600000003
+  },
+  {
+    "source": "RF!N14",
+    "material": "roll",
+    "values": {
+      "thickness": "1.5",
+      "width": "202",
+      "length": "6",
+      "quantity": "34"
+    },
+    "expectedTotal": 485.84232000000003
+  },
+  {
+    "source": "RF!N15",
+    "material": "roll",
+    "values": {
+      "thickness": "1.5",
+      "width": "253",
+      "length": "6",
+      "quantity": "10"
+    },
+    "expectedTotal": 178.97220000000002
+  },
+  {
+    "source": "RF!N16",
+    "material": "roll",
+    "values": {
+      "thickness": "1.5",
+      "width": "270",
+      "length": "6",
+      "quantity": "8"
+    },
+    "expectedTotal": 152.79840000000002
+  },
+  {
+    "source": "RF!N17",
+    "material": "roll",
+    "values": {
+      "thickness": "2",
+      "width": "202",
+      "length": "6",
+      "quantity": "27"
+    },
+    "expectedTotal": 514.42128
+  },
+  {
+    "source": "RF!N18",
+    "material": "roll",
+    "values": {
+      "thickness": "2",
+      "width": "253",
+      "length": "6",
+      "quantity": "2"
+    },
+    "expectedTotal": 47.72592
+  },
+  {
+    "source": "RF!N19",
+    "material": "roll",
+    "values": {
+      "thickness": "2",
+      "width": "270",
+      "length": "6",
+      "quantity": "34"
+    },
+    "expectedTotal": 865.8576000000002
+  },
+  {
+    "source": "RF!N20",
+    "material": "roll",
+    "values": {
+      "thickness": "1.6",
+      "width": "202",
+      "length": "6",
+      "quantity": "38"
+    },
+    "expectedTotal": 579.2002560000002
+  },
+  {
+    "source": "RF!N22",
+    "material": "roll",
+    "values": {
+      "thickness": "1.8",
+      "width": "243",
+      "length": "6",
+      "quantity": "52"
+    },
+    "expectedTotal": 1072.644768
+  },
+  {
+    "source": "RF!N27",
+    "material": "roll",
+    "values": {
+      "thickness": "1.7",
+      "width": "270",
+      "length": "6",
+      "quantity": "6"
+    },
+    "expectedTotal": 129.87864000000002
+  },
+  {
+    "source": "RF!N29",
+    "material": "roll",
+    "values": {
+      "thickness": "1.35",
+      "width": "202",
+      "length": "6",
+      "quantity": "18"
+    },
+    "expectedTotal": 231.48957600000006
+  },
+  {
+    "source": "RF!N30",
+    "material": "roll",
+    "values": {
+      "thickness": "1.35",
+      "width": "253",
+      "length": "6",
+      "quantity": "16"
+    },
+    "expectedTotal": 257.71996800000005
+  },
+  {
+    "source": "RF!N31",
+    "material": "roll",
+    "values": {
+      "thickness": "1.35",
+      "width": "270",
+      "length": "6",
+      "quantity": "2"
+    },
+    "expectedTotal": 34.37964
+  },
+  {
+    "source": "RF!N32",
+    "material": "roll",
+    "values": {
+      "thickness": "1.5",
+      "width": "173",
+      "length": "6",
+      "quantity": "83"
+    },
+    "expectedTotal": 1015.75566
+  },
+  {
+    "source": "RF!N33",
+    "material": "roll",
+    "values": {
+      "thickness": "1.8",
+      "width": "202",
+      "length": "6",
+      "quantity": "89"
+    },
+    "expectedTotal": 1526.1164640000004
+  },
+  {
+    "source": "RF!N34",
+    "material": "roll",
+    "values": {
+      "thickness": "1.8",
+      "width": "270",
+      "length": "6",
+      "quantity": "44"
+    },
+    "expectedTotal": 1008.4694400000002
+  },
+  {
+    "source": "RF!N35",
+    "material": "roll",
+    "values": {
+      "thickness": "1.2",
+      "width": "202",
+      "length": "6",
+      "quantity": "71"
+    },
+    "expectedTotal": 811.6424639999999
+  },
+  {
+    "source": "RF!N37",
+    "material": "roll",
+    "values": {
+      "thickness": "1.4",
+      "width": "202",
+      "length": "6",
+      "quantity": "116"
+    },
+    "expectedTotal": 1547.074368
+  },
+  {
+    "source": "RF!N38",
+    "material": "roll",
+    "values": {
+      "thickness": "1.2",
+      "width": "270",
+      "length": "6",
+      "quantity": "74"
+    },
+    "expectedTotal": 1130.7081600000001
+  },
+  {
+    "source": "RF!N39",
+    "material": "roll",
+    "values": {
+      "thickness": "1.4",
+      "width": "270",
+      "length": "6",
+      "quantity": "7"
+    },
+    "expectedTotal": 124.78536
+  },
+  {
+    "source": "RF!N56",
+    "material": "roll",
+    "values": {
+      "thickness": "1",
+      "width": "202",
+      "length": "6",
+      "quantity": "3"
+    },
+    "expectedTotal": 28.578960000000002
+  },
+  {
+    "source": "RF!N58",
+    "material": "roll",
+    "values": {
+      "thickness": "1",
+      "width": "253",
+      "length": "6",
+      "quantity": "2"
+    },
+    "expectedTotal": 23.86296
+  },
+  {
+    "source": "RF!N59",
+    "material": "roll",
+    "values": {
+      "thickness": "1.05",
+      "width": "243",
+      "length": "6",
+      "quantity": "256"
+    },
+    "expectedTotal": 3080.4157440000004
+  },
+  {
+    "source": "RF!N60",
+    "material": "roll",
+    "values": {
+      "thickness": "1.2",
+      "width": "253",
+      "length": "6",
+      "quantity": "185"
+    },
+    "expectedTotal": 2648.78856
+  },
+  {
+    "source": "RF!N62",
+    "material": "roll",
+    "values": {
+      "thickness": "1.1499999999999999",
+      "width": "202",
+      "length": "6",
+      "quantity": "154"
+    },
+    "expectedTotal": 1687.111272
+  },
+  {
+    "source": "RF!N63",
+    "material": "roll",
+    "values": {
+      "thickness": "1.1499999999999999",
+      "width": "243",
+      "length": "6",
+      "quantity": "11"
+    },
+    "expectedTotal": 144.96748200000002
+  },
+  {
+    "source": "RF!N64",
+    "material": "roll",
+    "values": {
+      "thickness": "1.2",
+      "width": "173",
+      "length": "6",
+      "quantity": "54"
+    },
+    "expectedTotal": 528.682464
+  },
+  {
+    "source": "RF!N68",
+    "material": "roll",
+    "values": {
+      "thickness": "1.45",
+      "width": "243",
+      "length": "6",
+      "quantity": "83"
+    },
+    "expectedTotal": 1379.1965579999999
+  },
+  {
+    "source": "RF!N71",
+    "material": "roll",
+    "values": {
+      "thickness": "1.45",
+      "width": "202",
+      "length": "6",
+      "quantity": "379"
+    },
+    "expectedTotal": 5235.189156
+  },
+  {
+    "source": "RF!N73",
+    "material": "roll",
+    "values": {
+      "thickness": "1.8",
+      "width": "173",
+      "length": "6",
+      "quantity": "7"
+    },
+    "expectedTotal": 102.79936800000002
+  },
+  {
+    "source": "RF!N78",
+    "material": "roll",
+    "values": {
+      "thickness": "2",
+      "width": "173",
+      "length": "6",
+      "quantity": "41"
+    },
+    "expectedTotal": 669.01176
+  },
+  {
+    "source": "RF!N79",
+    "material": "roll",
+    "values": {
+      "thickness": "1.9",
+      "width": "270",
+      "length": "6",
+      "quantity": "87"
+    },
+    "expectedTotal": 2104.7979600000003
+  },
+  {
+    "source": "RF!N82",
+    "material": "roll",
+    "values": {
+      "thickness": "1.4",
+      "width": "243",
+      "length": "6",
+      "quantity": "56"
+    },
+    "expectedTotal": 898.4545919999999
+  },
+  {
+    "source": "RF!N83",
+    "material": "roll",
+    "values": {
+      "thickness": "1.35",
+      "width": "202",
+      "length": "4",
+      "quantity": "1300"
+    },
+    "expectedTotal": 11145.794400000002
+  },
+  {
+    "source": "RF!N86",
+    "material": "roll",
+    "values": {
+      "thickness": "1.35",
+      "width": "202",
+      "length": "4.5999999999999996",
+      "quantity": "598"
+    },
+    "expectedTotal": 5896.125237600001
+  },
+  {
+    "source": "RF!N99",
+    "material": "roll",
+    "values": {
+      "thickness": "1.45",
+      "width": "270",
+      "length": "6",
+      "quantity": "141"
+    },
+    "expectedTotal": 2603.3027400000005
+  },
+  {
+    "source": "RF!N104",
+    "material": "roll",
+    "values": {
+      "thickness": "1.3",
+      "width": "173",
+      "length": "6",
+      "quantity": "401"
+    },
+    "expectedTotal": 4253.119884000001
+  },
+  {
+    "source": "RF!N106",
+    "material": "roll",
+    "values": {
+      "thickness": "1.25",
+      "width": "243",
+      "length": "6",
+      "quantity": "14"
+    },
+    "expectedTotal": 200.54790000000003
+  },
+  {
+    "source": "RF!N114",
+    "material": "roll",
+    "values": {
+      "thickness": "1.4",
+      "width": "173",
+      "length": "6",
+      "quantity": "38"
+    },
+    "expectedTotal": 434.04177599999997
+  },
+  {
+    "source": "RF!N118",
+    "material": "roll",
+    "values": {
+      "thickness": "1.9",
+      "width": "243",
+      "length": "6",
+      "quantity": "42"
+    },
+    "expectedTotal": 914.498424
+  },
+  {
+    "source": "RF!N119",
+    "material": "roll",
+    "values": {
+      "thickness": "1.9",
+      "width": "202",
+      "length": "6",
+      "quantity": "6"
+    },
+    "expectedTotal": 108.60004799999999
+  },
+  {
+    "source": "RF!N127",
+    "material": "roll",
+    "values": {
+      "thickness": "3",
+      "width": "202",
+      "length": "6",
+      "quantity": "1"
+    },
+    "expectedTotal": 28.578960000000002
+  },
+  {
+    "source": "RF!N130",
+    "material": "roll",
+    "values": {
+      "thickness": "1.7",
+      "width": "202",
+      "length": "6",
+      "quantity": "280"
+    },
+    "expectedTotal": 4534.52832
+  },
+  {
+    "source": "RF!N131",
+    "material": "roll",
+    "values": {
+      "thickness": "1.7",
+      "width": "243",
+      "length": "6",
+      "quantity": "6"
+    },
+    "expectedTotal": 116.89077599999999
+  },
+  {
+    "source": "RF!N132",
+    "material": "roll",
+    "values": {
+      "thickness": "1.6",
+      "width": "173",
+      "length": "6",
+      "quantity": "2"
+    },
+    "expectedTotal": 26.107776000000005
+  },
+  {
+    "source": "RF!N135",
+    "material": "roll",
+    "values": {
+      "thickness": "1.7",
+      "width": "173",
+      "length": "6",
+      "quantity": "23"
+    },
+    "expectedTotal": 319.004388
+  },
+  {
+    "source": "RF!N137",
+    "material": "roll",
+    "values": {
+      "thickness": "1.45",
+      "width": "173",
+      "length": "6",
+      "quantity": "147"
+    },
+    "expectedTotal": 1739.022642
+  },
+  {
+    "source": "RF!N140",
+    "material": "roll",
+    "values": {
+      "thickness": "1.35",
+      "width": "270",
+      "length": "3.5",
+      "quantity": "201"
+    },
+    "expectedTotal": 2015.506395
+  },
+  {
+    "source": "RF!N141",
+    "material": "roll",
+    "values": {
+      "thickness": "1.35",
+      "width": "202",
+      "length": "3.5",
+      "quantity": "400"
+    },
+    "expectedTotal": 3000.7908000000007
+  },
+  {
+    "source": "RF!N145",
+    "material": "roll",
+    "values": {
+      "thickness": "1.25",
+      "width": "173",
+      "length": "6",
+      "quantity": "9"
+    },
+    "expectedTotal": 91.78515000000002
+  },
+  {
+    "source": "RF!N183",
+    "material": "roll",
+    "values": {
+      "thickness": "1.95",
+      "width": "243",
+      "length": "6",
+      "quantity": "30"
+    },
+    "expectedTotal": 670.4029800000001
+  },
+  {
+    "source": "RF!N184",
+    "material": "roll",
+    "values": {
+      "thickness": "1.9",
+      "width": "386",
+      "length": "6",
+      "quantity": "1"
+    },
+    "expectedTotal": 34.587144
+  },
+  {
+    "source": "RF!N190",
+    "material": "roll",
+    "values": {
+      "thickness": "1.95",
+      "width": "202",
+      "length": "6",
+      "quantity": "10"
+    },
+    "expectedTotal": 185.76324
+  },
+  {
+    "source": "RF!N191",
+    "material": "roll",
+    "values": {
+      "thickness": "1.95",
+      "width": "270",
+      "length": "6",
+      "quantity": "51"
+    },
+    "expectedTotal": 1266.31674
+  },
+  {
+    "source": "RF!N203",
+    "material": "roll",
+    "values": {
+      "thickness": "1.45",
+      "width": "294",
+      "length": "6",
+      "quantity": "2"
+    },
+    "expectedTotal": 40.208616000000006
+  },
+  {
+    "source": "RF!N210",
+    "material": "roll",
+    "values": {
+      "thickness": "1.45",
+      "width": "202",
+      "length": "4.5999999999999996",
+      "quantity": "2"
+    },
+    "expectedTotal": 21.180184799999996
+  },
+  {
+    "source": "RF!N238",
+    "material": "roll",
+    "values": {
+      "thickness": "1.1499999999999999",
+      "width": "244",
+      "length": "6",
+      "quantity": "2"
+    },
+    "expectedTotal": 26.466192
+  },
+  {
+    "source": "RF!N265",
+    "material": "roll",
+    "values": {
+      "thickness": "1.9",
+      "width": "173",
+      "length": "6",
+      "quantity": "3"
+    },
+    "expectedTotal": 46.504476000000004
+  },
+  {
+    "source": "RF!N268",
+    "material": "roll",
+    "values": {
+      "thickness": "1.3",
+      "width": "253",
+      "length": "5",
+      "quantity": "82"
+    },
+    "expectedTotal": 1059.9131400000003
+  },
+  {
+    "source": "RF!N270",
+    "material": "roll",
+    "values": {
+      "thickness": "1.3",
+      "width": "253",
+      "length": "5.5",
+      "quantity": "55"
+    },
+    "expectedTotal": 782.0090850000001
+  },
+  {
+    "source": "RF!N311",
+    "material": "roll",
+    "values": {
+      "thickness": "0.8",
+      "width": "173",
+      "length": "6",
+      "quantity": "547"
+    },
+    "expectedTotal": 3570.2383680000007
+  },
+  {
+    "source": "RF!N312",
+    "material": "roll",
+    "values": {
+      "thickness": "0.8",
+      "width": "202",
+      "length": "6",
+      "quantity": "108"
+    },
+    "expectedTotal": 823.0740480000002
+  },
+  {
+    "source": "RF!N313",
+    "material": "roll",
+    "values": {
+      "thickness": "0.8",
+      "width": "253",
+      "length": "6",
+      "quantity": "119"
+    },
+    "expectedTotal": 1135.876896
+  },
+  {
+    "source": "RF!N314",
+    "material": "roll",
+    "values": {
+      "thickness": "1",
+      "width": "173",
+      "length": "6",
+      "quantity": "417"
+    },
+    "expectedTotal": 3402.1695600000003
+  },
+  {
+    "source": "RF!N315",
+    "material": "roll",
+    "values": {
+      "thickness": "1",
+      "width": "202",
+      "length": "6",
+      "quantity": "15"
+    },
+    "expectedTotal": 142.8948
+  },
+  {
+    "source": "RF!N316",
+    "material": "roll",
+    "values": {
+      "thickness": "1",
+      "width": "253",
+      "length": "6",
+      "quantity": "360"
+    },
+    "expectedTotal": 4295.3328
+  },
+  {
+    "source": "RF!N318",
+    "material": "roll",
+    "values": {
+      "thickness": "1.5",
+      "width": "253",
+      "length": "6",
+      "quantity": "1"
+    },
+    "expectedTotal": 17.89722
+  },
+  {
+    "source": "RF!N319",
+    "material": "roll",
+    "values": {
+      "thickness": "1.4",
+      "width": "202",
+      "length": "6",
+      "quantity": "39"
+    },
+    "expectedTotal": 520.137072
+  },
+  {
+    "source": "RF!N320",
+    "material": "roll",
+    "values": {
+      "thickness": "1.5",
+      "width": "173",
+      "length": "6",
+      "quantity": "1"
+    },
+    "expectedTotal": 12.23802
+  },
+  {
+    "source": "RF!N321",
+    "material": "roll",
+    "values": {
+      "thickness": "1.4",
+      "width": "270",
+      "length": "6",
+      "quantity": "142"
+    },
+    "expectedTotal": 2531.36016
+  },
+  {
+    "source": "RF!N322",
+    "material": "roll",
+    "values": {
+      "thickness": "2",
+      "width": "243",
+      "length": "6",
+      "quantity": "233"
+    },
+    "expectedTotal": 5340.304080000001
+  },
+  {
+    "source": "RF!N324",
+    "material": "roll",
+    "values": {
+      "thickness": "1.2",
+      "width": "202",
+      "length": "6",
+      "quantity": "28"
+    },
+    "expectedTotal": 320.08435199999997
+  },
+  {
+    "source": "RF!N326",
+    "material": "roll",
+    "values": {
+      "thickness": "1.8",
+      "width": "202",
+      "length": "6",
+      "quantity": "34"
+    },
+    "expectedTotal": 583.0107840000002
+  },
+  {
+    "source": "RF!N327",
+    "material": "roll",
+    "values": {
+      "thickness": "1.3",
+      "width": "202",
+      "length": "6",
+      "quantity": "97"
+    },
+    "expectedTotal": 1201.2689520000001
+  },
+  {
+    "source": "RF!N328",
+    "material": "roll",
+    "values": {
+      "thickness": "1.3",
+      "width": "173",
+      "length": "6",
+      "quantity": "48"
+    },
+    "expectedTotal": 509.1016320000001
+  },
+  {
+    "source": "RF!N329",
+    "material": "roll",
+    "values": {
+      "thickness": "0.95",
+      "width": "173",
+      "length": "6",
+      "quantity": "27"
+    },
+    "expectedTotal": 209.27014200000002
+  },
+  {
+    "source": "RF!N333",
+    "material": "roll",
+    "values": {
+      "thickness": "1.45",
+      "width": "243",
+      "length": "6",
+      "quantity": "43"
+    },
+    "expectedTotal": 714.523518
+  },
+  {
+    "source": "RF!N334",
+    "material": "roll",
+    "values": {
+      "thickness": "1.45",
+      "width": "270",
+      "length": "6",
+      "quantity": "132"
+    },
+    "expectedTotal": 2437.13448
+  },
+  {
+    "source": "RF!N339",
+    "material": "roll",
+    "values": {
+      "thickness": "1.8",
+      "width": "173",
+      "length": "6",
+      "quantity": "58"
+    },
+    "expectedTotal": 851.7661920000002
+  },
+  {
+    "source": "RF!N340",
+    "material": "roll",
+    "values": {
+      "thickness": "1.3",
+      "width": "270",
+      "length": "6",
+      "quantity": "486"
+    },
+    "expectedTotal": 8044.835760000001
+  },
+  {
+    "source": "RF!N343",
+    "material": "roll",
+    "values": {
+      "thickness": "1.1000000000000001",
+      "width": "270",
+      "length": "6",
+      "quantity": "8"
+    },
+    "expectedTotal": 112.05216000000001
+  },
+  {
+    "source": "RF!N349",
+    "material": "roll",
+    "values": {
+      "thickness": "0.95",
+      "width": "243",
+      "length": "6",
+      "quantity": "10"
+    },
+    "expectedTotal": 108.86886000000001
+  },
+  {
+    "source": "RF!N350",
+    "material": "roll",
+    "values": {
+      "thickness": "1.05",
+      "width": "173",
+      "length": "6",
+      "quantity": "193"
+    },
+    "expectedTotal": 1653.3565020000003
+  },
+  {
+    "source": "RF!N351",
+    "material": "roll",
+    "values": {
+      "thickness": "1.4",
+      "width": "173",
+      "length": "6",
+      "quantity": "55"
+    },
+    "expectedTotal": 628.21836
+  },
+  {
+    "source": "RF!N354",
+    "material": "roll",
+    "values": {
+      "thickness": "0.85",
+      "width": "173",
+      "length": "6",
+      "quantity": "23"
+    },
+    "expectedTotal": 159.502194
+  },
+  {
+    "source": "RF!N359",
+    "material": "roll",
+    "values": {
+      "thickness": "1.3",
+      "width": "253",
+      "length": "6",
+      "quantity": "38"
+    },
+    "expectedTotal": 589.4151120000001
+  },
+  {
+    "source": "RF!N360",
+    "material": "roll",
+    "values": {
+      "thickness": "1.1000000000000001",
+      "width": "202",
+      "length": "6",
+      "quantity": "1"
+    },
+    "expectedTotal": 10.478952000000001
+  },
+  {
+    "source": "RF!N361",
+    "material": "roll",
+    "values": {
+      "thickness": "1.1000000000000001",
+      "width": "173",
+      "length": "6",
+      "quantity": "1"
+    },
+    "expectedTotal": 8.974548000000002
+  },
+  {
+    "source": "RF!N363",
+    "material": "roll",
+    "values": {
+      "thickness": "1.2",
+      "width": "253",
+      "length": "6",
+      "quantity": "57"
+    },
+    "expectedTotal": 816.113232
+  },
+  {
+    "source": "RF!N366",
+    "material": "roll",
+    "values": {
+      "thickness": "1.1499999999999999",
+      "width": "273",
+      "length": "6",
+      "quantity": "37"
+    },
+    "expectedTotal": 547.817634
+  },
+  {
+    "source": "RF!N368",
+    "material": "roll",
+    "values": {
+      "thickness": "1.1499999999999999",
+      "width": "173",
+      "length": "6",
+      "quantity": "4"
+    },
+    "expectedTotal": 37.529928
+  },
+  {
+    "source": "RF!N369",
+    "material": "roll",
+    "values": {
+      "thickness": "1.1000000000000001",
+      "width": "270",
+      "length": "4",
+      "quantity": "7"
+    },
+    "expectedTotal": 65.36376
+  },
+  {
+    "source": "RF!N377",
+    "material": "roll",
+    "values": {
+      "thickness": "1.35",
+      "width": "243",
+      "length": "6",
+      "quantity": "3"
+    },
+    "expectedTotal": 46.41251400000001
+  },
+  {
+    "source": "RF!N379",
+    "material": "roll",
+    "values": {
+      "thickness": "1.1499999999999999",
+      "width": "243",
+      "length": "6",
+      "quantity": "22"
+    },
+    "expectedTotal": 289.93496400000004
+  },
+  {
+    "source": "RF!N385",
+    "material": "roll",
+    "values": {
+      "thickness": "1.25",
+      "width": "202",
+      "length": "6",
+      "quantity": "12"
+    },
+    "expectedTotal": 142.89480000000003
+  },
+  {
+    "source": "RF!N388",
+    "material": "roll",
+    "values": {
+      "thickness": "1.95",
+      "width": "202",
+      "length": "6",
+      "quantity": "283"
+    },
+    "expectedTotal": 5257.099692
+  },
+  {
+    "source": "RF!N394",
+    "material": "roll",
+    "values": {
+      "thickness": "2.5",
+      "width": "294",
+      "length": "6",
+      "quantity": "8"
+    },
+    "expectedTotal": 277.30080000000004
+  },
+  {
+    "source": "RF!N395",
+    "material": "roll",
+    "values": {
+      "thickness": "1.95",
+      "width": "270",
+      "length": "6",
+      "quantity": "37"
+    },
+    "expectedTotal": 918.70038
+  },
+  {
+    "source": "RF!N396",
+    "material": "roll",
+    "values": {
+      "thickness": "1.9",
+      "width": "270",
+      "length": "6",
+      "quantity": "3"
+    },
+    "expectedTotal": 72.57924
+  },
+  {
+    "source": "RF!N401",
+    "material": "roll",
+    "values": {
+      "thickness": "1.35",
+      "width": "270",
+      "length": "6",
+      "quantity": "183"
+    },
+    "expectedTotal": 3145.7370600000004
+  },
+  {
+    "source": "RF!N402",
+    "material": "roll",
+    "values": {
+      "thickness": "0.75",
+      "width": "253",
+      "length": "6",
+      "quantity": "5"
+    },
+    "expectedTotal": 44.743050000000004
+  },
+  {
+    "source": "RF!N403",
+    "material": "roll",
+    "values": {
+      "thickness": "1.9",
+      "width": "202",
+      "length": "6",
+      "quantity": "13"
+    },
+    "expectedTotal": 235.30010399999998
+  },
+  {
+    "source": "RF!N426",
+    "material": "roll",
+    "values": {
+      "thickness": "1.9",
+      "width": "243",
+      "length": "6",
+      "quantity": "25"
+    },
+    "expectedTotal": 544.3443
+  },
+  {
+    "source": "RF!N439",
+    "material": "roll",
+    "values": {
+      "thickness": "1.3",
+      "width": "183",
+      "length": "5.7",
+      "quantity": "6"
+    },
+    "expectedTotal": 63.950374800000006
+  },
+  {
+    "source": "RF!N465",
+    "material": "roll",
+    "values": {
+      "thickness": "0.75",
+      "width": "202",
+      "length": "4.0999999999999996",
+      "quantity": "3"
+    },
+    "expectedTotal": 14.646717
+  },
+  {
+    "source": "PL!N8",
+    "material": "plate",
+    "values": {
+      "thickness": "1.2",
+      "width": "4",
+      "length": "8",
+      "quantity": "68"
+    },
+    "expectedTotal": 1904.3481599999998
+  },
+  {
+    "source": "PL!N10",
+    "material": "plate",
+    "values": {
+      "thickness": "1.6",
+      "width": "4",
+      "length": "8",
+      "quantity": "20"
+    },
+    "expectedTotal": 746.8032
+  },
+  {
+    "source": "PL!N11",
+    "material": "plate",
+    "values": {
+      "thickness": "1.8",
+      "width": "4",
+      "length": "8",
+      "quantity": "63"
+    },
+    "expectedTotal": 2646.48384
+  },
+  {
+    "source": "PL!N12",
+    "material": "plate",
+    "values": {
+      "thickness": "2",
+      "width": "4",
+      "length": "8",
+      "quantity": "18"
+    },
+    "expectedTotal": 840.1536
+  },
+  {
+    "source": "PL!N13",
+    "material": "plate",
+    "values": {
+      "thickness": "2.2999999999999998",
+      "width": "4",
+      "length": "8",
+      "quantity": "8"
+    },
+    "expectedTotal": 429.4118399999999
+  },
+  {
+    "source": "PL!N14",
+    "material": "plate",
+    "values": {
+      "thickness": "2.5",
+      "width": "4",
+      "length": "8",
+      "quantity": "91"
+    },
+    "expectedTotal": 5309.303999999999
+  },
+  {
+    "source": "PL!N15",
+    "material": "plate",
+    "values": {
+      "thickness": "2.6",
+      "width": "4",
+      "length": "8",
+      "quantity": "5"
+    },
+    "expectedTotal": 303.3888
+  },
+  {
+    "source": "PL!N16",
+    "material": "plate",
+    "values": {
+      "thickness": "2.8",
+      "width": "4",
+      "length": "8",
+      "quantity": "110"
+    },
+    "expectedTotal": 7187.980799999998
+  },
+  {
+    "source": "PL!N17",
+    "material": "plate",
+    "values": {
+      "thickness": "3",
+      "width": "4",
+      "length": "8",
+      "quantity": "18"
+    },
+    "expectedTotal": 1260.2304
+  },
+  {
+    "source": "PL!N18",
+    "material": "plate",
+    "values": {
+      "thickness": "3.2",
+      "width": "4",
+      "length": "8",
+      "quantity": "11"
+    },
+    "expectedTotal": 821.48352
+  },
+  {
+    "source": "PL!N20",
+    "material": "plate",
+    "values": {
+      "thickness": "3.8",
+      "width": "4",
+      "length": "8",
+      "quantity": "8"
+    },
+    "expectedTotal": 709.4630399999999
+  },
+  {
+    "source": "PL!N21",
+    "material": "plate",
+    "values": {
+      "thickness": "4",
+      "width": "4",
+      "length": "8",
+      "quantity": "62"
+    },
+    "expectedTotal": 5787.7248
+  },
+  {
+    "source": "PL!N22",
+    "material": "plate",
+    "values": {
+      "thickness": "4.3",
+      "width": "4",
+      "length": "8",
+      "quantity": "9"
+    },
+    "expectedTotal": 903.1651199999999
+  },
+  {
+    "source": "PL!N23",
+    "material": "plate",
+    "values": {
+      "thickness": "4.5",
+      "width": "4",
+      "length": "8",
+      "quantity": "64"
+    },
+    "expectedTotal": 6721.2288
+  },
+  {
+    "source": "PL!N24",
+    "material": "plate",
+    "values": {
+      "thickness": "4.8",
+      "width": "4",
+      "length": "8",
+      "quantity": "402"
+    },
+    "expectedTotal": 45032.232959999994
+  },
+  {
+    "source": "PL!N25",
+    "material": "plate",
+    "values": {
+      "thickness": "5",
+      "width": "4",
+      "length": "8",
+      "quantity": "1"
+    },
+    "expectedTotal": 116.68799999999999
+  },
+  {
+    "source": "PL!N26",
+    "material": "plate",
+    "values": {
+      "thickness": "5.5",
+      "width": "4",
+      "length": "8",
+      "quantity": "285"
+    },
+    "expectedTotal": 36581.687999999995
+  },
+  {
+    "source": "PL!N27",
+    "material": "plate",
+    "values": {
+      "thickness": "5.8",
+      "width": "4",
+      "length": "8",
+      "quantity": "14"
+    },
+    "expectedTotal": 1895.0131199999996
+  },
+  {
+    "source": "PL!N31",
+    "material": "plate",
+    "values": {
+      "thickness": "8.5",
+      "width": "4",
+      "length": "8",
+      "quantity": "207"
+    },
+    "expectedTotal": 41062.5072
+  },
+  {
+    "source": "PL!N32",
+    "material": "plate",
+    "values": {
+      "thickness": "8.8000000000000007",
+      "width": "4",
+      "length": "8",
+      "quantity": "6"
+    },
+    "expectedTotal": 1232.22528
+  },
+  {
+    "source": "PL!N34",
+    "material": "plate",
+    "values": {
+      "thickness": "9.5",
+      "width": "4",
+      "length": "8",
+      "quantity": "149"
+    },
+    "expectedTotal": 33034.3728
+  },
+  {
+    "source": "PL!N37",
+    "material": "plate",
+    "values": {
+      "thickness": "11.5",
+      "width": "4",
+      "length": "8",
+      "quantity": "142"
+    },
+    "expectedTotal": 38110.3008
+  },
+  {
+    "source": "PL!N38",
+    "material": "plate",
+    "values": {
+      "thickness": "12",
+      "width": "4",
+      "length": "8",
+      "quantity": "3"
+    },
+    "expectedTotal": 840.1536
+  },
+  {
+    "source": "PL!N39",
+    "material": "plate",
+    "values": {
+      "thickness": "1.1499999999999999",
+      "width": "4",
+      "length": "8",
+      "quantity": "2"
+    },
+    "expectedTotal": 53.67647999999999
+  },
+  {
+    "source": "PL!N41",
+    "material": "plate",
+    "values": {
+      "thickness": "2.4",
+      "width": "4",
+      "length": "8",
+      "quantity": "39"
+    },
+    "expectedTotal": 2184.39936
+  },
+  {
+    "source": "PL!N42",
+    "material": "plate",
+    "values": {
+      "thickness": "1.4",
+      "width": "4",
+      "length": "8",
+      "quantity": "1"
+    },
+    "expectedTotal": 32.672639999999994
+  },
+  {
+    "source": "PL!N43",
+    "material": "plate",
+    "values": {
+      "thickness": "2.9",
+      "width": "4",
+      "length": "8",
+      "quantity": "732"
+    },
+    "expectedTotal": 49541.05727999999
+  },
+  {
+    "source": "PL!N44",
+    "material": "plate",
+    "values": {
+      "thickness": "1.7",
+      "width": "4",
+      "length": "8",
+      "quantity": "4"
+    },
+    "expectedTotal": 158.69567999999998
+  },
+  {
+    "source": "PL!N45",
+    "material": "plate",
+    "values": {
+      "thickness": "2.7",
+      "width": "4",
+      "length": "8",
+      "quantity": "30"
+    },
+    "expectedTotal": 1890.3455999999999
+  },
+  {
+    "source": "PL!N46",
+    "material": "plate",
+    "values": {
+      "thickness": "1.35",
+      "width": "4",
+      "length": "8",
+      "quantity": "62"
+    },
+    "expectedTotal": 1953.35712
+  },
+  {
+    "source": "PL!N47",
+    "material": "plate",
+    "values": {
+      "thickness": "2.2000000000000002",
+      "width": "4",
+      "length": "8",
+      "quantity": "8"
+    },
+    "expectedTotal": 410.74176
+  },
+  {
+    "source": "PL!N48",
+    "material": "plate",
+    "values": {
+      "thickness": "1.3",
+      "width": "4",
+      "length": "8",
+      "quantity": "44"
+    },
+    "expectedTotal": 1334.91072
+  },
+  {
+    "source": "PL!N50",
+    "material": "plate",
+    "values": {
+      "thickness": "1.45",
+      "width": "4",
+      "length": "8",
+      "quantity": "26"
+    },
+    "expectedTotal": 879.8275199999998
+  },
+  {
+    "source": "PL!N52",
+    "material": "plate",
+    "values": {
+      "thickness": "1.9",
+      "width": "4",
+      "length": "8",
+      "quantity": "145"
+    },
+    "expectedTotal": 6429.508799999999
+  },
+  {
+    "source": "PL!N55",
+    "material": "plate",
+    "values": {
+      "thickness": "2.75",
+      "width": "4",
+      "length": "8",
+      "quantity": "2"
+    },
+    "expectedTotal": 128.3568
+  },
+  {
+    "source": "PL!N56",
+    "material": "plate",
+    "values": {
+      "thickness": "1.25",
+      "width": "4",
+      "length": "8",
+      "quantity": "30"
+    },
+    "expectedTotal": 875.1599999999999
+  },
+  {
+    "source": "PL!N57",
+    "material": "plate",
+    "values": {
+      "thickness": "11.6",
+      "width": "4",
+      "length": "8",
+      "quantity": "1"
+    },
+    "expectedTotal": 270.71615999999995
+  },
+  {
+    "source": "PL!N58",
+    "material": "plate",
+    "values": {
+      "thickness": "7.6",
+      "width": "4",
+      "length": "8",
+      "quantity": "670"
+    },
+    "expectedTotal": 118835.05919999997
+  },
+  {
+    "source": "PL!N59",
+    "material": "plate",
+    "values": {
+      "thickness": "9.6",
+      "width": "4",
+      "length": "8",
+      "quantity": "67"
+    },
+    "expectedTotal": 15010.74432
+  },
+  {
+    "source": "PL!N73",
+    "material": "plate",
+    "values": {
+      "thickness": "50",
+      "width": "4",
+      "length": "8",
+      "quantity": "3"
+    },
+    "expectedTotal": 3500.6399999999994
+  },
+  {
+    "source": "PL!N76",
+    "material": "plate",
+    "values": {
+      "thickness": "23.8",
+      "width": "4",
+      "length": "8",
+      "quantity": "7"
+    },
+    "expectedTotal": 3888.0441600000004
+  },
+  {
+    "source": "PL!N77",
+    "material": "plate",
+    "values": {
+      "thickness": "24.8",
+      "width": "4",
+      "length": "8",
+      "quantity": "11"
+    },
+    "expectedTotal": 6366.49728
+  },
+  {
+    "source": "PL!N81",
+    "material": "plate",
+    "values": {
+      "thickness": "19.5",
+      "width": "4",
+      "length": "8",
+      "quantity": "252"
+    },
+    "expectedTotal": 114680.96639999999
+  },
+  {
+    "source": "PL!N85",
+    "material": "plate",
+    "values": {
+      "thickness": "15.5",
+      "width": "4",
+      "length": "8",
+      "quantity": "232"
+    },
+    "expectedTotal": 83922.0096
+  },
+  {
+    "source": "PL!N90",
+    "material": "plate",
+    "values": {
+      "thickness": "15.6",
+      "width": "4",
+      "length": "8",
+      "quantity": "1"
+    },
+    "expectedTotal": 364.06656
+  },
+  {
+    "source": "PL!N91",
+    "material": "plate",
+    "values": {
+      "thickness": "19.600000000000001",
+      "width": "4",
+      "length": "8",
+      "quantity": "1"
+    },
+    "expectedTotal": 457.41696
+  },
+  {
+    "source": "PL!N93",
+    "material": "plate",
+    "values": {
+      "thickness": "31.8",
+      "width": "4",
+      "length": "8",
+      "quantity": "3"
+    },
+    "expectedTotal": 2226.40704
+  },
+  {
+    "source": "PL!N95",
+    "material": "plate",
+    "values": {
+      "thickness": "14.6",
+      "width": "4",
+      "length": "8",
+      "quantity": "15"
+    },
+    "expectedTotal": 5110.934399999999
+  },
+  {
+    "source": "PL!N96",
+    "material": "plate",
+    "values": {
+      "thickness": "37.799999999999997",
+      "width": "4",
+      "length": "8",
+      "quantity": "4"
+    },
+    "expectedTotal": 3528.6451199999997
+  },
+  {
+    "source": "PL!N108",
+    "material": "plate",
+    "values": {
+      "thickness": "4",
+      "width": "4",
+      "length": "20",
+      "quantity": "2"
+    },
+    "expectedTotal": 466.75199999999995
+  },
+  {
+    "source": "PL!N111",
+    "material": "plate",
+    "values": {
+      "thickness": "4.8",
+      "width": "4",
+      "length": "20",
+      "quantity": "2"
+    },
+    "expectedTotal": 560.1024
+  },
+  {
+    "source": "PL!N113",
+    "material": "plate",
+    "values": {
+      "thickness": "5.5",
+      "width": "4",
+      "length": "20",
+      "quantity": "124"
+    },
+    "expectedTotal": 39790.608
+  },
+  {
+    "source": "PL!N115",
+    "material": "plate",
+    "values": {
+      "thickness": "7.5",
+      "width": "4",
+      "length": "20",
+      "quantity": "62"
+    },
+    "expectedTotal": 27129.96
+  },
+  {
+    "source": "PL!N117",
+    "material": "plate",
+    "values": {
+      "thickness": "8.5",
+      "width": "4",
+      "length": "20",
+      "quantity": "157"
+    },
+    "expectedTotal": 77860.068
+  },
+  {
+    "source": "PL!N119",
+    "material": "plate",
+    "values": {
+      "thickness": "9.5",
+      "width": "4",
+      "length": "20",
+      "quantity": "40"
+    },
+    "expectedTotal": 22170.719999999998
+  },
+  {
+    "source": "PL!N122",
+    "material": "plate",
+    "values": {
+      "thickness": "11.5",
+      "width": "4",
+      "length": "20",
+      "quantity": "57"
+    },
+    "expectedTotal": 38244.49199999999
+  },
+  {
+    "source": "PL!N151",
+    "material": "plate",
+    "values": {
+      "thickness": "7.6",
+      "width": "4",
+      "length": "19.684999999999999",
+      "quantity": "61"
+    },
+    "expectedTotal": 26622.268015199996
+  },
+  {
+    "source": "PL!N163",
+    "material": "plate",
+    "values": {
+      "thickness": "5.8",
+      "width": "5",
+      "length": "20",
+      "quantity": "267"
+    },
+    "expectedTotal": 112939.39799999999
+  },
+  {
+    "source": "PL!N185",
+    "material": "plate",
+    "values": {
+      "thickness": "3.8",
+      "width": "6",
+      "length": "20",
+      "quantity": "32"
+    },
+    "expectedTotal": 10641.945599999997
+  },
+  {
+    "source": "PL!N188",
+    "material": "plate",
+    "values": {
+      "thickness": "32",
+      "width": "6",
+      "length": "20",
+      "quantity": "10"
+    },
+    "expectedTotal": 28005.119999999995
+  },
+  {
+    "source": "PL!N190",
+    "material": "plate",
+    "values": {
+      "thickness": "38",
+      "width": "6",
+      "length": "20",
+      "quantity": "7"
+    },
+    "expectedTotal": 23279.255999999998
+  },
+  {
+    "source": "PL!N192",
+    "material": "plate",
+    "values": {
+      "thickness": "50",
+      "width": "6",
+      "length": "20",
+      "quantity": "12"
+    },
+    "expectedTotal": 52509.59999999999
+  },
+  {
+    "source": "PL!N193",
+    "material": "plate",
+    "values": {
+      "thickness": "4.8",
+      "width": "6",
+      "length": "20",
+      "quantity": "44"
+    },
+    "expectedTotal": 18483.3792
+  },
+  {
+    "source": "PL!N194",
+    "material": "plate",
+    "values": {
+      "thickness": "5.8",
+      "width": "6",
+      "length": "20",
+      "quantity": "595"
+    },
+    "expectedTotal": 302017.71599999996
+  },
+  {
+    "source": "PL!N195",
+    "material": "plate",
+    "values": {
+      "thickness": "7.8",
+      "width": "6",
+      "length": "20",
+      "quantity": "426"
+    },
+    "expectedTotal": 290798.16479999997
+  },
+  {
+    "source": "PL!N197",
+    "material": "plate",
+    "values": {
+      "thickness": "9.3000000000000007",
+      "width": "6",
+      "length": "20",
+      "quantity": "13"
+    },
+    "expectedTotal": 10580.684399999998
+  },
+  {
+    "source": "PL!N198",
+    "material": "plate",
+    "values": {
+      "thickness": "11.8",
+      "width": "6",
+      "length": "20",
+      "quantity": "190"
+    },
+    "expectedTotal": 196210.87200000003
+  },
+  {
+    "source": "PL!N199",
+    "material": "plate",
+    "values": {
+      "thickness": "9.8000000000000007",
+      "width": "6",
+      "length": "20",
+      "quantity": "28"
+    },
+    "expectedTotal": 24014.3904
+  },
+  {
+    "source": "PL!N200",
+    "material": "plate",
+    "values": {
+      "thickness": "8.8000000000000007",
+      "width": "6",
+      "length": "20",
+      "quantity": "220"
+    },
+    "expectedTotal": 169430.97599999997
+  },
+  {
+    "source": "PL!N201",
+    "material": "plate",
+    "values": {
+      "thickness": "14.8",
+      "width": "6",
+      "length": "20",
+      "quantity": "83"
+    },
+    "expectedTotal": 107504.65440000001
+  },
+  {
+    "source": "PL!N202",
+    "material": "plate",
+    "values": {
+      "thickness": "15.8",
+      "width": "6",
+      "length": "20",
+      "quantity": "67"
+    },
+    "expectedTotal": 92644.4376
+  },
+  {
+    "source": "PL!N203",
+    "material": "plate",
+    "values": {
+      "thickness": "18.8",
+      "width": "6",
+      "length": "20",
+      "quantity": "29"
+    },
+    "expectedTotal": 47713.7232
+  },
+  {
+    "source": "PL!N205",
+    "material": "plate",
+    "values": {
+      "thickness": "19.8",
+      "width": "6",
+      "length": "20",
+      "quantity": "41"
+    },
+    "expectedTotal": 71045.48879999999
+  },
+  {
+    "source": "PL!N206",
+    "material": "plate",
+    "values": {
+      "thickness": "24.8",
+      "width": "6",
+      "length": "20",
+      "quantity": "57"
+    },
+    "expectedTotal": 123712.6176
+  },
+  {
+    "source": "PL!N208",
+    "material": "plate",
+    "values": {
+      "thickness": "4.3",
+      "width": "6",
+      "length": "20",
+      "quantity": "112"
+    },
+    "expectedTotal": 42147.705599999994
+  },
+  {
+    "source": "PL!N214",
+    "material": "plate",
+    "values": {
+      "thickness": "3",
+      "width": "6",
+      "length": "20",
+      "quantity": "1"
+    },
+    "expectedTotal": 262.548
+  },
+  {
+    "source": "PL!N226",
+    "material": "plate",
+    "values": {
+      "thickness": "12",
+      "width": "8",
+      "length": "20",
+      "quantity": "30"
+    },
+    "expectedTotal": 42007.67999999999
+  },
+  {
+    "source": "PL!N236",
+    "material": "plate",
+    "values": {
+      "thickness": "50",
+      "width": "8",
+      "length": "20",
+      "quantity": "2"
+    },
+    "expectedTotal": 11668.8
+  },
+  {
+    "source": "PL!N238",
+    "material": "plate",
+    "values": {
+      "thickness": "24.8",
+      "width": "8",
+      "length": "20",
+      "quantity": "8"
+    },
+    "expectedTotal": 23150.8992
+  },
+  {
+    "source": "PL!N249",
+    "material": "plate",
+    "values": {
+      "thickness": "15.8",
+      "width": "8",
+      "length": "20",
+      "quantity": "20"
+    },
+    "expectedTotal": 36873.407999999996
+  },
+  {
+    "source": "PL!N251",
+    "material": "plate",
+    "values": {
+      "thickness": "19.8",
+      "width": "8",
+      "length": "20",
+      "quantity": "19"
+    },
+    "expectedTotal": 43898.0256
+  },
+  {
+    "source": "PL!N253",
+    "material": "plate",
+    "values": {
+      "thickness": "37.799999999999997",
+      "width": "8",
+      "length": "20",
+      "quantity": "8"
+    },
+    "expectedTotal": 35286.451199999996
+  },
+  {
+    "source": "PL!N254",
+    "material": "plate",
+    "values": {
+      "thickness": "31.8",
+      "width": "8",
+      "length": "20",
+      "quantity": "16"
+    },
+    "expectedTotal": 59370.8544
+  },
+  {
+    "source": "PL!N255",
+    "material": "plate",
+    "values": {
+      "thickness": "23.8",
+      "width": "8",
+      "length": "20",
+      "quantity": "8"
+    },
+    "expectedTotal": 22217.3952
+  },
+  {
+    "source": "PL!N256",
+    "material": "plate",
+    "values": {
+      "thickness": "15.7",
+      "width": "8",
+      "length": "20",
+      "quantity": "5"
+    },
+    "expectedTotal": 9160.008
+  },
+  {
+    "source": "PL!N320",
+    "material": "plate",
+    "values": {
+      "thickness": "2.7",
+      "width": "4",
+      "length": "10",
+      "quantity": "3"
+    },
+    "expectedTotal": 236.29319999999998
+  },
+  {
+    "source": "PL!N568",
+    "material": "plate",
+    "values": {
+      "thickness": "6",
+      "width": "6",
+      "length": "20",
+      "quantity": "114"
+    },
+    "expectedTotal": 59860.944
+  },
+  {
+    "source": "PL!N569",
+    "material": "plate",
+    "values": {
+      "thickness": "8",
+      "width": "6",
+      "length": "20",
+      "quantity": "17"
+    },
+    "expectedTotal": 11902.176
+  },
+  {
+    "source": "PL!N572",
+    "material": "plate",
+    "values": {
+      "thickness": "12",
+      "width": "6",
+      "length": "20",
+      "quantity": "16"
+    },
+    "expectedTotal": 16803.072
+  },
+  {
+    "source": "PL!N574",
+    "material": "plate",
+    "values": {
+      "thickness": "19",
+      "width": "6",
+      "length": "20",
+      "quantity": "35"
+    },
+    "expectedTotal": 58198.13999999999
+  },
+  {
+    "source": "PL!N575",
+    "material": "plate",
+    "values": {
+      "thickness": "20",
+      "width": "6",
+      "length": "20",
+      "quantity": "2"
+    },
+    "expectedTotal": 3500.64
+  },
+  {
+    "source": "PL!N580",
+    "material": "plate",
+    "values": {
+      "thickness": "9",
+      "width": "6",
+      "length": "20",
+      "quantity": "48"
+    },
+    "expectedTotal": 37806.912
+  },
+  {
+    "source": "PL!N584",
+    "material": "plate",
+    "values": {
+      "thickness": "6",
+      "width": "6",
+      "length": "20",
+      "quantity": "165"
+    },
+    "expectedTotal": 86640.84
+  },
+  {
+    "source": "PL!N585",
+    "material": "plate",
+    "values": {
+      "thickness": "8",
+      "width": "6",
+      "length": "20",
+      "quantity": "114"
+    },
+    "expectedTotal": 79814.59199999999
+  },
+  {
+    "source": "PL!N586",
+    "material": "plate",
+    "values": {
+      "thickness": "9",
+      "width": "6",
+      "length": "20",
+      "quantity": "95"
+    },
+    "expectedTotal": 74826.18
+  },
+  {
+    "source": "PL!N587",
+    "material": "plate",
+    "values": {
+      "thickness": "9.5",
+      "width": "6",
+      "length": "20",
+      "quantity": "30"
+    },
+    "expectedTotal": 24942.059999999998
+  },
+  {
+    "source": "PL!N588",
+    "material": "plate",
+    "values": {
+      "thickness": "10",
+      "width": "6",
+      "length": "20",
+      "quantity": "147"
+    },
+    "expectedTotal": 128648.51999999999
+  },
+  {
+    "source": "PL!N589",
+    "material": "plate",
+    "values": {
+      "thickness": "11",
+      "width": "6",
+      "length": "20",
+      "quantity": "62"
+    },
+    "expectedTotal": 59685.912
+  },
+  {
+    "source": "PL!N590",
+    "material": "plate",
+    "values": {
+      "thickness": "12",
+      "width": "6",
+      "length": "20",
+      "quantity": "154"
+    },
+    "expectedTotal": 161729.568
+  },
+  {
+    "source": "PL!N591",
+    "material": "plate",
+    "values": {
+      "thickness": "12.7",
+      "width": "6",
+      "length": "20",
+      "quantity": "29"
+    },
+    "expectedTotal": 32232.14279999999
+  },
+  {
+    "source": "PL!N592",
+    "material": "plate",
+    "values": {
+      "thickness": "14",
+      "width": "6",
+      "length": "20",
+      "quantity": "42"
+    },
+    "expectedTotal": 51459.407999999996
+  },
+  {
+    "source": "PL!N594",
+    "material": "plate",
+    "values": {
+      "thickness": "20",
+      "width": "6",
+      "length": "20",
+      "quantity": "4"
+    },
+    "expectedTotal": 7001.28
+  },
+  {
+    "source": "PL!N606",
+    "material": "plate",
+    "values": {
+      "thickness": "10",
+      "width": "6",
+      "length": "20",
+      "quantity": "20"
+    },
+    "expectedTotal": 17503.2
+  },
+  {
+    "source": "PL!N643",
+    "material": "plate",
+    "values": {
+      "thickness": "16",
+      "width": "4",
+      "length": "8",
+      "quantity": "3"
+    },
+    "expectedTotal": 1120.2048
+  },
+  {
+    "source": "PL!N645",
+    "material": "checkered",
+    "values": {
+      "thickness": "2",
+      "width": "4",
+      "length": "8",
+      "quantity": "1033"
+    },
+    "expectedTotal": 48215.4816
+  },
+  {
+    "source": "PL!N646",
+    "material": "checkered",
+    "values": {
+      "thickness": "2.5",
+      "width": "4",
+      "length": "8",
+      "quantity": "66"
+    },
+    "expectedTotal": 3850.7039999999997
+  },
+  {
+    "source": "PL!N648",
+    "material": "checkered",
+    "values": {
+      "thickness": "4.5",
+      "width": "4",
+      "length": "8",
+      "quantity": "5"
+    },
+    "expectedTotal": 525.096
+  },
+  {
+    "source": "PL!N650",
+    "material": "checkered",
+    "values": {
+      "thickness": "5.5",
+      "width": "4",
+      "length": "8",
+      "quantity": "315"
+    },
+    "expectedTotal": 40432.392
+  },
+  {
+    "source": "PL!N653",
+    "material": "checkered",
+    "values": {
+      "thickness": "3.5",
+      "width": "4",
+      "length": "8",
+      "quantity": "531"
+    },
+    "expectedTotal": 43372.929599999996
+  },
+  {
+    "source": "PL!N655",
+    "material": "checkered",
+    "values": {
+      "thickness": "4.5999999999999996",
+      "width": "4",
+      "length": "8",
+      "quantity": "291"
+    },
+    "expectedTotal": 31239.711359999994
+  },
+  {
+    "source": "PL!N656",
+    "material": "checkered",
+    "values": {
+      "thickness": "5.6",
+      "width": "4",
+      "length": "8",
+      "quantity": "78"
+    },
+    "expectedTotal": 10193.863679999999
+  },
+  {
+    "source": "PL!N658",
+    "material": "checkered",
+    "values": {
+      "thickness": "9.8000000000000007",
+      "width": "4",
+      "length": "8",
+      "quantity": "185"
+    },
+    "expectedTotal": 42311.0688
+  },
+  {
+    "source": "PL!N659",
+    "material": "checkered",
+    "values": {
+      "thickness": "2.6",
+      "width": "4",
+      "length": "8",
+      "quantity": "646"
+    },
+    "expectedTotal": 39197.83296
+  },
+  {
+    "source": "PL!N660",
+    "material": "checkered",
+    "values": {
+      "thickness": "7.6",
+      "width": "4",
+      "length": "8",
+      "quantity": "261"
+    },
+    "expectedTotal": 46292.463359999994
+  },
+  {
+    "source": "PL!N664",
+    "material": "plate",
+    "values": {
+      "thickness": "0.4",
+      "width": "4",
+      "length": "8",
+      "quantity": "2510"
+    },
+    "expectedTotal": 23430.950399999998
+  },
+  {
+    "source": "PL!N665",
+    "material": "plate",
+    "values": {
+      "thickness": "0.45",
+      "width": "4",
+      "length": "8",
+      "quantity": "509"
+    },
+    "expectedTotal": 5345.47728
+  },
+  {
+    "source": "PL!N666",
+    "material": "plate",
+    "values": {
+      "thickness": "0.5",
+      "width": "4",
+      "length": "8",
+      "quantity": "252"
+    },
+    "expectedTotal": 2940.5375999999997
+  },
+  {
+    "source": "PL!N667",
+    "material": "plate",
+    "values": {
+      "thickness": "0.6",
+      "width": "4",
+      "length": "8",
+      "quantity": "269"
+    },
+    "expectedTotal": 3766.68864
+  },
+  {
+    "source": "PL!N668",
+    "material": "plate",
+    "values": {
+      "thickness": "0.7",
+      "width": "4",
+      "length": "8",
+      "quantity": "222"
+    },
+    "expectedTotal": 3626.6630399999995
+  },
+  {
+    "source": "PL!N669",
+    "material": "plate",
+    "values": {
+      "thickness": "0.8",
+      "width": "4",
+      "length": "8",
+      "quantity": "234"
+    },
+    "expectedTotal": 4368.79872
+  },
+  {
+    "source": "PL!N670",
+    "material": "plate",
+    "values": {
+      "thickness": "0.9",
+      "width": "4",
+      "length": "8",
+      "quantity": "353"
+    },
+    "expectedTotal": 7414.35552
+  },
+  {
+    "source": "PL!N671",
+    "material": "plate",
+    "values": {
+      "thickness": "1",
+      "width": "4",
+      "length": "8",
+      "quantity": "342"
+    },
+    "expectedTotal": 7981.459199999999
+  },
+  {
+    "source": "PL!N672",
+    "material": "plate",
+    "values": {
+      "thickness": "1.05",
+      "width": "4",
+      "length": "8",
+      "quantity": "108"
+    },
+    "expectedTotal": 2646.48384
+  },
+  {
+    "source": "PL!N673",
+    "material": "plate",
+    "values": {
+      "thickness": "1.1000000000000001",
+      "width": "4",
+      "length": "8",
+      "quantity": "33"
+    },
+    "expectedTotal": 847.15488
+  },
+  {
+    "source": "PL!N674",
+    "material": "plate",
+    "values": {
+      "thickness": "1.1499999999999999",
+      "width": "4",
+      "length": "8",
+      "quantity": "86"
+    },
+    "expectedTotal": 2308.0886399999995
+  },
+  {
+    "source": "PL!N675",
+    "material": "plate",
+    "values": {
+      "thickness": "1.2",
+      "width": "4",
+      "length": "8",
+      "quantity": "248"
+    },
+    "expectedTotal": 6945.269759999999
+  },
+  {
+    "source": "PL!N676",
+    "material": "plate",
+    "values": {
+      "thickness": "1.3",
+      "width": "4",
+      "length": "8",
+      "quantity": "52"
+    },
+    "expectedTotal": 1577.62176
+  },
+  {
+    "source": "PL!N677",
+    "material": "plate",
+    "values": {
+      "thickness": "1.4",
+      "width": "4",
+      "length": "8",
+      "quantity": "41"
+    },
+    "expectedTotal": 1339.5782399999998
+  },
+  {
+    "source": "PL!N678",
+    "material": "plate",
+    "values": {
+      "thickness": "1.5",
+      "width": "4",
+      "length": "8",
+      "quantity": "32"
+    },
+    "expectedTotal": 1120.2048
+  },
+  {
+    "source": "PL!N679",
+    "material": "plate",
+    "values": {
+      "thickness": "1.6",
+      "width": "4",
+      "length": "8",
+      "quantity": "153"
+    },
+    "expectedTotal": 5713.04448
+  },
+  {
+    "source": "PL!N680",
+    "material": "plate",
+    "values": {
+      "thickness": "1.8",
+      "width": "4",
+      "length": "8",
+      "quantity": "67"
+    },
+    "expectedTotal": 2814.51456
+  },
+  {
+    "source": "PL!N682",
+    "material": "plate",
+    "values": {
+      "thickness": "0.65",
+      "width": "4",
+      "length": "8",
+      "quantity": "93"
+    },
+    "expectedTotal": 1410.75792
+  },
+  {
+    "source": "PL!N683",
+    "material": "plate",
+    "values": {
+      "thickness": "0.75",
+      "width": "4",
+      "length": "8",
+      "quantity": "240"
+    },
+    "expectedTotal": 4200.768
+  },
+  {
+    "source": "PL!N684",
+    "material": "plate",
+    "values": {
+      "thickness": "0.85",
+      "width": "4",
+      "length": "8",
+      "quantity": "169"
+    },
+    "expectedTotal": 3352.4462399999998
+  },
+  {
+    "source": "PL!N685",
+    "material": "plate",
+    "values": {
+      "thickness": "0.95",
+      "width": "4",
+      "length": "8",
+      "quantity": "94"
+    },
+    "expectedTotal": 2084.0476799999997
+  },
+  {
+    "source": "PL!N686",
+    "material": "plate",
+    "values": {
+      "thickness": "1.35",
+      "width": "4",
+      "length": "8",
+      "quantity": "133"
+    },
+    "expectedTotal": 4190.266079999999
+  },
+  {
+    "source": "PL!N687",
+    "material": "plate",
+    "values": {
+      "thickness": "0.55000000000000004",
+      "width": "4",
+      "length": "8",
+      "quantity": "427"
+    },
+    "expectedTotal": 5480.83536
+  },
+  {
+    "source": "PL!N688",
+    "material": "plate",
+    "values": {
+      "thickness": "1.45",
+      "width": "4",
+      "length": "8",
+      "quantity": "158"
+    },
+    "expectedTotal": 5346.644159999999
+  },
+  {
+    "source": "PL!N689",
+    "material": "plate",
+    "values": {
+      "thickness": "1.95",
+      "width": "4",
+      "length": "8",
+      "quantity": "112"
+    },
+    "expectedTotal": 5096.931839999999
+  },
+  {
+    "source": "PL!N690",
+    "material": "plate",
+    "values": {
+      "thickness": "1.25",
+      "width": "4",
+      "length": "8",
+      "quantity": "67"
+    },
+    "expectedTotal": 1954.524
+  },
+  {
+    "source": "PL!N708",
+    "material": "plate",
+    "values": {
+      "thickness": "0.5",
+      "width": "4",
+      "length": "9.84",
+      "quantity": "50"
+    },
+    "expectedTotal": 717.6311999999999
+  },
+  {
+    "source": "PL!N746",
+    "material": "plate",
+    "values": {
+      "thickness": "0.4",
+      "width": "4",
+      "length": "8",
+      "quantity": "1308"
+    },
+    "expectedTotal": 12210.23232
+  },
+  {
+    "source": "PL!N747",
+    "material": "plate",
+    "values": {
+      "thickness": "0.5",
+      "width": "4",
+      "length": "8",
+      "quantity": "659"
+    },
+    "expectedTotal": 7689.739199999999
+  },
+  {
+    "source": "PL!N748",
+    "material": "plate",
+    "values": {
+      "thickness": "0.6",
+      "width": "4",
+      "length": "8",
+      "quantity": "158"
+    },
+    "expectedTotal": 2212.4044799999997
+  },
+  {
+    "source": "PL!N749",
+    "material": "plate",
+    "values": {
+      "thickness": "0.7",
+      "width": "4",
+      "length": "8",
+      "quantity": "16"
+    },
+    "expectedTotal": 261.38111999999995
+  },
+  {
+    "source": "PL!N750",
+    "material": "plate",
+    "values": {
+      "thickness": "0.8",
+      "width": "4",
+      "length": "8",
+      "quantity": "5"
+    },
+    "expectedTotal": 93.3504
+  },
+  {
+    "source": "PL!N751",
+    "material": "plate",
+    "values": {
+      "thickness": "0.9",
+      "width": "4",
+      "length": "8",
+      "quantity": "15"
+    },
+    "expectedTotal": 315.0576
+  },
+  {
+    "source": "PL!N752",
+    "material": "plate",
+    "values": {
+      "thickness": "1",
+      "width": "4",
+      "length": "8",
+      "quantity": "54"
+    },
+    "expectedTotal": 1260.2304
+  },
+  {
+    "source": "PL!N753",
+    "material": "plate",
+    "values": {
+      "thickness": "1.1000000000000001",
+      "width": "4",
+      "length": "8",
+      "quantity": "35"
+    },
+    "expectedTotal": 898.4976
+  },
+  {
+    "source": "PL!N754",
+    "material": "plate",
+    "values": {
+      "thickness": "1.2",
+      "width": "4",
+      "length": "8",
+      "quantity": "56"
+    },
+    "expectedTotal": 1568.2867199999998
+  },
+  {
+    "source": "PL!N755",
+    "material": "plate",
+    "values": {
+      "thickness": "1.3",
+      "width": "4",
+      "length": "8",
+      "quantity": "40"
+    },
+    "expectedTotal": 1213.5552
+  },
+  {
+    "source": "PL!N756",
+    "material": "plate",
+    "values": {
+      "thickness": "1.4",
+      "width": "4",
+      "length": "8",
+      "quantity": "94"
+    },
+    "expectedTotal": 3071.2281599999997
+  },
+  {
+    "source": "PL!N757",
+    "material": "plate",
+    "values": {
+      "thickness": "1.5",
+      "width": "4",
+      "length": "8",
+      "quantity": "6"
+    },
+    "expectedTotal": 210.0384
+  },
+  {
+    "source": "PL!N758",
+    "material": "plate",
+    "values": {
+      "thickness": "1.6",
+      "width": "4",
+      "length": "8",
+      "quantity": "43"
+    },
+    "expectedTotal": 1605.6268799999998
+  },
+  {
+    "source": "PL!N759",
+    "material": "plate",
+    "values": {
+      "thickness": "1.8",
+      "width": "4",
+      "length": "8",
+      "quantity": "204"
+    },
+    "expectedTotal": 8569.56672
+  },
+  {
+    "source": "PL!N760",
+    "material": "plate",
+    "values": {
+      "thickness": "2",
+      "width": "4",
+      "length": "8",
+      "quantity": "256"
+    },
+    "expectedTotal": 11948.8512
+  },
+  {
+    "source": "PL!N762",
+    "material": "plate",
+    "values": {
+      "thickness": "2.5",
+      "width": "4",
+      "length": "8",
+      "quantity": "143"
+    },
+    "expectedTotal": 8343.192
+  },
+  {
+    "source": "PL!N763",
+    "material": "plate",
+    "values": {
+      "thickness": "0.85",
+      "width": "4",
+      "length": "8",
+      "quantity": "154"
+    },
+    "expectedTotal": 3054.89184
+  },
+  {
+    "source": "PL!N764",
+    "material": "plate",
+    "values": {
+      "thickness": "1.05",
+      "width": "4",
+      "length": "8",
+      "quantity": "25"
+    },
+    "expectedTotal": 612.6120000000001
+  },
+  {
+    "source": "PL!N765",
+    "material": "plate",
+    "values": {
+      "thickness": "0.55000000000000004",
+      "width": "4",
+      "length": "8",
+      "quantity": "97"
+    },
+    "expectedTotal": 1245.06096
+  },
+  {
+    "source": "PL!N766",
+    "material": "plate",
+    "values": {
+      "thickness": "0.65",
+      "width": "4",
+      "length": "8",
+      "quantity": "6"
+    },
+    "expectedTotal": 91.01664
+  },
+  {
+    "source": "PL!N767",
+    "material": "plate",
+    "values": {
+      "thickness": "1.35",
+      "width": "4",
+      "length": "8",
+      "quantity": "126"
+    },
+    "expectedTotal": 3969.72576
+  },
+  {
+    "source": "PL!N768",
+    "material": "plate",
+    "values": {
+      "thickness": "0.75",
+      "width": "4",
+      "length": "8",
+      "quantity": "11"
+    },
+    "expectedTotal": 192.5352
+  },
+  {
+    "source": "PL!N769",
+    "material": "plate",
+    "values": {
+      "thickness": "0.95",
+      "width": "4",
+      "length": "8",
+      "quantity": "49"
+    },
+    "expectedTotal": 1086.3652799999998
+  },
+  {
+    "source": "PL!N770",
+    "material": "plate",
+    "values": {
+      "thickness": "1.9",
+      "width": "4",
+      "length": "8",
+      "quantity": "27"
+    },
+    "expectedTotal": 1197.2188799999997
+  },
+  {
+    "source": "PL!N771",
+    "material": "plate",
+    "values": {
+      "thickness": "1.45",
+      "width": "4",
+      "length": "8",
+      "quantity": "177"
+    },
+    "expectedTotal": 5989.595039999998
+  },
+  {
+    "source": "PL!N773",
+    "material": "plate",
+    "values": {
+      "thickness": "1.95",
+      "width": "4",
+      "length": "8",
+      "quantity": "58"
+    },
+    "expectedTotal": 2639.48256
+  },
+  {
+    "source": "PL!N775",
+    "material": "plate",
+    "values": {
+      "thickness": "0.45",
+      "width": "4",
+      "length": "8",
+      "quantity": "29"
+    },
+    "expectedTotal": 304.55568
+  },
+  {
+    "source": "PL!N777",
+    "material": "plate",
+    "values": {
+      "thickness": "1.25",
+      "width": "4",
+      "length": "8",
+      "quantity": "13"
+    },
+    "expectedTotal": 379.236
+  },
+  {
+    "source": "PL!N779",
+    "material": "plate",
+    "values": {
+      "thickness": "1.7",
+      "width": "4",
+      "length": "8",
+      "quantity": "4"
+    },
+    "expectedTotal": 158.69567999999998
+  },
+  {
+    "source": "PL!N780",
+    "material": "plate",
+    "values": {
+      "thickness": "2.4700000000000002",
+      "width": "4",
+      "length": "8",
+      "quantity": "30"
+    },
+    "expectedTotal": 1729.31616
+  },
+  {
+    "source": "PL!N781",
+    "material": "plate",
+    "values": {
+      "thickness": "1.6",
+      "width": "2.75",
+      "length": "8.58",
+      "quantity": "548"
+    },
+    "expectedTotal": 15087.8284128
+  },
+  {
+    "source": "PL!N827",
+    "material": "plate",
+    "values": {
+      "thickness": "0.55000000000000004",
+      "width": "4",
+      "length": "7.22",
+      "quantity": "200"
+    },
+    "expectedTotal": 2316.84024
+  },
+  {
+    "source": "PL!N896",
+    "material": "plate",
+    "values": {
+      "thickness": "1.95",
+      "width": "4",
+      "length": "9.84",
+      "quantity": "4"
+    },
+    "expectedTotal": 223.90093439999998
+  },
+  {
+    "source": "PL!N922",
+    "material": "plate",
+    "values": {
+      "thickness": "0.85",
+      "width": "4",
+      "length": "7.21",
+      "quantity": "250"
+    },
+    "expectedTotal": 4469.515049999999
+  },
+  {
+    "source": "PL!N993",
+    "material": "plate",
+    "values": {
+      "thickness": "1",
+      "width": "4",
+      "length": "8",
+      "quantity": "5"
+    },
+    "expectedTotal": 116.68799999999999
+  },
+  {
+    "source": "SP!Q8",
+    "material": "sheetPile",
+    "values": {
+      "rating": "48",
+      "length": "12",
+      "quantity": "1410"
+    },
+    "expectedTotal": 812160
+  },
+  {
+    "source": "SP!Q9",
+    "material": "sheetPile",
+    "values": {
+      "rating": "60",
+      "length": "12",
+      "quantity": "94"
+    },
+    "expectedTotal": 67680
+  },
+  {
+    "source": "SP!Q10",
+    "material": "sheetPile",
+    "values": {
+      "rating": "76.099999999999994",
+      "length": "12",
+      "quantity": "312"
+    },
+    "expectedTotal": 284918.39999999997
+  },
+  {
+    "source": "SP!Q12",
+    "material": "sheetPile",
+    "values": {
+      "rating": "72.8",
+      "length": "6",
+      "quantity": "1"
+    },
+    "expectedTotal": 436.79999999999995
+  },
+  {
+    "source": "SP!Q14",
+    "material": "sheetPile",
+    "values": {
+      "rating": "48",
+      "length": "6",
+      "quantity": "101"
+    },
+    "expectedTotal": 29088
+  },
+  {
+    "source": "SP!Q17",
+    "material": "sheetPile",
+    "values": {
+      "rating": "48",
+      "length": "2",
+      "quantity": "3"
+    },
+    "expectedTotal": 288
+  },
+  {
+    "source": "SP!Q19",
+    "material": "sheetPile",
+    "values": {
+      "rating": "76.099999999999994",
+      "length": "6",
+      "quantity": "1"
+    },
+    "expectedTotal": 456.59999999999997
+  },
+  {
+    "source": "SP!Q20",
+    "material": "sheetPile",
+    "values": {
+      "rating": "48",
+      "length": "3",
+      "quantity": "3"
+    },
+    "expectedTotal": 432
+  },
+  {
+    "source": "FB!M10",
+    "material": "flat",
+    "values": {
+      "thickness": "1.9",
+      "width": "2",
+      "length": "6",
+      "quantity": "1"
+    },
+    "expectedTotal": 4.5518832
+  },
+  {
+    "source": "FB!M11",
+    "material": "flat",
+    "values": {
+      "thickness": "1.9",
+      "width": "3",
+      "length": "6",
+      "quantity": "8"
+    },
+    "expectedTotal": 54.622598399999994
+  },
+  {
+    "source": "FB!M12",
+    "material": "flat",
+    "values": {
+      "thickness": "1.9",
+      "width": "4",
+      "length": "6",
+      "quantity": "1"
+    },
+    "expectedTotal": 9.1037664
+  },
+  {
+    "source": "FB!M14",
+    "material": "flat",
+    "values": {
+      "thickness": "1.9",
+      "width": "10",
+      "length": "6",
+      "quantity": "7"
+    },
+    "expectedTotal": 159.315912
+  },
+  {
+    "source": "FB!M16",
+    "material": "flat",
+    "values": {
+      "thickness": "2",
+      "width": "2",
+      "length": "6",
+      "quantity": "33"
+    },
+    "expectedTotal": 158.11804800000002
+  },
+  {
+    "source": "FB!M17",
+    "material": "flat",
+    "values": {
+      "thickness": "2",
+      "width": "3",
+      "length": "6",
+      "quantity": "25"
+    },
+    "expectedTotal": 179.67960000000002
+  },
+  {
+    "source": "FB!M18",
+    "material": "flat",
+    "values": {
+      "thickness": "2",
+      "width": "3.35",
+      "length": "6",
+      "quantity": "6"
+    },
+    "expectedTotal": 48.1541328
+  },
+  {
+    "source": "FB!M23",
+    "material": "flat",
+    "values": {
+      "thickness": "2.2000000000000002",
+      "width": "2",
+      "length": "6",
+      "quantity": "13"
+    },
+    "expectedTotal": 68.51782080000001
+  },
+  {
+    "source": "FB!M25",
+    "material": "flat",
+    "values": {
+      "thickness": "2.2000000000000002",
+      "width": "6",
+      "length": "6",
+      "quantity": "1"
+    },
+    "expectedTotal": 15.8118048
+  },
+  {
+    "source": "FB!M28",
+    "material": "flat",
+    "values": {
+      "thickness": "2.4",
+      "width": "2",
+      "length": "6",
+      "quantity": "14"
+    },
+    "expectedTotal": 80.4964608
+  },
+  {
+    "source": "FB!M29",
+    "material": "flat",
+    "values": {
+      "thickness": "2.4",
+      "width": "3",
+      "length": "6",
+      "quantity": "158"
+    },
+    "expectedTotal": 1362.6900864
+  },
+  {
+    "source": "FB!M30",
+    "material": "flat",
+    "values": {
+      "thickness": "2.4",
+      "width": "4",
+      "length": "6",
+      "quantity": "2"
+    },
+    "expectedTotal": 22.998988799999996
+  },
+  {
+    "source": "FB!M31",
+    "material": "flat",
+    "values": {
+      "thickness": "2.4",
+      "width": "4.72",
+      "length": "6",
+      "quantity": "62"
+    },
+    "expectedTotal": 841.3030103039999
+  },
+  {
+    "source": "FB!M35",
+    "material": "flat",
+    "values": {
+      "thickness": "2.5",
+      "width": "2",
+      "length": "6",
+      "quantity": "13"
+    },
+    "expectedTotal": 77.86116
+  },
+  {
+    "source": "FB!M37",
+    "material": "flat",
+    "values": {
+      "thickness": "2.5",
+      "width": "3",
+      "length": "6",
+      "quantity": "2"
+    },
+    "expectedTotal": 17.96796
+  },
+  {
+    "source": "FB!M39",
+    "material": "flat",
+    "values": {
+      "thickness": "2.5",
+      "width": "3.5",
+      "length": "6",
+      "quantity": "2"
+    },
+    "expectedTotal": 20.96262
+  },
+  {
+    "source": "FB!M40",
+    "material": "flat",
+    "values": {
+      "thickness": "2.5",
+      "width": "4",
+      "length": "6",
+      "quantity": "2"
+    },
+    "expectedTotal": 23.95728
+  },
+  {
+    "source": "FB!M41",
+    "material": "flat",
+    "values": {
+      "thickness": "2.5",
+      "width": "5",
+      "length": "6",
+      "quantity": "18"
+    },
+    "expectedTotal": 269.5194
+  },
+  {
+    "source": "FB!M49",
+    "material": "flat",
+    "values": {
+      "thickness": "2.8",
+      "width": "3",
+      "length": "6",
+      "quantity": "5"
+    },
+    "expectedTotal": 50.31028799999999
+  },
+  {
+    "source": "FB!M55",
+    "material": "flat",
+    "values": {
+      "thickness": "2.9",
+      "width": "3",
+      "length": "6",
+      "quantity": "19"
+    },
+    "expectedTotal": 198.0069192
+  },
+  {
+    "source": "FB!M56",
+    "material": "flat",
+    "values": {
+      "thickness": "2.9",
+      "width": "3.25",
+      "length": "6",
+      "quantity": "1"
+    },
+    "expectedTotal": 11.289868199999999
+  },
+  {
+    "source": "FB!M57",
+    "material": "flat",
+    "values": {
+      "thickness": "2.9",
+      "width": "4",
+      "length": "6",
+      "quantity": "3"
+    },
+    "expectedTotal": 41.6856672
+  },
+  {
+    "source": "FB!M58",
+    "material": "flat",
+    "values": {
+      "thickness": "2.9",
+      "width": "5",
+      "length": "6",
+      "quantity": "44"
+    },
+    "expectedTotal": 764.2372320000001
+  },
+  {
+    "source": "FB!M59",
+    "material": "flat",
+    "values": {
+      "thickness": "2.9",
+      "width": "5.25",
+      "length": "6",
+      "quantity": "64"
+    },
+    "expectedTotal": 1167.1986816
+  },
+  {
+    "source": "FB!M63",
+    "material": "flat",
+    "values": {
+      "thickness": "2.9",
+      "width": "11.5",
+      "length": "6",
+      "quantity": "4"
+    },
+    "expectedTotal": 159.7950576
+  },
+  {
+    "source": "FB!M64",
+    "material": "flat",
+    "values": {
+      "thickness": "3",
+      "width": "1",
+      "length": "6",
+      "quantity": "72"
+    },
+    "expectedTotal": 258.738624
+  },
+  {
+    "source": "FB!M66",
+    "material": "flat",
+    "values": {
+      "thickness": "3",
+      "width": "1.18",
+      "length": "6",
+      "quantity": "332"
+    },
+    "expectedTotal": 1407.82560192
+  },
+  {
+    "source": "FB!M67",
+    "material": "flat",
+    "values": {
+      "thickness": "3",
+      "width": "1.25",
+      "length": "6",
+      "quantity": "6"
+    },
+    "expectedTotal": 26.951940000000004
+  },
+  {
+    "source": "FB!M68",
+    "material": "flat",
+    "values": {
+      "thickness": "3",
+      "width": "1.5",
+      "length": "6",
+      "quantity": "10"
+    },
+    "expectedTotal": 53.90388000000001
+  },
+  {
+    "source": "FB!M69",
+    "material": "flat",
+    "values": {
+      "thickness": "3",
+      "width": "2",
+      "length": "6",
+      "quantity": "64"
+    },
+    "expectedTotal": 459.9797760000001
+  },
+  {
+    "source": "FB!M71",
+    "material": "flat",
+    "values": {
+      "thickness": "3",
+      "width": "3",
+      "length": "6",
+      "quantity": "167"
+    },
+    "expectedTotal": 1800.3895920000002
+  },
+  {
+    "source": "FB!M73",
+    "material": "flat",
+    "values": {
+      "thickness": "3",
+      "width": "3.5",
+      "length": "6",
+      "quantity": "109"
+    },
+    "expectedTotal": 1370.9553480000002
+  },
+  {
+    "source": "FB!M74",
+    "material": "flat",
+    "values": {
+      "thickness": "3",
+      "width": "4",
+      "length": "6",
+      "quantity": "16"
+    },
+    "expectedTotal": 229.98988800000004
+  },
+  {
+    "source": "FB!M77",
+    "material": "flat",
+    "values": {
+      "thickness": "3",
+      "width": "7.5",
+      "length": "6",
+      "quantity": "1"
+    },
+    "expectedTotal": 26.951940000000004
+  },
+  {
+    "source": "FB!M78",
+    "material": "flat",
+    "values": {
+      "thickness": "3",
+      "width": "8",
+      "length": "6",
+      "quantity": "24"
+    },
+    "expectedTotal": 689.9696640000001
+  },
+  {
+    "source": "FB!M85",
+    "material": "flat",
+    "values": {
+      "thickness": "3.2",
+      "width": "3",
+      "length": "6",
+      "quantity": "1"
+    },
+    "expectedTotal": 11.499494400000001
+  },
+  {
+    "source": "FB!M87",
+    "material": "flat",
+    "values": {
+      "thickness": "3.2",
+      "width": "4",
+      "length": "6",
+      "quantity": "10"
+    },
+    "expectedTotal": 153.32659200000003
+  },
+  {
+    "source": "FB!M89",
+    "material": "flat",
+    "values": {
+      "thickness": "3.5",
+      "width": "1.5",
+      "length": "6",
+      "quantity": "2"
+    },
+    "expectedTotal": 12.577572000000002
+  },
+  {
+    "source": "FB!M93",
+    "material": "flat",
+    "values": {
+      "thickness": "3.5",
+      "width": "4",
+      "length": "6",
+      "quantity": "2"
+    },
+    "expectedTotal": 33.540192
+  },
+  {
+    "source": "FB!M95",
+    "material": "flat",
+    "values": {
+      "thickness": "3.5",
+      "width": "6",
+      "length": "6",
+      "quantity": "4"
+    },
+    "expectedTotal": 100.62057600000001
+  },
+  {
+    "source": "FB!M96",
+    "material": "flat",
+    "values": {
+      "thickness": "3.8",
+      "width": "1",
+      "length": "6",
+      "quantity": "20"
+    },
+    "expectedTotal": 91.037664
+  },
+  {
+    "source": "FB!M98",
+    "material": "flat",
+    "values": {
+      "thickness": "3.8",
+      "width": "1.5",
+      "length": "6",
+      "quantity": "7"
+    },
+    "expectedTotal": 47.79477359999999
+  },
+  {
+    "source": "FB!M100",
+    "material": "flat",
+    "values": {
+      "thickness": "3.8",
+      "width": "3",
+      "length": "6",
+      "quantity": "2"
+    },
+    "expectedTotal": 27.311299199999997
+  },
+  {
+    "source": "FB!M101",
+    "material": "flat",
+    "values": {
+      "thickness": "3.8",
+      "width": "4",
+      "length": "6",
+      "quantity": "10"
+    },
+    "expectedTotal": 182.075328
+  },
+  {
+    "source": "FB!M104",
+    "material": "flat",
+    "values": {
+      "thickness": "3.8",
+      "width": "6",
+      "length": "6",
+      "quantity": "7"
+    },
+    "expectedTotal": 191.17909439999997
+  },
+  {
+    "source": "FB!M106",
+    "material": "flat",
+    "values": {
+      "thickness": "3.8",
+      "width": "8",
+      "length": "6",
+      "quantity": "7"
+    },
+    "expectedTotal": 254.9054592
+  },
+  {
+    "source": "FB!M107",
+    "material": "flat",
+    "values": {
+      "thickness": "3.9",
+      "width": "1",
+      "length": "6",
+      "quantity": "41"
+    },
+    "expectedTotal": 191.5384536
+  },
+  {
+    "source": "FB!M108",
+    "material": "flat",
+    "values": {
+      "thickness": "3.9",
+      "width": "1.5",
+      "length": "6",
+      "quantity": "6"
+    },
+    "expectedTotal": 42.04502639999999
+  },
+  {
+    "source": "FB!M110",
+    "material": "flat",
+    "values": {
+      "thickness": "3.9",
+      "width": "3",
+      "length": "6",
+      "quantity": "1"
+    },
+    "expectedTotal": 14.015008799999997
+  },
+  {
+    "source": "FB!M114",
+    "material": "flat",
+    "values": {
+      "thickness": "4",
+      "width": "2",
+      "length": "6",
+      "quantity": "9"
+    },
+    "expectedTotal": 86.24620800000001
+  },
+  {
+    "source": "FB!M115",
+    "material": "flat",
+    "values": {
+      "thickness": "4",
+      "width": "3",
+      "length": "6",
+      "quantity": "112"
+    },
+    "expectedTotal": 1609.9292160000002
+  },
+  {
+    "source": "FB!M116",
+    "material": "flat",
+    "values": {
+      "thickness": "4",
+      "width": "3.5",
+      "length": "6",
+      "quantity": "18"
+    },
+    "expectedTotal": 301.861728
+  },
+  {
+    "source": "FB!M117",
+    "material": "flat",
+    "values": {
+      "thickness": "4",
+      "width": "4",
+      "length": "6",
+      "quantity": "4"
+    },
+    "expectedTotal": 76.663296
+  },
+  {
+    "source": "FB!M119",
+    "material": "flat",
+    "values": {
+      "thickness": "4",
+      "width": "6",
+      "length": "6",
+      "quantity": "3"
+    },
+    "expectedTotal": 86.24620800000001
+  },
+  {
+    "source": "FB!M124",
+    "material": "flat",
+    "values": {
+      "thickness": "4",
+      "width": "1.25",
+      "length": "6",
+      "quantity": "15"
+    },
+    "expectedTotal": 89.8398
+  },
+  {
+    "source": "FB!M127",
+    "material": "flat",
+    "values": {
+      "thickness": "4.3",
+      "width": "1",
+      "length": "6",
+      "quantity": "18"
+    },
+    "expectedTotal": 92.7146736
+  },
+  {
+    "source": "FB!M128",
+    "material": "flat",
+    "values": {
+      "thickness": "4.3",
+      "width": "1.25",
+      "length": "6",
+      "quantity": "40"
+    },
+    "expectedTotal": 257.54076
+  },
+  {
+    "source": "FB!M129",
+    "material": "flat",
+    "values": {
+      "thickness": "4.3",
+      "width": "1.5",
+      "length": "6",
+      "quantity": "32"
+    },
+    "expectedTotal": 247.23912959999998
+  },
+  {
+    "source": "FB!M130",
+    "material": "flat",
+    "values": {
+      "thickness": "4.3",
+      "width": "2",
+      "length": "6",
+      "quantity": "29"
+    },
+    "expectedTotal": 298.7472816
+  },
+  {
+    "source": "FB!M131",
+    "material": "flat",
+    "values": {
+      "thickness": "4.3",
+      "width": "2.5",
+      "length": "6",
+      "quantity": "15"
+    },
+    "expectedTotal": 193.15557
+  },
+  {
+    "source": "FB!M132",
+    "material": "flat",
+    "values": {
+      "thickness": "4.3",
+      "width": "3",
+      "length": "6",
+      "quantity": "20"
+    },
+    "expectedTotal": 309.048912
+  },
+  {
+    "source": "FB!M133",
+    "material": "flat",
+    "values": {
+      "thickness": "4.3",
+      "width": "4",
+      "length": "6",
+      "quantity": "10"
+    },
+    "expectedTotal": 206.032608
+  },
+  {
+    "source": "FB!M134",
+    "material": "flat",
+    "values": {
+      "thickness": "4.3",
+      "width": "5",
+      "length": "6",
+      "quantity": "8"
+    },
+    "expectedTotal": 206.032608
+  },
+  {
+    "source": "FB!M135",
+    "material": "flat",
+    "values": {
+      "thickness": "4.3",
+      "width": "6",
+      "length": "6",
+      "quantity": "3"
+    },
+    "expectedTotal": 92.7146736
+  },
+  {
+    "source": "FB!M136",
+    "material": "flat",
+    "values": {
+      "thickness": "4.3",
+      "width": "8",
+      "length": "6",
+      "quantity": "2"
+    },
+    "expectedTotal": 82.41304319999999
+  },
+  {
+    "source": "FB!M138",
+    "material": "flat",
+    "values": {
+      "thickness": "4.3",
+      "width": "7.5",
+      "length": "6",
+      "quantity": "5"
+    },
+    "expectedTotal": 193.15557000000004
+  },
+  {
+    "source": "FB!M142",
+    "material": "flat",
+    "values": {
+      "thickness": "4.5",
+      "width": "1",
+      "length": "6",
+      "quantity": "1"
+    },
+    "expectedTotal": 5.390388000000001
+  },
+  {
+    "source": "FB!M143",
+    "material": "flat",
+    "values": {
+      "thickness": "4.5",
+      "width": "1.5",
+      "length": "6",
+      "quantity": "4"
+    },
+    "expectedTotal": 32.342327999999995
+  },
+  {
+    "source": "FB!M144",
+    "material": "flat",
+    "values": {
+      "thickness": "4.5",
+      "width": "2",
+      "length": "6",
+      "quantity": "1"
+    },
+    "expectedTotal": 10.780776000000001
+  },
+  {
+    "source": "FB!M146",
+    "material": "flat",
+    "values": {
+      "thickness": "4.5",
+      "width": "2.5",
+      "length": "6",
+      "quantity": "5"
+    },
+    "expectedTotal": 67.37985
+  },
+  {
+    "source": "FB!M147",
+    "material": "flat",
+    "values": {
+      "thickness": "4.5",
+      "width": "3",
+      "length": "6",
+      "quantity": "68"
+    },
+    "expectedTotal": 1099.639152
+  },
+  {
+    "source": "FB!M149",
+    "material": "flat",
+    "values": {
+      "thickness": "4.5",
+      "width": "4",
+      "length": "6",
+      "quantity": "21"
+    },
+    "expectedTotal": 452.79259199999996
+  },
+  {
+    "source": "FB!M156",
+    "material": "flat",
+    "values": {
+      "thickness": "4.5",
+      "width": "24",
+      "length": "6",
+      "quantity": "1"
+    },
+    "expectedTotal": 129.36931199999998
+  },
+  {
+    "source": "FB!M158",
+    "material": "flat",
+    "values": {
+      "thickness": "4.8",
+      "width": "1",
+      "length": "6",
+      "quantity": "62"
+    },
+    "expectedTotal": 356.4843264
+  },
+  {
+    "source": "FB!M159",
+    "material": "flat",
+    "values": {
+      "thickness": "4.8",
+      "width": "1.25",
+      "length": "6",
+      "quantity": "2"
+    },
+    "expectedTotal": 14.374368000000002
+  },
+  {
+    "source": "FB!M161",
+    "material": "flat",
+    "values": {
+      "thickness": "4.8",
+      "width": "1.5",
+      "length": "6",
+      "quantity": "20"
+    },
+    "expectedTotal": 172.49241600000002
+  },
+  {
+    "source": "FB!M162",
+    "material": "flat",
+    "values": {
+      "thickness": "4.8",
+      "width": "2",
+      "length": "6",
+      "quantity": "4"
+    },
+    "expectedTotal": 45.99797759999999
+  },
+  {
+    "source": "FB!M165",
+    "material": "flat",
+    "values": {
+      "thickness": "4.8",
+      "width": "3",
+      "length": "6",
+      "quantity": "17"
+    },
+    "expectedTotal": 293.2371072
+  },
+  {
+    "source": "FB!M166",
+    "material": "flat",
+    "values": {
+      "thickness": "4.8",
+      "width": "4",
+      "length": "6",
+      "quantity": "19"
+    },
+    "expectedTotal": 436.98078719999995
+  },
+  {
+    "source": "FB!M167",
+    "material": "flat",
+    "values": {
+      "thickness": "4.8",
+      "width": "6",
+      "length": "6",
+      "quantity": "3"
+    },
+    "expectedTotal": 103.4954496
+  },
+  {
+    "source": "FB!M168",
+    "material": "flat",
+    "values": {
+      "thickness": "4.8",
+      "width": "7",
+      "length": "6",
+      "quantity": "10"
+    },
+    "expectedTotal": 402.48230400000006
+  },
+  {
+    "source": "FB!M169",
+    "material": "flat",
+    "values": {
+      "thickness": "4.8",
+      "width": "8",
+      "length": "6",
+      "quantity": "1"
+    },
+    "expectedTotal": 45.99797759999999
+  },
+  {
+    "source": "FB!M170",
+    "material": "flat",
+    "values": {
+      "thickness": "4.8",
+      "width": "9",
+      "length": "6",
+      "quantity": "1"
+    },
+    "expectedTotal": 51.7477248
+  },
+  {
+    "source": "FB!M175",
+    "material": "flat",
+    "values": {
+      "thickness": "5",
+      "width": "1",
+      "length": "6",
+      "quantity": "13"
+    },
+    "expectedTotal": 77.86116
+  },
+  {
+    "source": "FB!M176",
+    "material": "flat",
+    "values": {
+      "thickness": "5",
+      "width": "1.25",
+      "length": "6",
+      "quantity": "1"
+    },
+    "expectedTotal": 7.48665
+  },
+  {
+    "source": "FB!M179",
+    "material": "flat",
+    "values": {
+      "thickness": "5",
+      "width": "2.5",
+      "length": "6",
+      "quantity": "4"
+    },
+    "expectedTotal": 59.8932
+  },
+  {
+    "source": "FB!M180",
+    "material": "flat",
+    "values": {
+      "thickness": "5",
+      "width": "3",
+      "length": "6",
+      "quantity": "20"
+    },
+    "expectedTotal": 359.3592
+  },
+  {
+    "source": "FB!M181",
+    "material": "flat",
+    "values": {
+      "thickness": "5",
+      "width": "3.5",
+      "length": "6",
+      "quantity": "4"
+    },
+    "expectedTotal": 83.85048
+  },
+  {
+    "source": "FB!M182",
+    "material": "flat",
+    "values": {
+      "thickness": "5",
+      "width": "4",
+      "length": "6",
+      "quantity": "23"
+    },
+    "expectedTotal": 551.01744
+  },
+  {
+    "source": "FB!M183",
+    "material": "flat",
+    "values": {
+      "thickness": "5",
+      "width": "5",
+      "length": "6",
+      "quantity": "1"
+    },
+    "expectedTotal": 29.9466
+  },
+  {
+    "source": "FB!M185",
+    "material": "flat",
+    "values": {
+      "thickness": "5.5",
+      "width": "1",
+      "length": "6",
+      "quantity": "12"
+    },
+    "expectedTotal": 79.05902400000001
+  },
+  {
+    "source": "FB!M187",
+    "material": "flat",
+    "values": {
+      "thickness": "5.5",
+      "width": "1.5",
+      "length": "6",
+      "quantity": "11"
+    },
+    "expectedTotal": 108.706158
+  },
+  {
+    "source": "FB!M188",
+    "material": "flat",
+    "values": {
+      "thickness": "5.5",
+      "width": "1.57",
+      "length": "6",
+      "quantity": "56"
+    },
+    "expectedTotal": 579.2391158400001
+  },
+  {
+    "source": "FB!M189",
+    "material": "flat",
+    "values": {
+      "thickness": "5.5",
+      "width": "2",
+      "length": "6",
+      "quantity": "51"
+    },
+    "expectedTotal": 672.0017039999999
+  },
+  {
+    "source": "FB!M190",
+    "material": "flat",
+    "values": {
+      "thickness": "5.5",
+      "width": "2.5",
+      "length": "6",
+      "quantity": "128"
+    },
+    "expectedTotal": 2108.24064
+  },
+  {
+    "source": "FB!M193",
+    "material": "flat",
+    "values": {
+      "thickness": "5.5",
+      "width": "3",
+      "length": "6",
+      "quantity": "128"
+    },
+    "expectedTotal": 2529.8887680000003
+  },
+  {
+    "source": "FB!M194",
+    "material": "flat",
+    "values": {
+      "thickness": "5.5",
+      "width": "3.15",
+      "length": "6",
+      "quantity": "8"
+    },
+    "expectedTotal": 166.0239504
+  },
+  {
+    "source": "FB!M195",
+    "material": "flat",
+    "values": {
+      "thickness": "5.5",
+      "width": "3.35",
+      "length": "6",
+      "quantity": "14"
+    },
+    "expectedTotal": 308.9890188
+  },
+  {
+    "source": "FB!M196",
+    "material": "flat",
+    "values": {
+      "thickness": "5.5",
+      "width": "3.54",
+      "length": "6",
+      "quantity": "1"
+    },
+    "expectedTotal": 23.32241208
+  },
+  {
+    "source": "FB!M197",
+    "material": "flat",
+    "values": {
+      "thickness": "5.5",
+      "width": "4",
+      "length": "6",
+      "quantity": "140"
+    },
+    "expectedTotal": 3689.42112
+  },
+  {
+    "source": "FB!M198",
+    "material": "flat",
+    "values": {
+      "thickness": "5.5",
+      "width": "5",
+      "length": "6",
+      "quantity": "1"
+    },
+    "expectedTotal": 32.94126
+  },
+  {
+    "source": "FB!M199",
+    "material": "flat",
+    "values": {
+      "thickness": "5.5",
+      "width": "6",
+      "length": "6",
+      "quantity": "5"
+    },
+    "expectedTotal": 197.64756
+  },
+  {
+    "source": "FB!M207",
+    "material": "flat",
+    "values": {
+      "thickness": "5.6",
+      "width": "1",
+      "length": "6",
+      "quantity": "2"
+    },
+    "expectedTotal": 13.416076799999999
+  },
+  {
+    "source": "FB!M209",
+    "material": "flat",
+    "values": {
+      "thickness": "5.6",
+      "width": "1.5",
+      "length": "6",
+      "quantity": "2"
+    },
+    "expectedTotal": 20.124115199999995
+  },
+  {
+    "source": "FB!M210",
+    "material": "flat",
+    "values": {
+      "thickness": "5.6",
+      "width": "2",
+      "length": "6",
+      "quantity": "1"
+    },
+    "expectedTotal": 13.416076799999999
+  },
+  {
+    "source": "FB!M215",
+    "material": "flat",
+    "values": {
+      "thickness": "5.6",
+      "width": "8",
+      "length": "6",
+      "quantity": "1"
+    },
+    "expectedTotal": 53.664307199999996
+  },
+  {
+    "source": "FB!M216",
+    "material": "flat",
+    "values": {
+      "thickness": "5.8",
+      "width": "1",
+      "length": "6",
+      "quantity": "14"
+    },
+    "expectedTotal": 97.26655679999999
+  },
+  {
+    "source": "FB!M218",
+    "material": "flat",
+    "values": {
+      "thickness": "5.8",
+      "width": "1.25",
+      "length": "6",
+      "quantity": "16"
+    },
+    "expectedTotal": 138.952224
+  },
+  {
+    "source": "FB!M219",
+    "material": "flat",
+    "values": {
+      "thickness": "5.8",
+      "width": "1.5",
+      "length": "6",
+      "quantity": "3"
+    },
+    "expectedTotal": 31.264250399999995
+  },
+  {
+    "source": "FB!M220",
+    "material": "flat",
+    "values": {
+      "thickness": "5.8",
+      "width": "2",
+      "length": "6",
+      "quantity": "1"
+    },
+    "expectedTotal": 13.8952224
+  },
+  {
+    "source": "FB!M222",
+    "material": "flat",
+    "values": {
+      "thickness": "5.8",
+      "width": "2.5",
+      "length": "6",
+      "quantity": "9"
+    },
+    "expectedTotal": 156.32125200000002
+  },
+  {
+    "source": "FB!M224",
+    "material": "flat",
+    "values": {
+      "thickness": "5.8",
+      "width": "3",
+      "length": "6",
+      "quantity": "3"
+    },
+    "expectedTotal": 62.52850079999999
+  },
+  {
+    "source": "FB!M225",
+    "material": "flat",
+    "values": {
+      "thickness": "5.8",
+      "width": "3.149",
+      "length": "6",
+      "quantity": "1"
+    },
+    "expectedTotal": 21.878027668799998
+  },
+  {
+    "source": "FB!M226",
+    "material": "flat",
+    "values": {
+      "thickness": "5.8",
+      "width": "3.5",
+      "length": "6",
+      "quantity": "1"
+    },
+    "expectedTotal": 24.316639200000004
+  },
+  {
+    "source": "FB!M228",
+    "material": "flat",
+    "values": {
+      "thickness": "5.8",
+      "width": "4",
+      "length": "6",
+      "quantity": "6"
+    },
+    "expectedTotal": 166.7426688
+  },
+  {
+    "source": "FB!M230",
+    "material": "flat",
+    "values": {
+      "thickness": "5.8",
+      "width": "4.5",
+      "length": "6",
+      "quantity": "1"
+    },
+    "expectedTotal": 31.2642504
+  },
+  {
+    "source": "FB!M231",
+    "material": "flat",
+    "values": {
+      "thickness": "5.8",
+      "width": "5",
+      "length": "6",
+      "quantity": "8"
+    },
+    "expectedTotal": 277.904448
+  },
+  {
+    "source": "FB!M236",
+    "material": "flat",
+    "values": {
+      "thickness": "5.8",
+      "width": "9",
+      "length": "6",
+      "quantity": "1"
+    },
+    "expectedTotal": 62.5285008
+  },
+  {
+    "source": "FB!M252",
+    "material": "flat",
+    "values": {
+      "thickness": "6",
+      "width": "5",
+      "length": "6",
+      "quantity": "1"
+    },
+    "expectedTotal": 35.93592
+  },
+  {
+    "source": "FB!M261",
+    "material": "flat",
+    "values": {
+      "thickness": "7.5",
+      "width": "1.5",
+      "length": "6",
+      "quantity": "1"
+    },
+    "expectedTotal": 13.475970000000002
+  },
+  {
+    "source": "FB!M262",
+    "material": "flat",
+    "values": {
+      "thickness": "7.5",
+      "width": "2",
+      "length": "6",
+      "quantity": "15"
+    },
+    "expectedTotal": 269.5194
+  },
+  {
+    "source": "FB!M263",
+    "material": "flat",
+    "values": {
+      "thickness": "7.5",
+      "width": "2.5",
+      "length": "6",
+      "quantity": "1"
+    },
+    "expectedTotal": 22.459950000000003
+  },
+  {
+    "source": "FB!M264",
+    "material": "flat",
+    "values": {
+      "thickness": "7.5",
+      "width": "3",
+      "length": "6",
+      "quantity": "4"
+    },
+    "expectedTotal": 107.80776000000002
+  },
+  {
+    "source": "FB!M265",
+    "material": "flat",
+    "values": {
+      "thickness": "7.5",
+      "width": "3.54",
+      "length": "6",
+      "quantity": "5"
+    },
+    "expectedTotal": 159.016446
+  },
+  {
+    "source": "FB!M266",
+    "material": "flat",
+    "values": {
+      "thickness": "7.5",
+      "width": "4",
+      "length": "6",
+      "quantity": "4"
+    },
+    "expectedTotal": 143.74368
+  },
+  {
+    "source": "FB!M267",
+    "material": "flat",
+    "values": {
+      "thickness": "7.5",
+      "width": "5",
+      "length": "6",
+      "quantity": "2"
+    },
+    "expectedTotal": 89.83980000000001
+  },
+  {
+    "source": "FB!M270",
+    "material": "flat",
+    "values": {
+      "thickness": "7.5",
+      "width": "6",
+      "length": "6",
+      "quantity": "5"
+    },
+    "expectedTotal": 269.5194
+  },
+  {
+    "source": "FB!M274",
+    "material": "flat",
+    "values": {
+      "thickness": "7.6",
+      "width": "1",
+      "length": "6",
+      "quantity": "21"
+    },
+    "expectedTotal": 191.1790944
+  },
+  {
+    "source": "FB!M275",
+    "material": "flat",
+    "values": {
+      "thickness": "7.6",
+      "width": "2",
+      "length": "6",
+      "quantity": "67"
+    },
+    "expectedTotal": 1219.9046976
+  },
+  {
+    "source": "FB!M277",
+    "material": "flat",
+    "values": {
+      "thickness": "7.6",
+      "width": "3",
+      "length": "6",
+      "quantity": "7"
+    },
+    "expectedTotal": 191.17909439999997
+  },
+  {
+    "source": "FB!M278",
+    "material": "flat",
+    "values": {
+      "thickness": "7.6",
+      "width": "3.5",
+      "length": "6",
+      "quantity": "10"
+    },
+    "expectedTotal": 318.631824
+  },
+  {
+    "source": "FB!M279",
+    "material": "flat",
+    "values": {
+      "thickness": "7.6",
+      "width": "4",
+      "length": "6",
+      "quantity": "7"
+    },
+    "expectedTotal": 254.9054592
+  },
+  {
+    "source": "FB!M280",
+    "material": "flat",
+    "values": {
+      "thickness": "7.6",
+      "width": "5",
+      "length": "6",
+      "quantity": "1"
+    },
+    "expectedTotal": 45.518832
+  },
+  {
+    "source": "FB!M282",
+    "material": "flat",
+    "values": {
+      "thickness": "7.6",
+      "width": "6",
+      "length": "6",
+      "quantity": "2"
+    },
+    "expectedTotal": 109.24519679999999
+  },
+  {
+    "source": "FB!M283",
+    "material": "flat",
+    "values": {
+      "thickness": "7.6",
+      "width": "8",
+      "length": "6",
+      "quantity": "7"
+    },
+    "expectedTotal": 509.8109184
+  },
+  {
+    "source": "FB!M287",
+    "material": "flat",
+    "values": {
+      "thickness": "7.8",
+      "width": "1.5",
+      "length": "6",
+      "quantity": "1"
+    },
+    "expectedTotal": 14.015008799999997
+  },
+  {
+    "source": "FB!M289",
+    "material": "flat",
+    "values": {
+      "thickness": "7.8",
+      "width": "2.5",
+      "length": "6",
+      "quantity": "5"
+    },
+    "expectedTotal": 116.79174
+  },
+  {
+    "source": "FB!M294",
+    "material": "flat",
+    "values": {
+      "thickness": "7.8",
+      "width": "8",
+      "length": "6",
+      "quantity": "5"
+    },
+    "expectedTotal": 373.733568
+  },
+  {
+    "source": "FB!M305",
+    "material": "flat",
+    "values": {
+      "thickness": "8",
+      "width": "6",
+      "length": "6",
+      "quantity": "60"
+    },
+    "expectedTotal": 3449.8483200000005
+  },
+  {
+    "source": "FB!M308",
+    "material": "flat",
+    "values": {
+      "thickness": "8",
+      "width": "1.25",
+      "length": "6",
+      "quantity": "7"
+    },
+    "expectedTotal": 83.85048
+  },
+  {
+    "source": "FB!M310",
+    "material": "flat",
+    "values": {
+      "thickness": "8.5",
+      "width": "1.5",
+      "length": "6",
+      "quantity": "4"
+    },
+    "expectedTotal": 61.09106400000001
+  },
+  {
+    "source": "FB!M311",
+    "material": "flat",
+    "values": {
+      "thickness": "8.5",
+      "width": "2",
+      "length": "6",
+      "quantity": "4"
+    },
+    "expectedTotal": 81.454752
+  },
+  {
+    "source": "FB!M312",
+    "material": "flat",
+    "values": {
+      "thickness": "8.5",
+      "width": "2.5",
+      "length": "6",
+      "quantity": "4"
+    },
+    "expectedTotal": 101.81844000000001
+  },
+  {
+    "source": "FB!M313",
+    "material": "flat",
+    "values": {
+      "thickness": "8.5",
+      "width": "3",
+      "length": "6",
+      "quantity": "2"
+    },
+    "expectedTotal": 61.09106400000001
+  },
+  {
+    "source": "FB!M315",
+    "material": "flat",
+    "values": {
+      "thickness": "8.5",
+      "width": "4",
+      "length": "6",
+      "quantity": "3"
+    },
+    "expectedTotal": 122.18212800000002
+  },
+  {
+    "source": "FB!M317",
+    "material": "flat",
+    "values": {
+      "thickness": "8.5",
+      "width": "5",
+      "length": "6",
+      "quantity": "10"
+    },
+    "expectedTotal": 509.09220000000005
+  },
+  {
+    "source": "FB!M318",
+    "material": "flat",
+    "values": {
+      "thickness": "8.5",
+      "width": "6",
+      "length": "6",
+      "quantity": "14"
+    },
+    "expectedTotal": 855.274896
+  },
+  {
+    "source": "FB!M320",
+    "material": "flat",
+    "values": {
+      "thickness": "8.8000000000000007",
+      "width": "1",
+      "length": "6",
+      "quantity": "1"
+    },
+    "expectedTotal": 10.5412032
+  },
+  {
+    "source": "FB!M321",
+    "material": "flat",
+    "values": {
+      "thickness": "8.8000000000000007",
+      "width": "1.25",
+      "length": "6",
+      "quantity": "1"
+    },
+    "expectedTotal": 13.176504
+  },
+  {
+    "source": "FB!M322",
+    "material": "flat",
+    "values": {
+      "thickness": "8.8000000000000007",
+      "width": "1.5",
+      "length": "6",
+      "quantity": "53"
+    },
+    "expectedTotal": 838.0256544000001
+  },
+  {
+    "source": "FB!M325",
+    "material": "flat",
+    "values": {
+      "thickness": "8.8000000000000007",
+      "width": "2.5",
+      "length": "6",
+      "quantity": "8"
+    },
+    "expectedTotal": 210.824064
+  },
+  {
+    "source": "FB!M326",
+    "material": "flat",
+    "values": {
+      "thickness": "8.8000000000000007",
+      "width": "3",
+      "length": "6",
+      "quantity": "4"
+    },
+    "expectedTotal": 126.4944384
+  },
+  {
+    "source": "FB!M328",
+    "material": "flat",
+    "values": {
+      "thickness": "8.8000000000000007",
+      "width": "4",
+      "length": "6",
+      "quantity": "1"
+    },
+    "expectedTotal": 42.1648128
+  },
+  {
+    "source": "FB!M336",
+    "material": "flat",
+    "values": {
+      "thickness": "8.8000000000000007",
+      "width": "52.32",
+      "length": "6",
+      "quantity": "1"
+    },
+    "expectedTotal": 551.515751424
+  },
+  {
+    "source": "FB!M337",
+    "material": "flat",
+    "values": {
+      "thickness": "8.8000000000000007",
+      "width": "8",
+      "length": "6",
+      "quantity": "1"
+    },
+    "expectedTotal": 84.3296256
+  },
+  {
+    "source": "FB!M343",
+    "material": "flat",
+    "values": {
+      "thickness": "9",
+      "width": "3.5",
+      "length": "6",
+      "quantity": "4"
+    },
+    "expectedTotal": 150.930864
+  },
+  {
+    "source": "FB!M345",
+    "material": "flat",
+    "values": {
+      "thickness": "9",
+      "width": "5",
+      "length": "6",
+      "quantity": "1"
+    },
+    "expectedTotal": 53.90388000000001
+  },
+  {
+    "source": "FB!M352",
+    "material": "flat",
+    "values": {
+      "thickness": "9.3000000000000007",
+      "width": "4",
+      "length": "6",
+      "quantity": "4"
+    },
+    "expectedTotal": 178.24216320000002
+  },
+  {
+    "source": "FB!M355",
+    "material": "flat",
+    "values": {
+      "thickness": "9.5",
+      "width": "1",
+      "length": "6",
+      "quantity": "5"
+    },
+    "expectedTotal": 56.89854
+  },
+  {
+    "source": "FB!M357",
+    "material": "flat",
+    "values": {
+      "thickness": "9.5",
+      "width": "2",
+      "length": "6",
+      "quantity": "12"
+    },
+    "expectedTotal": 273.11299199999996
+  },
+  {
+    "source": "FB!M359",
+    "material": "flat",
+    "values": {
+      "thickness": "9.5",
+      "width": "2.5",
+      "length": "6",
+      "quantity": "6"
+    },
+    "expectedTotal": 170.69562
+  },
+  {
+    "source": "FB!M360",
+    "material": "flat",
+    "values": {
+      "thickness": "9.5",
+      "width": "3",
+      "length": "6",
+      "quantity": "14"
+    },
+    "expectedTotal": 477.94773599999996
+  },
+  {
+    "source": "FB!M363",
+    "material": "flat",
+    "values": {
+      "thickness": "9.5",
+      "width": "3.5",
+      "length": "6",
+      "quantity": "3"
+    },
+    "expectedTotal": 119.48693399999999
+  },
+  {
+    "source": "FB!M364",
+    "material": "flat",
+    "values": {
+      "thickness": "9.5",
+      "width": "4",
+      "length": "6",
+      "quantity": "54"
+    },
+    "expectedTotal": 2458.016928
+  },
+  {
+    "source": "FB!M377",
+    "material": "flat",
+    "values": {
+      "thickness": "9.6",
+      "width": "2",
+      "length": "6",
+      "quantity": "1"
+    },
+    "expectedTotal": 22.998988799999996
+  },
+  {
+    "source": "FB!M381",
+    "material": "flat",
+    "values": {
+      "thickness": "9.8000000000000007",
+      "width": "1.57",
+      "length": "6",
+      "quantity": "4"
+    },
+    "expectedTotal": 73.721342016
+  },
+  {
+    "source": "FB!M382",
+    "material": "flat",
+    "values": {
+      "thickness": "9.8000000000000007",
+      "width": "2",
+      "length": "6",
+      "quantity": "5"
+    },
+    "expectedTotal": 117.39067200000001
+  },
+  {
+    "source": "FB!M383",
+    "material": "flat",
+    "values": {
+      "thickness": "9.8000000000000007",
+      "width": "2.5",
+      "length": "6",
+      "quantity": "6"
+    },
+    "expectedTotal": 176.086008
+  },
+  {
+    "source": "FB!M386",
+    "material": "flat",
+    "values": {
+      "thickness": "9.8000000000000007",
+      "width": "3",
+      "length": "6",
+      "quantity": "21"
+    },
+    "expectedTotal": 739.5612336
+  },
+  {
+    "source": "FB!M389",
+    "material": "flat",
+    "values": {
+      "thickness": "9.8000000000000007",
+      "width": "3.5",
+      "length": "6",
+      "quantity": "1"
+    },
+    "expectedTotal": 41.08673520000001
+  },
+  {
+    "source": "FB!M391",
+    "material": "flat",
+    "values": {
+      "thickness": "9.8000000000000007",
+      "width": "4",
+      "length": "6",
+      "quantity": "8"
+    },
+    "expectedTotal": 375.65015040000003
+  },
+  {
+    "source": "FB!M407",
+    "material": "flat",
+    "values": {
+      "thickness": "10",
+      "width": "4.5",
+      "length": "6",
+      "quantity": "77"
+    },
+    "expectedTotal": 4150.598760000001
+  },
+  {
+    "source": "FB!M408",
+    "material": "flat",
+    "values": {
+      "thickness": "10",
+      "width": "5",
+      "length": "6",
+      "quantity": "2"
+    },
+    "expectedTotal": 119.7864
+  },
+  {
+    "source": "FB!M418",
+    "material": "flat",
+    "values": {
+      "thickness": "11.5",
+      "width": "2.5",
+      "length": "6",
+      "quantity": "1"
+    },
+    "expectedTotal": 34.438590000000005
+  },
+  {
+    "source": "FB!M424",
+    "material": "flat",
+    "values": {
+      "thickness": "11.5",
+      "width": "12",
+      "length": "6",
+      "quantity": "1"
+    },
+    "expectedTotal": 165.30523200000002
+  },
+  {
+    "source": "FB!M425",
+    "material": "flat",
+    "values": {
+      "thickness": "11.5",
+      "width": "13",
+      "length": "6",
+      "quantity": "1"
+    },
+    "expectedTotal": 179.080668
+  },
+  {
+    "source": "FB!M428",
+    "material": "flat",
+    "values": {
+      "thickness": "11.8",
+      "width": "2",
+      "length": "6",
+      "quantity": "1"
+    },
+    "expectedTotal": 28.269590400000002
+  },
+  {
+    "source": "FB!M429",
+    "material": "flat",
+    "values": {
+      "thickness": "11.8",
+      "width": "3",
+      "length": "6",
+      "quantity": "9"
+    },
+    "expectedTotal": 381.6394704000001
+  },
+  {
+    "source": "FB!M445",
+    "material": "flat",
+    "values": {
+      "thickness": "12",
+      "width": "1.5",
+      "length": "6",
+      "quantity": "8"
+    },
+    "expectedTotal": 172.49241600000002
+  },
+  {
+    "source": "FB!M447",
+    "material": "flat",
+    "values": {
+      "thickness": "12",
+      "width": "2.5",
+      "length": "6",
+      "quantity": "1"
+    },
+    "expectedTotal": 35.93592
+  },
+  {
+    "source": "FB!M450",
+    "material": "flat",
+    "values": {
+      "thickness": "12",
+      "width": "3.5",
+      "length": "6",
+      "quantity": "3"
+    },
+    "expectedTotal": 150.930864
+  },
+  {
+    "source": "FB!M452",
+    "material": "flat",
+    "values": {
+      "thickness": "12",
+      "width": "4.5",
+      "length": "6",
+      "quantity": "2"
+    },
+    "expectedTotal": 129.36931199999998
+  },
+  {
+    "source": "FB!M454",
+    "material": "flat",
+    "values": {
+      "thickness": "12",
+      "width": "5.51",
+      "length": "6",
+      "quantity": "1"
+    },
+    "expectedTotal": 79.20276768000001
+  },
+  {
+    "source": "FB!M455",
+    "material": "flat",
+    "values": {
+      "thickness": "12",
+      "width": "6",
+      "length": "6",
+      "quantity": "1"
+    },
+    "expectedTotal": 86.24620800000001
+  },
+  {
+    "source": "FB!M461",
+    "material": "flat",
+    "values": {
+      "thickness": "12",
+      "width": "40.5",
+      "length": "6",
+      "quantity": "1"
+    },
+    "expectedTotal": 582.161904
+  },
+  {
+    "source": "FB!M467",
+    "material": "flat",
+    "values": {
+      "thickness": "13.8",
+      "width": "4.5",
+      "length": "6",
+      "quantity": "1"
+    },
+    "expectedTotal": 74.3873544
+  },
+  {
+    "source": "FB!M468",
+    "material": "flat",
+    "values": {
+      "thickness": "13.8",
+      "width": "5",
+      "length": "6",
+      "quantity": "1"
+    },
+    "expectedTotal": 82.65261600000001
+  },
+  {
+    "source": "FB!M478",
+    "material": "flat",
+    "values": {
+      "thickness": "15.8",
+      "width": "1.5",
+      "length": "6",
+      "quantity": "1"
+    },
+    "expectedTotal": 28.3893768
+  },
+  {
+    "source": "FB!M479",
+    "material": "flat",
+    "values": {
+      "thickness": "15.8",
+      "width": "2.25",
+      "length": "6",
+      "quantity": "1"
+    },
+    "expectedTotal": 42.584065200000005
+  },
+  {
+    "source": "FB!M484",
+    "material": "flat",
+    "values": {
+      "thickness": "15.8",
+      "width": "8",
+      "length": "6",
+      "quantity": "1"
+    },
+    "expectedTotal": 151.41000960000002
+  },
+  {
+    "source": "FB!M489",
+    "material": "flat",
+    "values": {
+      "thickness": "16",
+      "width": "2.5",
+      "length": "6",
+      "quantity": "1"
+    },
+    "expectedTotal": 47.91456
+  },
+  {
+    "source": "FB!M491",
+    "material": "flat",
+    "values": {
+      "thickness": "16",
+      "width": "3.35",
+      "length": "6",
+      "quantity": "3"
+    },
+    "expectedTotal": 192.6165312
+  },
+  {
+    "source": "FB!M492",
+    "material": "flat",
+    "values": {
+      "thickness": "16",
+      "width": "3.5",
+      "length": "6",
+      "quantity": "5"
+    },
+    "expectedTotal": 335.40192
+  },
+  {
+    "source": "FB!M505",
+    "material": "flat",
+    "values": {
+      "thickness": "18.8",
+      "width": "2.5",
+      "length": "6",
+      "quantity": "3"
+    },
+    "expectedTotal": 168.898824
+  },
+  {
+    "source": "FB!M506",
+    "material": "flat",
+    "values": {
+      "thickness": "18.8",
+      "width": "3",
+      "length": "6",
+      "quantity": "1"
+    },
+    "expectedTotal": 67.5595296
+  },
+  {
+    "source": "FB!M507",
+    "material": "flat",
+    "values": {
+      "thickness": "18.8",
+      "width": "4",
+      "length": "6",
+      "quantity": "4"
+    },
+    "expectedTotal": 360.31749120000006
+  },
+  {
+    "source": "FB!M527",
+    "material": "flat",
+    "values": {
+      "thickness": "25",
+      "width": "4",
+      "length": "6",
+      "quantity": "1"
+    },
+    "expectedTotal": 119.7864
+  },
+  {
+    "source": "FB!M528",
+    "material": "flat",
+    "values": {
+      "thickness": "25",
+      "width": "4.5",
+      "length": "6",
+      "quantity": "1"
+    },
+    "expectedTotal": 134.7597
+  },
+  {
+    "source": "FB!M534",
+    "material": "flat",
+    "values": {
+      "thickness": "2.2999999999999998",
+      "width": "9.65",
+      "length": "6",
+      "quantity": "133"
+    },
+    "expectedTotal": 3536.016666840001
+  },
+  {
+    "source": "FB!M535",
+    "material": "flat",
+    "values": {
+      "thickness": "2.5",
+      "width": "9.65",
+      "length": "6",
+      "quantity": "15"
+    },
+    "expectedTotal": 433.47703500000006
+  },
+  {
+    "source": "TB!O9",
+    "material": "tubular",
+    "values": {
+      "thickness": "1.5",
+      "width1": "25",
+      "width2": "25",
+      "length": "6",
+      "quantity": "1"
+    },
+    "expectedTotal": 6.64956
+  },
+  {
+    "source": "TB!O11",
+    "material": "tubular",
+    "values": {
+      "thickness": "1.5",
+      "width1": "50",
+      "width2": "50",
+      "length": "6",
+      "quantity": "16"
+    },
+    "expectedTotal": 219.57696
+  },
+  {
+    "source": "TB!O13",
+    "material": "tubular",
+    "values": {
+      "thickness": "1.5",
+      "width1": "50",
+      "width2": "75",
+      "length": "6",
+      "quantity": "1"
+    },
+    "expectedTotal": 17.26056
+  },
+  {
+    "source": "TB!O28",
+    "material": "tubular",
+    "values": {
+      "thickness": "3",
+      "width1": "40",
+      "width2": "40",
+      "length": "6",
+      "quantity": "23"
+    },
+    "expectedTotal": 481.59792000000004
+  },
+  {
+    "source": "TB!O42",
+    "material": "tubular",
+    "values": {
+      "thickness": "2",
+      "width1": "19",
+      "width2": "19",
+      "length": "6",
+      "quantity": "20"
+    },
+    "expectedTotal": 128.2752
+  },
+  {
+    "source": "TB!O70",
+    "material": "tubular",
+    "values": {
+      "thickness": "1.5",
+      "width1": "25",
+      "width2": "50",
+      "length": "6",
+      "quantity": "84"
+    },
+    "expectedTotal": 855.67104
+  },
+  {
+    "source": "TB!O71",
+    "material": "tubular",
+    "values": {
+      "thickness": "3",
+      "width1": "50",
+      "width2": "100",
+      "length": "6",
+      "quantity": "5"
+    },
+    "expectedTotal": 203.7312
+  }
+]
