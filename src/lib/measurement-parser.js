@@ -3,6 +3,7 @@ import { calculateWeight } from './calculations.js'
 import { convertLength, decimalInput } from './computation-tools.js'
 
 const aliases = [
+  [/^G\.?\s*I\.?\s+Z[- ]?PURLINS?\b/i, 'purlins', ['thickness', 'height', 'flange', 'length'], 'Z-PURLINS'],
   [/^GI\s+SHEET\b/i, 'plate', ['thickness', 'width', 'length'], 'GI SHEET'],
   [/^(?:M\.?\s*S\.?\s*PLATE)\b/i, 'plate', ['thickness', 'width', 'length']],
   [/^(?:CHECKERED|CHEQUERED)\s+PLATE\b/i, 'checkered', ['thickness', 'width', 'length']],
@@ -29,6 +30,8 @@ export function parseMeasurementMessage(text) {
     const item = { line: index + 1, original, material }
     let dimensions = line.replace(regex, '').trim()
     let statedWeight = null
+    const purlinRating = material === 'purlins' ? dimensions.match(/\s*[-=]\s*(\d+(?:\.\d+)?)\s*$/) : null
+    if (purlinRating) dimensions = dimensions.slice(0, purlinRating.index).trim()
     if (/[=-]/.test(dimensions)) {
       const parts = dimensions.split(/[=-]/)
       const weight = parts.length === 2 && parts[1].trim().match(/^(\d+(?:\.\d+)?)\s*(?:(?:kg|kgs|kls|kilos|kilograms?)(?:\s*(?:\/\s*(?:pc|piece)|per\s+piece))?)?\s*$/i)
@@ -44,6 +47,7 @@ export function parseMeasurementMessage(text) {
     }
     const values = initialValues(material)
     if (plateType) values.plateType = plateType
+    if (material === 'purlins') values.developedWidth = '1'
     const conversions = []
     let error = ''
     for (let i = 0; i < keys.length; i++) {
@@ -58,7 +62,11 @@ export function parseMeasurementMessage(text) {
     if (error) { items.push({ ...item, error }); continue }
     const calculation = calculateWeight(material, values)
     if (!calculation.result) { items.push({ ...item, error: Object.values(calculation.errors).join(' ') }); continue }
-    items.push({ ...item, values, conversions, result: calculation.result, statedWeight, difference: statedWeight === null ? null : calculation.result.perPiece - statedWeight })
+    if (purlinRating) {
+      statedWeight = Number(purlinRating[1]) * Number(values.length)
+      conversions.push({ label: 'Supplier rating', entered: `${purlinRating[1]} kg/m`, converted: statedWeight, unit: 'kg / piece' })
+    }
+    items.push({ ...item, values, conversions, result: purlinRating ? { ...calculation.result, perPiece: statedWeight, total: statedWeight } : calculation.result, statedWeight: purlinRating ? null : statedWeight, difference: null })
   }
   return { items, ignored, error: null }
 }
